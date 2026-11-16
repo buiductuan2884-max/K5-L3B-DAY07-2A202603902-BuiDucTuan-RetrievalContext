@@ -24,3 +24,7 @@ $PY -m unittest discover -s tests -v
 
 Cấu hình agent nằm trong `configs/*.json`: `method`, `top_k`, `max_searches`, `budget_chars`, `use_filter`, `context_policy` (`first` | `score`).
 `cases.json` trong thư mục kết quả agent dùng được với `starter/agent_metrics.py`.
+
+## Demo
+
+`streamlit run app.py` từ thư mục gốc (Python có `streamlit`, `pymupdf`, `openai`, `chromadb`). Tab "Hỏi thử" gọi OpenAI thật nên có tốn phí; các tab còn lại chỉ đọc kết quả đã lưu trong `results/`.
