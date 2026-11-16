@@ -1,0 +1,61 @@
+{
+  "method": "dense",
+  "split": "test",
+  "use_filter": false,
+  "top_k": 10,
+  "Hit@1": {
+    "n": 13,
+    "N": 24,
+    "rate": 0.5416666666666666
+  },
+  "Hit@3": {
+    "n": 20,
+    "N": 24,
+    "rate": 0.8333333333333334
+  },
+  "Hit@10": {
+    "n": 24,
+    "N": 24,
+    "rate": 1.0
+  },
+  "MRR@10": {
+    "n": 16.95,
+    "N": 24,
+    "rate": 0.7062499999999999
+  },
+  "Hit@10_by_group": {
+    "table": {
+      "n": 6,
+      "N": 6,
+      "rate": 1.0
+    },
+    "image": {
+      "n": 5,
+      "N": 5,
+      "rate": 1.0
+    },
+    "chart": {
+      "n": 5,
+      "N": 5,
+      "rate": 1.0
+    },
+    "multi_hop": {
+      "n": 4,
+      "N": 4,
+      "rate": 1.0
+    },
+    "text": {
+      "n": 4,
+      "N": 4,
+      "rate": 1.0
+    }
+  },
+  "total_time_s": 17.486596000002464,
+  "embedding_tokens": 716,
+  "cost_usd": 1.432e-05,
+  "index": {
+    "collection": "econ2e_full",
+    "bm25_corpus": null,
+    "n_chunks": 3841
+  }
+}

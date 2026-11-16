@@ -1,0 +1,516 @@
+{
+ "standard": "Answerable: pass if correct and complete with supporting citation. No-evidence: pass if it gives no value for the asked year/item and clearly says the evidence is missing (mentioning the nearest available figure is allowed); claiming or implying the missing value is a fail.",
+ "grader": "Opus (AI), to be confirmed by the student",
+ "runs": {
+  "advanced_hybrid_41mini": {
+   "config": "configs/advanced_hybrid_41mini.json",
+   "pass": 16,
+   "N": 19,
+   "labels": [
+    {
+     "query_id": "ad01",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad02",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad03",
+     "label": "fail",
+     "reason": "answer says education spending \"not detailed\" (Table 6.1 p.145 part not retrieved)"
+    },
+    {
+     "query_id": "ad04",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad05",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad06",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad07",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad08",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad09",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad10",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad11",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad12",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad13",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad14",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad15",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad16",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad17",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad18",
+     "label": "fail",
+     "reason": "says 2015 figure \"gives an indication ... around that period\" (implied estimate)"
+    },
+    {
+     "query_id": "ad19",
+     "label": "fail",
+     "reason": "claims 591,000 members in 2010 from 2015 data"
+    }
+   ]
+  },
+  "advanced_hybrid_41mini_verify": {
+   "config": "configs/advanced_hybrid_41mini_verify.json",
+   "pass": 17,
+   "N": 19,
+   "labels": [
+    {
+     "query_id": "ad01",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad02",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad03",
+     "label": "fail",
+     "reason": "abstained on an answerable question (p.145 part not retrieved)"
+    },
+    {
+     "query_id": "ad04",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad05",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad06",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad07",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad08",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad09",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad10",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad11",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad12",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad13",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad14",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad15",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad16",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad17",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad18",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad19",
+     "label": "fail",
+     "reason": "claims 591,000 members in 2010; judge gpt-4.1-mini accepted it"
+    }
+   ]
+  },
+  "advanced_hybrid_41mini_verify41": {
+   "config": "configs/advanced_hybrid_41mini_verify41.json",
+   "pass": 18,
+   "N": 19,
+   "labels": [
+    {
+     "query_id": "ad01",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad02",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad03",
+     "label": "fail",
+     "reason": "answer says education spending \"not detailed\" (no expand_region)"
+    },
+    {
+     "query_id": "ad04",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad05",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad06",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad07",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad08",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad09",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad10",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad11",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad12",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad13",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad14",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad15",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad16",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad17",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad18",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad19",
+     "label": "pass",
+     "reason": "meets the standard"
+    }
+   ]
+  },
+  "advanced_final_candidate": {
+   "config": "configs/advanced_final_candidate.json",
+   "pass": 18,
+   "N": 19,
+   "labels": [
+    {
+     "query_id": "ad01",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad02",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad03",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad04",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad05",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad06",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad07",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad08",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad09",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad10",
+     "label": "fail",
+     "reason": "Figure 30.8 value stated but its chunk never cited; judge rejected twice -> abstain"
+    },
+    {
+     "query_id": "ad11",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad12",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad13",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad14",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad15",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad16",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad17",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad18",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad19",
+     "label": "pass",
+     "reason": "meets the standard"
+    }
+   ]
+  },
+  "advanced_gpt41": {
+   "config": "configs/advanced_gpt41.json",
+   "pass": 19,
+   "N": 19,
+   "labels": [
+    {
+     "query_id": "ad01",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad02",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad03",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad04",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad05",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad06",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad07",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad08",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad09",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad10",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad11",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad12",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad13",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad14",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad15",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad16",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad17",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad18",
+     "label": "pass",
+     "reason": "meets the standard"
+    },
+    {
+     "query_id": "ad19",
+     "label": "pass",
+     "reason": "meets the standard"
+    }
+   ]
+  }
+ }
+}

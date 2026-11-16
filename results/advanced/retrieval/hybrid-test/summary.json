@@ -1,0 +1,61 @@
+{
+  "method": "hybrid",
+  "split": "test",
+  "use_filter": false,
+  "top_k": 10,
+  "Hit@1": {
+    "n": 14,
+    "N": 24,
+    "rate": 0.5833333333333334
+  },
+  "Hit@3": {
+    "n": 21,
+    "N": 24,
+    "rate": 0.875
+  },
+  "Hit@10": {
+    "n": 24,
+    "N": 24,
+    "rate": 1.0
+  },
+  "MRR@10": {
+    "n": 17.5,
+    "N": 24,
+    "rate": 0.7291666666666666
+  },
+  "Hit@10_by_group": {
+    "table": {
+      "n": 6,
+      "N": 6,
+      "rate": 1.0
+    },
+    "image": {
+      "n": 5,
+      "N": 5,
+      "rate": 1.0
+    },
+    "chart": {
+      "n": 5,
+      "N": 5,
+      "rate": 1.0
+    },
+    "multi_hop": {
+      "n": 4,
+      "N": 4,
+      "rate": 1.0
+    },
+    "text": {
+      "n": 4,
+      "N": 4,
+      "rate": 1.0
+    }
+  },
+  "total_time_s": 0.6566167999990284,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0,
+  "index": {
+    "collection": "econ2e_full",
+    "bm25_corpus": "chunks.json",
+    "n_chunks": 3841
+  }
+}

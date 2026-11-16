@@ -1,0 +1,186 @@
+[
+ {
+  "id": "t41",
+  "split": "test",
+  "type": "numeric",
+  "question": "What was the median salary for nurses in 2014?",
+  "expected_answer": "$67,490.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 111,
+    "evidence": "In 2014, the median salary for nurses was $67,490."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t42",
+  "split": "test",
+  "type": "numeric",
+  "question": "How many U.S. consumers canceled their Netflix subscriptions after the 2011 price increase?",
+  "expected_answer": "About 810,000, dropping total U.S. subscribers to 23.79 million.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 135,
+    "evidence": "After the price increase, 810,000 infuriated U.S. consumers canceled their Netflix subscriptions"
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t43",
+  "split": "test",
+  "type": "direct",
+  "question": "In financial markets, are people who save money on the supply side or the demand side?",
+  "expected_answer": "The supply side; borrowers are on the demand side.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 103,
+    "evidence": "Those who save money (or make financial investments, which is the same thing), whether individuals or businesses, are on the supply side of the financial market."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t44",
+  "split": "test",
+  "type": "direct",
+  "question": "What is infinite or perfect elasticity?",
+  "expected_answer": "The extreme case where quantity demanded or supplied changes by an infinite amount in response to any change in price.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 123,
+    "evidence": "Infinite elasticity or perfect elasticity refers to the extreme case where either the quantity demanded (Qd) or supplied (Qs) changes by an infinite amount in response to any change in price at all."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t45",
+  "split": "test",
+  "type": "direct",
+  "question": "What is quantity demanded?",
+  "expected_answer": "The total number of units consumers would purchase at a given price; a specific point on the demand curve.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 57,
+    "evidence": "The total number of units that consumers would purchase at that price is called the quantity demanded."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t46",
+  "split": "test",
+  "type": "cross_lingual",
+  "question": "Vì sao thời tiết mùa hè năm 2015 lại thuận lợi cho việc đánh bắt cá hồi ngoài khơi California?",
+  "expected_answer": "Mưa lớn làm nước sông cao giúp cá hồi sinh sản, nước biển mát hơn kích thích sinh vật phù du phát triển, biển lặng nên ít mất ngày đánh bắt.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 72,
+    "evidence": "Heavy rains meant higher than normal levels of water in the rivers, which helps the salmon to breed."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t47",
+  "split": "test",
+  "type": "condition",
+  "question": "If demand for nurses rises while the supply of nurses falls, what happens to nurse salaries and to the number of nurses?",
+  "expected_answer": "Salaries rise; the effect on the number of nurses is uncertain and depends on the relative size of the shifts.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 111,
+    "evidence": "The shifts in the two curves result in higher salaries for nurses, but the overall impact in the quantity of nurses is uncertain, as it depends on the relative shifts of supply and demand."
+   }
+  ],
+  "filter": {
+   "chapter": 4
+  }
+ },
+ {
+  "id": "t48",
+  "split": "test",
+  "type": "numeric",
+  "question": "In the constant unitary elasticity demand example, by what percentage do price and quantity change between points C and D?",
+  "expected_answer": "22.2% for both price and quantity.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e",
+    "page": 124,
+    "evidence": "between points C and D the corresponding percentage changes are 22.2% for both price and quantity."
+   }
+  ],
+  "filter": null
+ },
+ {
+  "id": "t49",
+  "split": "test",
+  "type": "no_evidence",
+  "question": "What was the U.S. federal minimum wage in 2022?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Chapters 3-5 give the minimum wage only for 2016 ($7.25) and earlier. Checked PDF pages 55-136: the only '2022' is a nurse-demand forecast on p.93."
+ },
+ {
+  "id": "t50",
+  "split": "test",
+  "type": "no_evidence",
+  "question": "What is the price elasticity of demand for electric cars?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "The elasticity tables in chapter 5 do not list electric cars. Checked: no 'electric car' in PDF pages 55-136."
+ },
+ {
+  "id": "t51",
+  "split": "test",
+  "type": "no_evidence",
+  "question": "What is the marginal propensity to consume?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "A macroeconomics concept outside chapters 3-5. Checked: no 'propensity' in PDF pages 55-136."
+ },
+ {
+  "id": "q52",
+  "split": "dev",
+  "type": "no_evidence",
+  "question": "What was the median salary for nurses in 2020?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Only $67,490 (labelled 2014 on p.111, 2015 on p.93) appears. Checked PDF pages 55-136: the only '2020' is an EU farm-support period on p.80."
+ },
+ {
+  "id": "q53",
+  "split": "dev",
+  "type": "no_evidence",
+  "question": "What is the price elasticity of demand for gasoline in Vietnam?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "No gasoline elasticity for Vietnam. Checked PDF pages 55-136: 'Vietnam' appears only as a coffee exporter on p.129."
+ },
+ {
+  "id": "q54",
+  "split": "dev",
+  "type": "no_evidence",
+  "question": "Theo sách, tỷ lệ lạm phát của Mỹ năm 2015 là bao nhiêu?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Inflation rates are not reported in chapters 3-5. Checked: no 'inflation rate' in PDF pages 55-136."
+ }
+]

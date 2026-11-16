@@ -1,0 +1,1 @@
+{"method": "bm25", "top_k": 3, "max_searches": 1, "budget_chars": 2400, "use_filter": false, "context_policy": "first"}

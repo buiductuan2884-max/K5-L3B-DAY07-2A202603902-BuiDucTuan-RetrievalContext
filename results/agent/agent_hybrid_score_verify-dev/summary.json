@@ -1,0 +1,50 @@
+{
+ "config": {
+  "method": "hybrid",
+  "top_k": 5,
+  "max_searches": 3,
+  "budget_chars": 3600,
+  "use_filter": false,
+  "context_policy": "score",
+  "verify": true
+ },
+ "name": "agent_hybrid_score_verify",
+ "split": "dev",
+ "model": "gpt-4o-mini",
+ "n_questions": 43,
+ "status_counts": {
+  "answered": 38,
+  "abstain": 5
+ },
+ "answered_abstain_by_answerable": {
+  "answerable": {
+   "answered": 38,
+   "abstain": 2
+  },
+  "unanswerable": {
+   "abstain": 3
+  }
+ },
+ "tool_use": {
+  "n": 41,
+  "N": 43,
+  "rate": 0.9534883720930233
+ },
+ "searches_distribution": {
+  "0": 2,
+  "1": 38,
+  "2": 2,
+  "3": 1
+ },
+ "context_evidence_rate": {
+  "n": 31,
+  "N": 40,
+  "rate": 0.775
+ },
+ "total_latency_s": 221.73819229990477,
+ "mean_latency_s": 5.156702146509414,
+ "prompt_tokens": 71415,
+ "completion_tokens": 7392,
+ "embedding_tokens": 0,
+ "cost_usd": 0.0195183
+}

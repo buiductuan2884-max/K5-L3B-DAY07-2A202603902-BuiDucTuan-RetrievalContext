@@ -1,0 +1,52 @@
+{
+ "config": {
+  "method": "hybrid",
+  "top_k": 6,
+  "max_searches": 4,
+  "budget_chars": 9000,
+  "use_filter": false,
+  "context_policy": "score",
+  "model": "gpt-4.1",
+  "verify": true,
+  "verify_model": "gpt-4.1",
+  "expand_region": true
+ },
+ "name": "advanced_gpt41",
+ "split": "dev",
+ "model": "gpt-4.1",
+ "n_questions": 19,
+ "status_counts": {
+  "answered": 18,
+  "abstain": 1
+ },
+ "answered_abstain_by_answerable": {
+  "answerable": {
+   "answered": 16
+  },
+  "unanswerable": {
+   "abstain": 1,
+   "answered": 2
+  }
+ },
+ "tool_use": {
+  "n": 19,
+  "N": 19,
+  "rate": 1.0
+ },
+ "searches_distribution": {
+  "1": 13,
+  "2": 4,
+  "3": 2
+ },
+ "context_evidence_rate": {
+  "n": 16,
+  "N": 16,
+  "rate": 1.0
+ },
+ "total_latency_s": 79.65933960003895,
+ "mean_latency_s": 4.192596821054681,
+ "prompt_tokens": 61241,
+ "completion_tokens": 2441,
+ "embedding_tokens": 206,
+ "cost_usd": 0.17220212
+}

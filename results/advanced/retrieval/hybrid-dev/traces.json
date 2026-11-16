@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "ad01",
+    "query": "What share of U.S. R&D funding came from nonprofits in 2015, and how much was it?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "76bc27b9fcd58595",
+        "page": 318,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "ce7967e005c0b117",
+        "page": 318,
+        "score": 0.03252247488101534,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "559432eb1232e2d8",
+        "page": 319,
+        "score": 0.03125763125763126,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "813a4b9df46fe551",
+        "page": 768,
+        "score": 0.03125,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "9085619b47ea079d",
+        "page": 318,
+        "score": 0.030309988518943745,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "874d1d5a65a3f80c",
+        "page": 953,
+        "score": 0.030158730158730156,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4c303d69f35d1050",
+        "page": 325,
+        "score": 0.02758751902587519,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "13bdf5d541078193",
+        "page": 953,
+        "score": 0.026992753623188405,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "2832cf45518db920",
+        "page": 319,
+        "score": 0.015151515151515152,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "c29c7f71dedf1f3c",
+        "page": 327,
+        "score": 0.015151515151515152,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.18594949998077936
+  },
+  {
+    "id": "ad02",
+    "query": "How much did a movie ticket cost in 1970 and in 2017 according to Table 22.1?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "db18a8d381d393ff",
+        "page": 539,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "8312d53538d52717",
+        "page": 539,
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "e5a67c44434bb435",
+        "page": 538,
+        "score": 0.03057889822595705,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "f18d03274d3d16ff",
+        "page": 91,
+        "score": 0.03057889822595705,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "d8b5670f89cb210f",
+        "page": 538,
+        "score": 0.029709507042253523,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "cb5e4a80de121688",
+        "page": 959,
+        "score": 0.028371628371628373,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "69afb254404ae5b3",
+        "page": 91,
+        "score": 0.027809742999616416,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "f3837a3f111425bd",
+        "page": 540,
+        "score": 0.015625,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "1bdc05fc5aa5ece5",
+        "page": 43,
+        "score": 0.015384615384615385,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "ca7f30d0d9c6dab7",
+        "page": 83,
+        "score": 0.015151515151515152,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.012944999994942918
+  },
+  {
+    "id": "ad03",
+    "query": "How much did the average U.S. household spend on education in 2015?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "4f06fc084813f1c2",
+        "page": 144,
+        "score": 0.032266458495966696,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "fb2f600575a2a2ea",
+        "page": 144,
+        "score": 0.0315136476426799,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "798447e425e32eb6",
+        "page": 956,
+        "score": 0.028850145288501453,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "4d0363536f8144cf",
+        "page": 158,
+        "score": 0.027212143650499815,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "9a4ffd25a08dd9c8",
+        "page": 768,
+        "score": 0.01639344262295082,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "555302cdb30ecb21",
+        "page": 768,
+        "score": 0.016129032258064516,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a424a4b7ce973a61",
+        "page": 495,
+        "score": 0.015873015873015872,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "12d63f2c494ed6f6",
+        "page": 762,
+        "score": 0.015625,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4d0acea6b0fe2e7f",
+        "page": 441,
+        "score": 0.015625,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "589ea0c6503e7aac",
+        "page": 441,
+        "score": 0.015384615384615385,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.012296400003833696
+  },
+  {
+    "id": "ad04",
+    "query": "In the circular flow diagram, what flow labelled D goes from firms to households?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a45dbf0e0878577a",
+        "page": 27,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "15d0569ccb04466c",
+        "page": 27,
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "3a578a3777d15cfe",
+        "page": 27,
+        "score": 0.031746031746031744,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "efcc75885386acc7",
+        "page": 34,
+        "score": 0.03055037313432836,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "0ced1e5005ec78cc",
+        "page": 33,
+        "score": 0.030536130536130537,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "1d0671251125663a",
+        "page": 115,
+        "score": 0.029877369007803793,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "5130ee2ef7e103b4",
+        "page": 26,
+        "score": 0.0293236301369863,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "dbe29d2af71a5df1",
+        "page": 34,
+        "score": 0.02877846790890269,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "024bc43ad25a7f2b",
+        "page": 575,
+        "score": 0.027972027972027972,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "b5109efbc820b1b1",
+        "page": 15,
+        "score": 0.014925373134328358,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.009879899997031316
+  },
+  {
+    "id": "ad05",
+    "query": "In Figure 7.2, what defines monopolistic competition?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "57c004c48a4f5873",
+        "page": 246,
+        "score": 0.03177805800756621,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "a1b97753535a191a",
+        "page": 246,
+        "score": 0.031746031746031744,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "b3ec345b5719ed5f",
+        "page": 166,
+        "score": 0.0315136476426799,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "527eb85ac17e235b",
+        "page": 260,
+        "score": 0.03128054740957967,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "15d819bb429ce863",
+        "page": 247,
+        "score": 0.029850746268656716,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "0f2280f37d2f2bde",
+        "page": 246,
+        "score": 0.028665028665028666,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "1a9c6de356b5c3bd",
+        "page": 262,
+        "score": 0.02761904761904762,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "9e887877988d5c80",
+        "page": 251,
+        "score": 0.025,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "2882f3a23a04a590",
+        "page": 166,
+        "score": 0.01639344262295082,
+        "rank": 9,
+        "hit": true
+      },
+      {
+        "id": "5d058d8899b08773",
+        "page": 251,
+        "score": 0.015625,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 3,
+    "latency_s": 0.01045410000369884
+  },
+  {
+    "id": "ad06",
+    "query": "What does the \"merging currencies\" end of the exchange rate policy spectrum in Figure 29.10 mean?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "f871b432596f3a88",
+        "page": 717,
+        "score": 0.031544957774465976,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "62ca69b033219e5d",
+        "page": 721,
+        "score": 0.0315136476426799,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "8f974781afe66c13",
+        "page": 717,
+        "score": 0.0315136476426799,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "8e5c5c754a97478a",
+        "page": 722,
+        "score": 0.03057889822595705,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "c5587e4165c07e05",
+        "page": 717,
+        "score": 0.029910714285714284,
+        "rank": 5,
+        "hit": true
+      },
+      {
+        "id": "94069cfcf956dc48",
+        "page": 725,
+        "score": 0.028438886647841874,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "64cd10e6219452ce",
+        "page": 722,
+        "score": 0.027984344422700584,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "2da212bcb06723fe",
+        "page": 722,
+        "score": 0.02667140825035562,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "0795dfdfe3956198",
+        "page": 725,
+        "score": 0.02581612258494337,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "b232b7364d6450df",
+        "page": 721,
+        "score": 0.01639344262295082,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.012684499990427867
+  },
+  {
+    "id": "ad07",
+    "query": "In Figure 30.3, what share of federal spending went to national defense in 2014?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "b91418ff75c50b01",
+        "page": 731,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "c7b553e079f6d405",
+        "page": 732,
+        "score": 0.03252247488101534,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "267a89b119a40584",
+        "page": 730,
+        "score": 0.03125763125763126,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "cf43d429bdafeb06",
+        "page": 732,
+        "score": 0.03125763125763126,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "12a10bb6b2b59522",
+        "page": 731,
+        "score": 0.03125,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "0726937482221129",
+        "page": 750,
+        "score": 0.03007688828584351,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "5350798cc8d96bd0",
+        "page": 731,
+        "score": 0.028991596638655463,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "997bdc383cb38cf0",
+        "page": 735,
+        "score": 0.028985507246376812,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "61440e1c92528816",
+        "page": 737,
+        "score": 0.028814262023217248,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "ebaa5c23965089f3",
+        "page": 751,
+        "score": 0.02658450704225352,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.012123100023018196
+  },
+  {
+    "id": "ad08",
+    "query": "In Figure 19.3, what percentage of U.S. GDP on the demand side is government spending?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "184244e1bdc1f0b9",
+        "page": 456,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "f9230ad1c923bed1",
+        "page": 456,
+        "score": 0.031754032258064516,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "7030a69394a3a842",
+        "page": 456,
+        "score": 0.03028233151183971,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "c9e062ea31109129",
+        "page": 457,
+        "score": 0.030090497737556562,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7b7db6fa735c6d6f",
+        "page": 457,
+        "score": 0.029957522915269395,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "90bf620b139e298a",
+        "page": 455,
+        "score": 0.029206349206349208,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "5fb86caba56cbeb2",
+        "page": 459,
+        "score": 0.027912386121341344,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "e7490538f7116f6e",
+        "page": 457,
+        "score": 0.015625,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "8f4023432b194940",
+        "page": 460,
+        "score": 0.015384615384615385,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "73b508b818c45c96",
+        "page": 883,
+        "score": 0.015151515151515152,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.01441020000493154
+  },
+  {
+    "id": "ad09",
+    "query": "In Figure 21.4(c), which racial or ethnic group had the highest unemployment rate in the early 1980s, and about how high?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "07209678435fa006",
+        "page": 517,
+        "score": 0.032266458495966696,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "9c6c8a138da610ec",
+        "page": 15,
+        "score": 0.031754032258064516,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "60c9590ebfd22de4",
+        "page": 517,
+        "score": 0.03047794966520434,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "232c217a1862dba5",
+        "page": 515,
+        "score": 0.029857397504456328,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "eb41c28cc8d04818",
+        "page": 518,
+        "score": 0.029827662395050816,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9d8ca2ae1ae3086f",
+        "page": 517,
+        "score": 0.02967032967032967,
+        "rank": 6,
+        "hit": true
+      },
+      {
+        "id": "f11e70a402a075af",
+        "page": 518,
+        "score": 0.029138513513513514,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "70391e121c92b00b",
+        "page": 853,
+        "score": 0.028991596638655463,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "469a3dc698c4ba49",
+        "page": 859,
+        "score": 0.028814262023217248,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "aa1a1969ace26588",
+        "page": 15,
+        "score": 0.028371628371628373,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.014815900009125471
+  },
+  {
+    "id": "ad10",
+    "query": "In 2014, roughly what was federal debt as a share of GDP (Figure 30.8), and what share of federal spending went to net interest (Figure 30.3)?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "5350798cc8d96bd0",
+        "page": 731,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "12a10bb6b2b59522",
+        "page": 731,
+        "score": 0.031746031746031744,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "b91418ff75c50b01",
+        "page": 731,
+        "score": 0.03125,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "997bdc383cb38cf0",
+        "page": 735,
+        "score": 0.031054405392392875,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "32df9f335379c4d0",
+        "page": 736,
+        "score": 0.030886196246139225,
+        "rank": 5,
+        "hit": true
+      },
+      {
+        "id": "c7b553e079f6d405",
+        "page": 732,
+        "score": 0.03076923076923077,
+        "rank": 6,
+        "hit": true
+      },
+      {
+        "id": "7cc46283a5e77e99",
+        "page": 736,
+        "score": 0.029437229437229435,
+        "rank": 7,
+        "hit": true
+      },
+      {
+        "id": "0726937482221129",
+        "page": 750,
+        "score": 0.029211087420042643,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "c46f145d2738927b",
+        "page": 736,
+        "score": 0.028790389395194696,
+        "rank": 9,
+        "hit": true
+      },
+      {
+        "id": "61440e1c92528816",
+        "page": 737,
+        "score": 0.028665028665028666,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 6,
+    "latency_s": 0.013741000002482906
+  },
+  {
+    "id": "ad11",
+    "query": "In January 2017, about how many Americans had been unemployed for over 27 weeks? Use Tables 21.1 and 21.3.",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "caba3507411ac378",
+        "page": 519,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "089c32ed35108d94",
+        "page": 519,
+        "score": 0.031746031746031744,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "3ba711adf5f2a115",
+        "page": 512,
+        "score": 0.03128054740957967,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "243730ba81897f87",
+        "page": 518,
+        "score": 0.031054405392392875,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "c9e7543cc5707e16",
+        "page": 512,
+        "score": 0.031009615384615385,
+        "rank": 5,
+        "hit": true
+      },
+      {
+        "id": "7118a97b761527b4",
+        "page": 518,
+        "score": 0.029709507042253523,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "c0f463bdf35f7b1d",
+        "page": 512,
+        "score": 0.029631255487269532,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "5728fa9277bac8d3",
+        "page": 511,
+        "score": 0.02857142857142857,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "406eb0b077e0a950",
+        "page": 511,
+        "score": 0.02804284323271665,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "2447d2b4dc1e6f72",
+        "page": 528,
+        "score": 0.02638888888888889,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 3,
+    "latency_s": 0.016468499990878627
+  },
+  {
+    "id": "ad12",
+    "query": "How many worker hours does Saudi Arabia use to produce the combination at point C in Figure 33.2(a)?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a5b5bc487943856c",
+        "page": 798,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "9999e694cc7fcb7c",
+        "page": 798,
+        "score": 0.031754032258064516,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "c5aceedd841a767f",
+        "page": 798,
+        "score": 0.031009615384615385,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "d3ca71dd3d022ce1",
+        "page": 798,
+        "score": 0.030798389007344232,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "ca22fd08fc73214c",
+        "page": 801,
+        "score": 0.03047794966520434,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "060513c1d36ca171",
+        "page": 797,
+        "score": 0.030309988518943745,
+        "rank": 6,
+        "hit": true
+      },
+      {
+        "id": "cf2b00f1d98353b5",
+        "page": 797,
+        "score": 0.02976190476190476,
+        "rank": 7,
+        "hit": true
+      },
+      {
+        "id": "840aa3dacc305240",
+        "page": 798,
+        "score": 0.02964426877470356,
+        "rank": 8,
+        "hit": true
+      },
+      {
+        "id": "3b4bceb7e10c2b37",
+        "page": 799,
+        "score": 0.028991596638655463,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "daba380852585395",
+        "page": 801,
+        "score": 0.028850145288501453,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 6,
+    "latency_s": 0.07787539999117143
+  },
+  {
+    "id": "ad13",
+    "query": "How many regional Federal Reserve banks are there?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "15140779c749742f",
+        "page": 678,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "28c446ae78ac953d",
+        "page": 682,
+        "score": 0.031754032258064516,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "a64b8fdc79e9c4e6",
+        "page": 678,
+        "score": 0.029857397504456328,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "fbe5f3a43a50fb28",
+        "page": 676,
+        "score": 0.029857397504456328,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "b3e72ba34ee2bece",
+        "page": 685,
+        "score": 0.02946912242686891,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "c04237d29c29a395",
+        "page": 678,
+        "score": 0.02946236559139785,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "6f30e20f7d56bccc",
+        "page": 676,
+        "score": 0.029386529386529386,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "cab3e8bb15306334",
+        "page": 685,
+        "score": 0.029083245521601686,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "c0a3f7ff1c5fdd70",
+        "page": 688,
+        "score": 0.02817460317460317,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "efec5d57c2215187",
+        "page": 675,
+        "score": 0.028125,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.012447699991753325
+  },
+  {
+    "id": "ad14",
+    "query": "At the beginning of 2017, $1 had about the same purchasing power as how much money in 1972?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "8312d53538d52717",
+        "page": 539,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "1999a40e4be0c45a",
+        "page": 933,
+        "score": 0.031746031746031744,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "398cd55447bd0be8",
+        "page": 933,
+        "score": 0.030309988518943745,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "4f7b89f94d5765cb",
+        "page": 715,
+        "score": 0.02928692699490662,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "aa58d59b2c52ee35",
+        "page": 540,
+        "score": 0.027526395173453996,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "bfd37f836f0889a4",
+        "page": 714,
+        "score": 0.025833333333333333,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "db18a8d381d393ff",
+        "page": 539,
+        "score": 0.016129032258064516,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "5ac6cf5be161b6e0",
+        "page": 706,
+        "score": 0.015625,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "5cde43d3cb93e5db",
+        "page": 562,
+        "score": 0.015625,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "99e827e086579c8a",
+        "page": 422,
+        "score": 0.015384615384615385,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.012693399999989197
+  },
+  {
+    "id": "ad15",
+    "query": "What happened to the U.S. debt/GDP ratio when budget surpluses arrived from 1998 to 2001?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "7cc46283a5e77e99",
+        "page": 736,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "c46f145d2738927b",
+        "page": 736,
+        "score": 0.03252247488101534,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "35785a557e3484c5",
+        "page": 731,
+        "score": 0.03036576949620428,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "32df9f335379c4d0",
+        "page": 736,
+        "score": 0.030309988518943745,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "50214b2dc85171b8",
+        "page": 764,
+        "score": 0.029910714285714284,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "37af0a32be285f72",
+        "page": 939,
+        "score": 0.027783137179239824,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "997bdc383cb38cf0",
+        "page": 735,
+        "score": 0.02758751902587519,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "351166fcb1828d8d",
+        "page": 940,
+        "score": 0.02690501986276634,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "96a972900bc4a0c7",
+        "page": 736,
+        "score": 0.015873015873015872,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "f18069fbe1c48173",
+        "page": 750,
+        "score": 0.015625,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.013575400022091344
+  },
+  {
+    "id": "ad16",
+    "query": "What was the FDIC deposit insurance limit per account before 2008?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "cc3aa6f9f2ab43c7",
+        "page": 681,
+        "score": 0.03278688524590164,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "ed4af788465495d2",
+        "page": 418,
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "5578dc35cff8adb5",
+        "page": 698,
+        "score": 0.03149801587301587,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "c37f11d99584ccd0",
+        "page": 673,
+        "score": 0.030090497737556562,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "ffdcc830c3fe63a5",
+        "page": 681,
+        "score": 0.02976190476190476,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "b53110c53b2a233d",
+        "page": 399,
+        "score": 0.028083267871170464,
+        "rank": 6,
+        "hit": true
+      },
+      {
+        "id": "3911d41b9ee7a516",
+        "page": 427,
+        "score": 0.027417840375586856,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "32e2af73b0b214f3",
+        "page": 402,
+        "score": 0.015625,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "ca3317c71b1eb181",
+        "page": 435,
+        "score": 0.015384615384615385,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "7dcb386453af9346",
+        "page": 666,
+        "score": 0.015151515151515152,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 6,
+    "latency_s": 0.00982149998890236
+  },
+  {
+    "id": "ad17",
+    "query": "What was the median price of a new home in 2020?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "aca51ef916dd47e7",
+        "page": 425,
+        "score": 0.032266458495966696,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "85d092729399323b",
+        "page": 426,
+        "score": 0.03225806451612903,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "a2b1b5e967106f9d",
+        "page": 426,
+        "score": 0.031544957774465976,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "ea44538061e38f29",
+        "page": 425,
+        "score": 0.031009615384615385,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "db18a8d381d393ff",
+        "page": 539,
+        "score": 0.03036576949620428,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "135e8550c39d0c22",
+        "page": 425,
+        "score": 0.028991596638655463,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "47f2ff3e4b81468a",
+        "page": 589,
+        "score": 0.028850145288501453,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "ad9adec302eb3b98",
+        "page": 589,
+        "score": 0.02786377708978328,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "811b817eada857b4",
+        "page": 93,
+        "score": 0.027071520029266508,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "8312d53538d52717",
+        "page": 539,
+        "score": 0.026992753623188405,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.009899700002279133
+  },
+  {
+    "id": "ad18",
+    "query": "How much did U.S. nonprofits spend on R&D in 2020?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "76bc27b9fcd58595",
+        "page": 318,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "ce7967e005c0b117",
+        "page": 318,
+        "score": 0.03252247488101534,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "813a4b9df46fe551",
+        "page": 768,
+        "score": 0.03149801587301587,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "9085619b47ea079d",
+        "page": 318,
+        "score": 0.031009615384615385,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "559432eb1232e2d8",
+        "page": 319,
+        "score": 0.030303030303030304,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "589ea0c6503e7aac",
+        "page": 441,
+        "score": 0.028594771241830064,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "6d78dbcdb3463552",
+        "page": 327,
+        "score": 0.027650648360030512,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "874d1d5a65a3f80c",
+        "page": 953,
+        "score": 0.015873015873015872,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9af278475516e010",
+        "page": 327,
+        "score": 0.015384615384615385,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "2832cf45518db920",
+        "page": 319,
+        "score": 0.014925373134328358,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.011438200017437339
+  },
+  {
+    "id": "ad19",
+    "query": "How many members did the United Steelworkers union have in 2010?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "ccbb16e03edc53b2",
+        "page": 341,
+        "score": 0.03252247488101534,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "1503df161bf02613",
+        "page": 449,
+        "score": 0.03177805800756621,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4ac429c3d60947c2",
+        "page": 341,
+        "score": 0.031754032258064516,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "ed6400f2547c2b80",
+        "page": 341,
+        "score": 0.030117753623188408,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "ac84d11f10d4ddf1",
+        "page": 449,
+        "score": 0.029386529386529386,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "e679c20c86f63f69",
+        "page": 342,
+        "score": 0.028991596638655463,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "10720722233d06f7",
+        "page": 953,
+        "score": 0.028594771241830064,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "b46d78fa88ad26da",
+        "page": 340,
+        "score": 0.02813852813852814,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "d0bb210cf97e1b69",
+        "page": 342,
+        "score": 0.02782608695652174,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "4e7f4e94c0422ea5",
+        "page": 346,
+        "score": 0.027071520029266508,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.010300399997504428
+  }
+]

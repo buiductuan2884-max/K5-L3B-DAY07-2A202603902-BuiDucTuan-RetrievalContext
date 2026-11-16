@@ -1,0 +1,31 @@
+at01 answered ['search', 'verify', 'answer'] 4.6 s 
+at02 answered ['search', 'verify', 'answer'] 3.5 s 
+at03 answered ['search', 'verify', 'answer'] 3.0 s 
+at04 answered ['search', 'verify', 'answer'] 3.4 s 
+at05 answered ['search', 'verify', 'answer'] 3.2 s 
+at06 answered ['search', 'search', 'verify', 'answer'] 5.1 s 
+at07 answered ['search', 'verify', 'answer'] 3.6 s 
+at08 answered ['search', 'verify', 'answer'] 3.9 s 
+at09 answered ['search', 'verify', 'answer'] 3.5 s 
+at10 answered ['search', 'verify', 'answer'] 3.6 s 
+at11 answered ['search', 'verify', 'answer'] 3.3 s 
+at12 answered ['search', 'search', 'verify', 'answer'] 5.0 s 
+at13 answered ['search', 'search', 'verify', 'answer'] 4.9 s 
+at14 answered ['search', 'verify', 'answer'] 3.2 s 
+at15 answered ['search', 'verify', 'answer'] 3.4 s 
+at16 answered ['search', 'verify', 'answer'] 4.3 s 
+at17 answered ['search', 'search', 'search', 'search', 'search_limit', 'verify', 'answer'] 8.6 s 
+at18 answered ['search', 'search', 'search', 'verify', 'answer'] 7.2 s 
+at19 answered ['search', 'search', 'search', 'verify', 'answer'] 6.1 s 
+at20 answered ['search', 'search', 'verify', 'answer'] 5.6 s 
+at21 answered ['search', 'verify', 'answer'] 4.3 s 
+at22 answered ['search', 'verify', 'answer'] 3.2 s 
+at23 answered ['search', 'verify', 'answer'] 4.5 s 
+at24 answered ['search', 'verify', 'answer'] 3.7 s 
+at25 abstain ['search', 'search', 'search', 'abstain'] 4.9 s 
+at26 abstain ['search', 'search', 'search', 'abstain'] 5.1 s 
+at27 abstain ['search', 'abstain'] 3.3 s 
+at28 abstain ['search', 'search', 'abstain'] 24.5 s 
+at29 abstain ['search', 'search', 'abstain'] 5.1 s 
+at30 abstain ['search', 'search', 'search', 'abstain'] 4.3 s 
+{'name': 'advanced_gpt41', 'split': 'test', 'model': 'gpt-4.1', 'n_questions': 30, 'status_counts': {'answered': 24, 'abstain': 6}, 'answered_abstain_by_answerable': {'answerable': {'answered': 24}, 'unanswerable': {'abstain': 6}}, 'tool_use': {'n': 30, 'N': 30, 'rate': 1.0}, 'searches_distribution': {'1': 18, '2': 6, '3': 5, '4': 1}, 'context_evidence_rate': {'n': 24, 'N': 24, 'rate': 1.0}, 'total_latency_s': 151.86377679996076, 'mean_latency_s': 5.062125893332025, 'prompt_tokens': 114054, 'completion_tokens': 4058, 'embedding_tokens': 573, 'cost_usd': 0.30365146}

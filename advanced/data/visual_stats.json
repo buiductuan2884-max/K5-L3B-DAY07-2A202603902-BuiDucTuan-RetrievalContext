@@ -1,0 +1,17 @@
+{
+  "candidate_pages": 645,
+  "pages_processed": 645,
+  "pages_with_items": 633,
+  "items_by_kind": {
+    "photo": 71,
+    "chart": 214,
+    "diagram": 102,
+    "table": 288,
+    "other": 118
+  },
+  "failures": 0,
+  "input_tokens": 2762848,
+  "output_tokens": 171080,
+  "cost_usd": 1.3788672,
+  "elapsed_s": 308.49316850001924
+}

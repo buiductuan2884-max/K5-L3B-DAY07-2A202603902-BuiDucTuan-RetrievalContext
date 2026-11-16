@@ -1,0 +1,212 @@
+[
+ {
+  "query_id": "at01",
+  "group": "table",
+  "label": "pass",
+  "reason": "4.4% -> 8.1% = +3.7 pp, cites Table 21.4 p.519",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at02",
+  "group": "table",
+  "label": "pass",
+  "reason": "$344.9 billion and 69.0%, cites Table 13.3 p.318",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at03",
+  "group": "table",
+  "label": "pass",
+  "reason": "23.5%, cites Table 15.1 p.365",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at04",
+  "group": "table",
+  "label": "pass",
+  "reason": "NEA 2.9 million, cites Table 14.6 p.341",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at05",
+  "group": "table",
+  "label": "pass",
+  "reason": "$3,157, cites Table 6.1 part on p.145",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at06",
+  "group": "table",
+  "label": "pass",
+  "reason": "$22,000 -> $312,900, ratio 14.2 shown, cites Table 22.1 p.539",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at07",
+  "group": "image",
+  "label": "pass",
+  "reason": "Payment for goods and services + labor services, cites Figure 1.6 p.27",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at08",
+  "group": "image",
+  "label": "pass",
+  "reason": "Soft exchange rate peg with correct description, cites Figure 29.10 p.717",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at09",
+  "group": "image",
+  "label": "pass",
+  "reason": "Oligopoly, cites Figure 7.2 p.166",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at10",
+  "group": "image",
+  "label": "pass",
+  "reason": "20 barrels oil, 60 bushels corn, cites Figure 33.2 p.798 and Table 33.3 p.799",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at11",
+  "group": "image",
+  "label": "pass",
+  "reason": "Reserves $10M / deposits $10M, cites Figure 27.6 p.666",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at12",
+  "group": "chart",
+  "label": "fail",
+  "reason": "Level 27-28% is right but period \"late 1940s to early 1950s\" is wrong; chart peaks about 1954 (grading note: mid-1950s, 1953-1957). Vision transcription of Figure 14.11 is the likely cause",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at13",
+  "group": "chart",
+  "label": "pass",
+  "reason": "U.K., nearly 25% around 1974-1975 (accepted range 23-25%), cites Figure 22.4 p.550",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at14",
+  "group": "chart",
+  "label": "pass",
+  "reason": "Ages 16-19, about 26% around 2010, cites Figure 21.4(b) p.517",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at15",
+  "group": "chart",
+  "label": "pass",
+  "reason": "1971-1990, about 1.35% (accepted 1.3-1.4), cites Figure 20.4 p.490",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at16",
+  "group": "chart",
+  "label": "fail",
+  "reason": "Says lowest around 1980 at ~30%; chart low is ~24-25% around 1974. The cited transcription of Figure 30.8 lists 1970 ~35%, 1980 ~30% and misses the trough: vision extraction error",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at17",
+  "group": "multi_hop",
+  "label": "pass",
+  "reason": "20 barrels x 2 h = 40 h, cites Table 33.3 p.799 and Table 33.1 p.797 (both gold)",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at18",
+  "group": "multi_hop",
+  "label": "pass",
+  "reason": "$16,557 - $7,677 = $8,880, cites both parts of Table 6.1 (p.144, p.145)",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at19",
+  "group": "multi_hop",
+  "label": "pass",
+  "reason": "$20.65 / $7.25 = 2.85, cites Table 22.1 p.539 and Figure 22.6 caption text p.554",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at20",
+  "group": "multi_hop",
+  "label": "pass",
+  "reason": "7.635/159.716 = 4.8%, lower than 8.1%; cited p.512 chunk contains both numbers, Table 21.4 p.519",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at21",
+  "group": "text",
+  "label": "pass",
+  "reason": "Up to $250,000 per account, cites p.681 (gold) plus other pages that also state $250,000",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at22",
+  "group": "text",
+  "label": "pass",
+  "reason": "50-60 cents per $100, cites p.681",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at23",
+  "group": "text",
+  "label": "pass",
+  "reason": "GDP per capita under one fifth ($6,958.48 vs $53,013), cites p.475",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at24",
+  "group": "text",
+  "label": "pass",
+  "reason": "About 800, cites p.679",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at25",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained; no claim about Vietnam inflation",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at26",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained; lists the groups the table does have",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at27",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained; mentions 2015 figure only as context",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at28",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at29",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained; no childcare category",
+  "grader": "Opus (AI), to be confirmed by the student"
+ },
+ {
+  "query_id": "at30",
+  "group": "no_evidence",
+  "label": "pass",
+  "reason": "Abstained; reason quotes Germany 2006 = 10.4%, which the book states on p.784 (Table 21.4 says 9.8% for 2006: inconsistency in the book, not invented)",
+  "grader": "Opus (AI), to be confirmed by the student"
+ }
+]

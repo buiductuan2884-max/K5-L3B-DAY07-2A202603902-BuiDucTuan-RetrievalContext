@@ -9,3 +9,8 @@ __pycache__/
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+data/day7/cache/
+advanced/chroma_db/
+advanced/data/cache/
+LOG.md
+PLAN.md

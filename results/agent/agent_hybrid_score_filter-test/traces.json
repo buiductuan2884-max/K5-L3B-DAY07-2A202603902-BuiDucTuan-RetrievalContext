@@ -1,0 +1,906 @@
+[
+ {
+  "query_id": "t41",
+  "split": "test",
+  "answerable": true,
+  "question": "What was the median salary for nurses in 2014?",
+  "status": "answered",
+  "answer": "In 2014, the median salary for nurses was $67,490 [1db13b2577bdc016]. This figure reflects the equilibrium salary in the context of increasing demand for nursing services during that period. As demand for services increased, the equilibrium salary was expected to rise further in subsequent years.",
+  "citations": [
+   "1db13b2577bdc016"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "median salary for nurses 2014",
+    "filter": null,
+    "results": [
+     [
+      "856c6941ac83977e",
+      95,
+      0.03200204813108039,
+      1
+     ],
+     [
+      "1db13b2577bdc016",
+      110,
+      0.03131881575727918,
+      2
+     ],
+     [
+      "4920324692d7ee19",
+      95,
+      0.03125,
+      3
+     ],
+     [
+      "4fcd36d8a32970f5",
+      96,
+      0.030621785881252923,
+      4
+     ],
+     [
+      "29b2fe063b0851fd",
+      96,
+      0.030536130536130537,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "856c6941ac83977e",
+     "1db13b2577bdc016",
+     "4920324692d7ee19"
+    ]
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "1db13b2577bdc016"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "856c6941ac83977e",
+   "1db13b2577bdc016",
+   "4920324692d7ee19"
+  ],
+  "context": "[856c6941ac83977e] (Economics2e.pdf p.95) Figure 4.2 Labor Market Example: Demand and Supply for Nurses in Minneapolis-St. Paul-Bloomington The demand curve (D) of those employers who want to hire nurses intersects with the supply curve (S) of those who are qualified and willing to work as nurses at the equilibrium point (E). The equilibrium salary is $70,000 and the equilibrium quantity is 34,000 nurses. At an above-equilibrium salary of $75,000, quantity supplied increases to 38,000, but the quantity of nurses demanded at the higher pay declines to 33,000. At this above-equilibrium salary, an excess supply or surplus of nurses would exist. At a below-equilibrium salary of $60,000, quantity supplied declines to 27,000, while the quantity demanded at the lower wage increases to 40,000 nurses. At this belowequilibrium salary, excess demand or a shortage exists.\n\nAnnual Salary Quantity Demanded Quantity Supplied\n\n$55,000 45,000 20,000\n\n$60,000 40,000 27,000\n\n$65,000 37,000 31,000\n\n$70,000 34,000 34,000\n\n$75,000 33,000 38,000\n\n[1db13b2577bdc016] (Economics2e.pdf p.110) Without this information, it becomes difficult for everyone—buyers and sellers alike—to react in a flexible and appropriate manner as changes occur throughout the economy.\n\nBaby Boomers Come of Age\n\nThe theory of supply and demand can explain what happens in the labor markets and suggests that the demand for nurses will increase as healthcare needs of baby boomers increase, as Figure 4.10 shows. The impact of that increase will result in an average salary higher than the $67,490 earned in 2015 referenced in the first part of this case. The new equilibrium (E1) will be at the new equilibrium price (Pe1).Equilibrium quantity will also increase from Qe0 to Qe1.\n\nFigure 4.10 Impact of Increasing Demand for Nurses 2014-2024 In 2014, the median salary for nurses was $67,490. As demand for services increases, the demand curve shifts to the right (from D0 to D1) and the equilibrium quantity of nurses increases from Qe0 to Qe1. The equilibrium salary increases from Pe0 to Pe1.\n\n[4920324692d7ee19] (Economics2e.pdf p.95) $80,000 32,000 41,000\n\nTable 4.1 Demand and Supply of Nurses in Minneapolis-St. Paul-Bloomington\n\nThe horizontal axis shows the quantity of nurses hired. In this example we measure labor by number of workers, but another common way to measure the quantity of labor is by the number of hours worked. The vertical axis shows the price for nurses’ labor—that is, how much they are paid. In the real world, this “price” would be total labor compensation: salary plus benefits. It is not obvious, but benefits are a significant part (as high as 30 percent) of labor compensation. In this example we measure the price of labor by salary on an annual basis, although in other cases we could measure the price of labor by monthly or weekly pay, or even the wage paid per hour. As the salary for nurses rises, the quantity demanded will fall. Some hospitals and nursing homes may reduce the number of nurses they hire, or they may lay off some of their existing nurses, rather than pay them higher salaries.",
+  "latency_s": 5.0453954999975394,
+  "prompt_tokens": 2882,
+  "completion_tokens": 185,
+  "embedding_tokens": 7,
+  "cost_usd": 0.0005434400000000001,
+  "verify_tokens": {},
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t42",
+  "split": "test",
+  "answerable": true,
+  "question": "How many U.S. consumers canceled their Netflix subscriptions after the 2011 price increase?",
+  "status": "answered",
+  "answer": "After the 2011 price increase, 810,000 U.S. consumers canceled their Netflix subscriptions, reducing the total number of subscribers from about 24.6 million to 23.79 million. This was a significant drop in subscribers following the price hike announced in July 2011, which raised the monthly fee for a combined streaming and DVD rental package by about 60% from $10 to $15.98 per month. Despite this initial loss, Netflix later saw growth in subscribers, reaching 36 million by June 2013, which was an increase of 11.4 million since the price increase.  [4f9c26e2102b55dc]",
+  "citations": [
+   "4f9c26e2102b55dc"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. consumers canceled Netflix subscriptions after 2011 price increase",
+    "filter": null,
+    "results": [
+     [
+      "4f9c26e2102b55dc",
+      135,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "8edf561f44839cc4",
+      117,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "94fced4c0aa89e23",
+      135,
+      0.03149801587301587,
+      3
+     ],
+     [
+      "8ff388b8c257cf57",
+      135,
+      0.03076923076923077,
+      4
+     ],
+     [
+      "d96563564869eb5b",
+      117,
+      0.03055037313432836,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "4f9c26e2102b55dc",
+     "8edf561f44839cc4",
+     "94fced4c0aa89e23",
+     "8ff388b8c257cf57"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4f9c26e2102b55dc",
+   "8edf561f44839cc4",
+   "94fced4c0aa89e23",
+   "8ff388b8c257cf57"
+  ],
+  "context": "[4f9c26e2102b55dc] (Economics2e.pdf p.135) Before the price increase, there were about 24.6 million U.S. subscribers. After the price increase, 810,000 infuriated U.S. consumers canceled their Netflix subscriptions, dropping the total number of subscribers to 23.79 million. Fast forward to June 2013, when there were 36 million streaming Netflix subscribers in the United States. This was an increase of 11.4 million subscribers since the price increase—an average per quarter growth of about 1.6 million. This growth is less than the 2 million per quarter increases Netflix experienced in the fourth quarter of 2010 and the first quarter of 2011.\n\nDuring the first year after the price increase, the firm’s stock price (a measure of future expectations for the firm) fell from about $33.60 per share per share to just under $7.80. By the end of 2016, however, the stock price was at $123 per share. Today, Netflix has more than 86 million subscribers million subscribers in fifty countries.\n\n[8edf561f44839cc4] (Economics2e.pdf p.117) In early 2011, Netflix consumers paid about $10 a month for a package consisting of streaming video and DVD rentals. In July 2011, the company announced a packaging change. Customers wishing to retain both streaming video and DVD rental would be charged $15.98 per month, a price increase of about 60%. In 2014, Netflix also raised its streaming video subscription price from $7.99 to $8.99 per month for new U.S. customers. The company also changed its policy of 4K streaming content from $9.00 to $12.00 per month that year.\n\nHow would customers of the 18-year-old firm react? Would they abandon Netflix? Would the ease of access to other venues make a difference in how consumers responded to the Netflix price change? We will explore the answers to those questions in this chapter, which focuses on the change in quantity with respect to a change in price, a concept economists call elasticity.\n\nIntroduction to Elasticity\n\nIn this chapter, you will learn about:\n\n[94fced4c0aa89e23] (Economics2e.pdf p.135) What happened? Obviously, Netflix company officials understood the law of demand. Company officials reported, when announcing the price increase, this could result in the loss of about 600,000 existing subscribers. Using the elasticity of demand formula, it is easy to see company officials expected an inelastic response:\n\n= –600,000/[(24 million + 24.6 million)/2]\n\n$6/[($10 + $16)/2]\n\n= –600,000/24.3 million\n\n$6/$13\n\n= –0.025\n\n0.46 = –0.05\n\nIn addition, Netflix officials had anticipated the price increase would have little impact on attracting new customers. Netflix anticipated adding up to 1.29 million new subscribers in the third quarter of 2011. It is true this was slower growth than the firm had experienced—about 2 million per quarter.\n\n[8ff388b8c257cf57] (Economics2e.pdf p.135) Why was the estimate of customers leaving so far off? In the more than two decades since Netflix had been founded, there was an increase in the number of close, but not perfect, substitutes. Consumers now had choices ranging from Vudu, Amazon Prime, Hulu, and Redbox, to retail stores. Jaime Weinman reported in Maclean’s that Redbox kiosks are “a five-minute drive for less from 68 percent of Americans, and it seems that many people still find a five-minute drive more convenient than loading up a movie online.” It seems that in 2012, many consumers still preferred a physical DVD disk over streaming video.\n\nWhat missteps did the Netflix management make? In addition to misjudging the elasticity of demand, by failing",
+  "latency_s": 3.4868870999780484,
+  "prompt_tokens": 1662,
+  "completion_tokens": 192,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0003645,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t43",
+  "split": "test",
+  "answerable": true,
+  "question": "In financial markets, are people who save money on the supply side or the demand side?",
+  "status": "answered",
+  "answer": "People who save money are on the supply side of the financial market. They supply financial capital through their savings, while those who borrow money are on the demand side of the financial market. This means that savers expect to receive a rate of return on their savings, which is a key aspect of how financial markets operate. In contrast, borrowers expect to pay a rate of return when they receive funds from savers. Therefore, savers contribute to the supply of financial capital in the market, while borrowers create demand for it. [a6bc3d1a21502dbb]",
+  "citations": [
+   "a6bc3d1a21502dbb"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "financial markets supply side demand side saving money",
+    "filter": null,
+    "results": [
+     [
+      "a6bc3d1a21502dbb",
+      103,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "3687d65d898fbceb",
+      102,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "213b639946ffe4f2",
+      105,
+      0.03057889822595705,
+      3
+     ],
+     [
+      "876e2c4baf21fc9e",
+      105,
+      0.030536130536130537,
+      4
+     ],
+     [
+      "e2ca58126d46fc66",
+      94,
+      0.03036576949620428,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a6bc3d1a21502dbb",
+     "3687d65d898fbceb",
+     "213b639946ffe4f2",
+     "876e2c4baf21fc9e"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a6bc3d1a21502dbb",
+   "3687d65d898fbceb",
+   "213b639946ffe4f2",
+   "876e2c4baf21fc9e"
+  ],
+  "context": "[a6bc3d1a21502dbb] (Economics2e.pdf p.103) In this section, we will determine how the demand and supply model links those who wish to supply financial capital (i.e., savings) with those who demand financial capital (i.e., borrowing). Those who save money (or make financial investments, which is the same thing), whether individuals or businesses, are on the supply side of the financial market. Those who borrow money are on the demand side of the financial market. For a more detailed treatment of the different kinds of financial investments like bank accounts, stocks and bonds, see the Financial Markets chapter. Who Demands and Who Supplies in Financial Markets?\n\nIn any market, the price is what suppliers receive and what demanders pay. In financial markets, those who supply financial capital through saving expect to receive a rate of return, while those who demand financial capital by receiving funds expect to pay a rate of return. This rate of return can come in a variety of forms, depending on the type of investment.\n\n[3687d65d898fbceb] (Economics2e.pdf p.102) 4.2 | Demand and Supply in Financial Markets\n\nBy the end of this section, you will be able to:\n\n• Identify the demanders and suppliers in a financial market • Explain how interest rates can affect supply and demand • Analyze the economic effects of U.S. debt in terms of domestic financial markets • Explain the role of price ceilings and usury laws in the U.S.\n\nUnited States' households, institutions, and domestic businesses saved almost $1.3 trillion in 2015. Where did that savings go and how was it used? Some of the savings ended up in banks, which in turn loaned the money to individuals or businesses that wanted to borrow money. Some was invested in private companies or loaned to\n\ngovernment agencies that wanted to borrow money to raise funds for purposes like building roads or mass transit. Some firms reinvested their savings in their own businesses.\n\n[213b639946ffe4f2] (Economics2e.pdf p.105) To this point, we have been looking at saving in total. Now let us consider what affects saving in different types of financial investments. In deciding between different forms of financial investments, suppliers of financial capital will have to consider the rates of return and the risks involved. Rate of return is a positive attribute of investments, but risk is a negative. If Investment A becomes more risky, or the return diminishes, then savers will shift their funds to Investment B—and the supply curve of financial capital for Investment A will shift back to the left while the supply curve of capital for Investment B shifts to the right.\n\nThe United States as a Global Borrower\n\n[876e2c4baf21fc9e] (Economics2e.pdf p.105) Most workers save for retirement because their income in the present is greater than their needs, while the opposite will be true once they retire. Thus, they save today and supply financial markets. If their income increases, they save more. If their perceived situation in the future changes, they change the amount of their saving. For example, there is some evidence that Social Security, the program that workers pay into in order to qualify for government checks after retirement, has tended to reduce the quantity of financial capital that workers save. If this is true, Social Security has shifted the supply of financial capital at any interest rate to the left.",
+  "latency_s": 3.914473699987866,
+  "prompt_tokens": 1528,
+  "completion_tokens": 166,
+  "embedding_tokens": 8,
+  "cost_usd": 0.00032896,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t44",
+  "split": "test",
+  "answerable": true,
+  "question": "What is infinite or perfect elasticity?",
+  "status": "answered",
+  "answer": "Infinite elasticity, also known as perfect elasticity, refers to the extreme case where the quantity demanded or supplied changes by an infinite amount in response to any change in price. In this scenario, the demand and supply curves are horizontal, indicating that even a tiny change in price leads to an infinite change in quantity. This type of elasticity is typically associated with goods that have readily available inputs and can be produced easily, such as pizza, bread, books, and pencils. Similarly, luxury goods and items with many substitutes tend to exhibit highly elastic demand curves, such as Caribbean cruises and sports vehicles. [3845ee4d1a7249c4]",
+  "citations": [
+   "3845ee4d1a7249c4"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "infinite elasticity perfect elasticity",
+    "filter": null,
+    "results": [
+     [
+      "30844565c99810e4",
+      123,
+      0.03252247488101534,
+      1
+     ],
+     [
+      "3845ee4d1a7249c4",
+      123,
+      0.03252247488101534,
+      2
+     ],
+     [
+      "8fb7f827c81a3c73",
+      123,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "fa8f10491c8b3681",
+      133,
+      0.029437229437229435,
+      4
+     ],
+     [
+      "0bce971fa93b0847",
+      134,
+      0.028371628371628373,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "30844565c99810e4",
+     "3845ee4d1a7249c4",
+     "8fb7f827c81a3c73",
+     "fa8f10491c8b3681"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "30844565c99810e4",
+   "3845ee4d1a7249c4",
+   "8fb7f827c81a3c73",
+   "fa8f10491c8b3681"
+  ],
+  "context": "[30844565c99810e4] (Economics2e.pdf p.123) Figure 5.4 Infinite Elasticity The horizontal lines show that an infinite quantity will be demanded or supplied at a specific price. This illustrates the cases of a perfectly (or infinitely) elastic demand curve and supply curve. The quantity supplied or demanded is extremely responsive to price changes, moving from zero for prices close to P to infinite when prices reach P.\n\nZero elasticity or perfect inelasticity, as Figure 5.5 depicts, refers to the extreme case in which a percentage change in price, no matter how large, results in zero change in quantity. While a perfectly inelastic supply is an extreme example, goods with limited supply of inputs are likely to feature highly inelastic supply curves. Examples include diamond rings or housing in prime locations such as apartments facing Central Park in New York City. Similarly,\n\n[3845ee4d1a7249c4] (Economics2e.pdf p.123) There are two extreme cases of elasticity: when elasticity equals zero and when it is infinite. A third case is that of constant unitary elasticity. We will describe each case. Infinite elasticity or perfect elasticity refers to the extreme case where either the quantity demanded (Qd) or supplied (Qs) changes by an infinite amount in response to any change in price at all. In both cases, the supply and the demand curve are horizontal as Figure 5.4 shows. While perfectly elastic supply curves are for the most part unrealistic, goods with readily available inputs and whose production can easily expand will feature highly elastic supply curves. Examples include pizza, bread, books, and pencils. Similarly, perfectly elastic demand is an extreme example. However, luxury goods, items that take a large share of individuals’ income, and goods with many substitutes are likely to have highly elastic demand curves. Examples of such goods are Caribbean cruises and sports vehicles.\n\n[8fb7f827c81a3c73] (Economics2e.pdf p.123) 5.2 | Polar Cases of Elasticity and Constant Elasticity\n\nBy the end of this section, you will be able to:\n\n• Differentiate between infinite and zero elasticity • Analyze graphs in order to classify elasticity as constant unitary, infinite, or zero\n\n[fa8f10491c8b3681] (Economics2e.pdf p.133) 5.4 | Elasticity in Areas Other Than Price\n\nBy the end of this section, you will be able to:\n\n• Calculate the income elasticity of demand and the cross-price elasticity of demand • Calculate the elasticity in labor and financial capital markets through an understanding of the elasticity of labor supply and the elasticity of savings • Apply concepts of price elasticity to real-world situations",
+  "latency_s": 3.043215199984843,
+  "prompt_tokens": 1355,
+  "completion_tokens": 175,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00030825,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t45",
+  "split": "test",
+  "answerable": true,
+  "question": "What is quantity demanded?",
+  "status": "answered",
+  "answer": "Quantity demanded refers to the total number of units that consumers would purchase at a specific price for a good or service. It is a specific point on the demand curve, which illustrates the relationship between price and quantity demanded. According to the law of demand, a rise in price typically decreases the quantity demanded, while a fall in price increases it. This inverse relationship holds true when all other variables affecting demand are constant. For example, if the price of gasoline increases, consumers may reduce their consumption by finding alternative ways to travel or by purchasing less gasoline. Thus, quantity demanded is influenced directly by price changes [6418354eaff35351][7aa88a7575dd5e82].",
+  "citations": [
+   "6418354eaff35351",
+   "7aa88a7575dd5e82"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "quantity demanded",
+    "filter": null,
+    "results": [
+     [
+      "6418354eaff35351",
+      58,
+      0.032018442622950824,
+      1
+     ],
+     [
+      "946e5cf8ed7862b9",
+      61,
+      0.032018442622950824,
+      2
+     ],
+     [
+      "6c30dee429f94fee",
+      57,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "7aa88a7575dd5e82",
+      57,
+      0.030834914611005692,
+      4
+     ],
+     [
+      "14bb2d674873f3d1",
+      61,
+      0.02964426877470356,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "6418354eaff35351",
+     "946e5cf8ed7862b9",
+     "6c30dee429f94fee",
+     "7aa88a7575dd5e82"
+    ]
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "6418354eaff35351",
+     "7aa88a7575dd5e82"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "6418354eaff35351",
+   "946e5cf8ed7862b9",
+   "6c30dee429f94fee",
+   "7aa88a7575dd5e82"
+  ],
+  "context": "[6418354eaff35351] (Economics2e.pdf p.58) Confused about these different types of demand? Read the next Clear It Up feature.\n\nIs demand the same as quantity demanded?\n\nIn economic terminology, demand is not the same as quantity demanded. When economists talk about demand, they mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by a demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain point on the demand curve, or one quantity on the demand schedule. In short, demand refers to the curve and quantity demanded refers to the (specific) point on the curve.\n\nSupply of Goods and Services\n\n[946e5cf8ed7862b9] (Economics2e.pdf p.61) Quantity demanded (millions of\n\ngallons)\n\nQuantity supplied (millions of\n\ngallons)\n\n$2.00 460 700\n\n$2.20 420 720\n\nTable 3.3 Price, Quantity Demanded, and Quantity Supplied\n\nRemember this: When two lines on a diagram cross, this intersection usually means something. The point where the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the equilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers agree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the amount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium quantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not in equilibrium at that price.\n\n[6c30dee429f94fee] (Economics2e.pdf p.57) Price (per gallon) Quantity Demanded (millions of gallons)\n\n$1.00 800\n\n$1.20 700\n\n$1.40 600\n\n$1.60 550\n\n$1.80 500\n\n$2.00 460\n\n$2.20 420\n\nTable 3.1 Price and Quantity Demanded of Gasoline\n\nFigure 3.2 A Demand Curve for Gasoline The demand schedule shows that as price rises, quantity demanded decreases, and vice versa. We graph these points, and the line connecting them is the demand curve (D). The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded.\n\nDemand curves will appear somewhat different for each product. They may appear relatively steep or flat, or they may be straight or curved. Nearly all demand curves share the fundamental similarity that they slope down from left to right. Demand curves embody the law of demand: As the price increases, the quantity demanded decreases, and conversely, as the price decreases, the quantity demanded increases.\n\n[7aa88a7575dd5e82] (Economics2e.pdf p.57) What a buyer pays for a unit of the specific good or service is called price. The total number of units that consumers would purchase at that price is called the quantity demanded. A rise in price of a good or service almost always decreases the quantity demanded of that good or service. Conversely, a fall in price will increase the quantity demanded. When the price of a gallon of gasoline increases, for example, people look for ways to reduce their consumption by combining several errands, commuting by carpool or mass transit, or taking weekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity demanded the law of demand. The law of demand assumes that all other variables that affect demand (which we explain in the next module) are held constant.",
+  "latency_s": 6.825846100022318,
+  "prompt_tokens": 2957,
+  "completion_tokens": 342,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00064875,
+  "verify_tokens": {},
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t46",
+  "split": "test",
+  "answerable": true,
+  "question": "Vì sao thời tiết mùa hè năm 2015 lại thuận lợi cho việc đánh bắt cá hồi ngoài khơi California?",
+  "status": "answered",
+  "answer": "In the summer of 2015, weather conditions were excellent for commercial salmon fishing off the California coast due to several factors. Heavy rains resulted in higher than normal water levels in rivers, which facilitated salmon breeding. Additionally, slightly cooler ocean temperatures promoted the growth of plankton, providing a robust food supply for marine life. The ocean remained calm during the fishing season, allowing commercial fishing operations to operate without significant interruptions from bad weather. These favorable conditions led to an increase in the quantity of salmon available for fishing, ultimately affecting the market dynamics positively. [7a9d0a284e5a6ed3]",
+  "citations": [
+   "7a9d0a284e5a6ed3"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "summer weather 2015 favorable salmon fishing offshore California",
+    "filter": null,
+    "results": [
+     [
+      "7a9d0a284e5a6ed3",
+      72,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "7d1ffc9a1e9e581d",
+      72,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "a537ef7dcaa2cedb",
+      73,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "1b9d19f225a98da7",
+      72,
+      0.03125,
+      4
+     ],
+     [
+      "de91a5b46659fe40",
+      69,
+      0.030536130536130537,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "7a9d0a284e5a6ed3",
+     "7d1ffc9a1e9e581d",
+     "a537ef7dcaa2cedb",
+     "1b9d19f225a98da7"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "7a9d0a284e5a6ed3",
+   "7d1ffc9a1e9e581d",
+   "a537ef7dcaa2cedb",
+   "1b9d19f225a98da7"
+  ],
+  "context": "[7a9d0a284e5a6ed3] (Economics2e.pdf p.72) Supposed that during the summer of 2015, weather conditions were excellent for commercial salmon fishing off the California coast. Heavy rains meant higher than normal levels of water in the rivers, which helps the salmon to breed. Slightly cooler ocean temperatures stimulated the growth of plankton, the microscopic organisms at the bottom of the ocean food chain, providing everything in the ocean with a hearty food supply. The ocean stayed calm during fishing season, so commercial fishing operations did not lose many days to bad weather. How did these climate conditions affect the quantity and price of salmon? Figure 3.16 illustrates the four-step approach, which we explain below, to work through this problem. Table 3.6 also provides the information to work the problem.\n\nFigure 3.16 Good Weather for Salmon Fishing: The Four-Step Process Unusually good weather leads to changes in the price and quantity of salmon.\n\nPrice per\n\nPound\n\nQuantity Supplied in\n\n2014 Quantity Supplied in\n\n[7d1ffc9a1e9e581d] (Economics2e.pdf p.72) 2015 Quantity Demanded\n\n$2.00 80 400 840\n\n$2.25 120 480 680\n\n$2.50 160 550 550\n\n$2.75 200 600 450\n\n$3.00 230 640 350\n\n$3.25 250 670 250\n\nTable 3.6 Salmon Fishing\n\nPrice per\n\nPound\n\nQuantity Supplied in\n\n2014 Quantity Supplied in\n\n2015 Quantity Demanded\n\n$3.50 270 700 200\n\nTable 3.6 Salmon Fishing\n\nStep 1. Draw a demand and supply model to illustrate the market for salmon in the year before the good weather conditions began. The demand curve D0 and the supply curve S0 show that the original equilibrium price is $3.25 per pound and the original equilibrium quantity is 250,000 fish. (This price per pound is what commercial buyers pay at the fishing docks. What consumers pay at the grocery is higher.)\n\nStep 2. Did the economic event affect supply or demand? Good weather is an example of a natural condition that affects supply.\n\n[a537ef7dcaa2cedb] (Economics2e.pdf p.73) Step 3. Was the effect on supply an increase or a decrease? Good weather is a change in natural conditions that increases the quantity supplied at any given price. The supply curve shifts to the right, moving from the original supply curve S0 to the new supply curve S1, which Figure 3.16 and Table 3.6 show.\n\nStep 4. Compare the new equilibrium price and quantity to the original equilibrium. At the new equilibrium E1, the equilibrium price falls from $3.25 to $2.50, but the equilibrium quantity increases from 250,000 to 550,000 salmon. Notice that the equilibrium quantity demanded increased, even though the demand curve did not move.\n\nIn short, good weather conditions increased supply of the California commercial salmon. The result was a higher equilibrium quantity of salmon bought and sold in the market at a lower price. Newspapers and the Internet\n\n[1b9d19f225a98da7] (Economics2e.pdf p.72) Step 4. Identify the new equilibrium and then compare the original equilibrium price and quantity to the new equilibrium price and quantity.\n\nLet’s consider one example that involves a shift in supply and one that involves a shift in demand. Then we will consider an example where both supply and demand shift. Good Weather for Salmon Fishing",
+  "latency_s": 4.310953599982895,
+  "prompt_tokens": 1603,
+  "completion_tokens": 176,
+  "embedding_tokens": 10,
+  "cost_usd": 0.00034625,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t47",
+  "split": "test",
+  "answerable": true,
+  "question": "If demand for nurses rises while the supply of nurses falls, what happens to nurse salaries and to the number of nurses?",
+  "status": "answered",
+  "answer": "If the demand for nurses rises while the supply of nurses falls, nurse salaries will increase due to the higher demand and lower supply. This is because the leftward shift of the supply curve, caused by factors such as retiring nurses and increased tuition for nursing degrees, leads to higher salaries for nurses. However, the overall impact on the number of nurses is uncertain; it may be less than the initial quantity but more than the equilibrium quantity before the shifts occurred. Therefore, while salaries will rise, the number of nurses may not necessarily increase and could potentially decrease depending on the relative shifts of supply and demand. [7b33302032920c54]",
+  "citations": [
+   "7b33302032920c54"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "demand for nurses rises supply of nurses falls effect on salaries and number of nurses",
+    "filter": {
+     "chapter": 4
+    },
+    "results": [
+     [
+      "7b33302032920c54",
+      111,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "4419becc05a2662a",
+      95,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "29b2fe063b0851fd",
+      96,
+      0.031054405392392875,
+      3
+     ],
+     [
+      "4920324692d7ee19",
+      95,
+      0.031024531024531024,
+      4
+     ],
+     [
+      "7f0205ffbc40e2da",
+      96,
+      0.029877369007803793,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "7b33302032920c54",
+     "4419becc05a2662a",
+     "29b2fe063b0851fd",
+     "4920324692d7ee19"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "7b33302032920c54",
+   "4419becc05a2662a",
+   "29b2fe063b0851fd",
+   "4920324692d7ee19"
+  ],
+  "context": "[7b33302032920c54] (Economics2e.pdf p.111) Suppose that as the demand for nurses increases, the supply shrinks due to an increasing number of nurses entering retirement and increases in the tuition of nursing degrees. The leftward shift of the supply curve in Figure 4.11 captures the impact of a decreasing supply of nurses. The shifts in the two curves result in higher salaries for nurses, but the overall impact in the quantity of nurses is uncertain, as it depends on the relative shifts of supply and demand.\n\nFigure 4.11 Impact of Decreasing Supply of Nurses between 2014 and 2024 The increase in demand for nurses shown in Figure 4.10 leads to both higher prices and higher quantities demanded. As nurses retire from the work force, the supply of nurses decreases, causing a leftward shift in the supply curve and higher salaries for nurses at Pe2. The net effect on the equilibrium quantity of nurses is uncertain, which in this representation is less than Qe1, but more than the initial Qe0.\n\n[4419becc05a2662a] (Economics2e.pdf p.95) Employers who face higher nurses’ salaries may also try to replace some nursing functions by investing in physical equipment, like computer monitoring and diagnostic systems to monitor patients, or by using lower-paid health care aides to reduce the number of nurses they need.\n\nAs the salary for nurses rises, the quantity supplied will rise. If nurses’ salaries in Minneapolis-St. Paul-Bloomington are higher than in other cities, more nurses will move to Minneapolis-St. Paul-Bloomington to find jobs, more people will be willing to train as nurses, and those currently trained as nurses will be more likely to pursue nursing as a fulltime job. In other words, there will be more nurses looking for jobs in the area.\n\n[29b2fe063b0851fd] (Economics2e.pdf p.96) In contrast, if the salary is below the equilibrium at, say, $60,000 per year, then a situation of excess demand or a shortage arises. In this case, employers encouraged by the relatively lower wage want to hire 40,000 nurses, but only 27,000 individuals want to work as nurses at that salary in Minneapolis-St. Paul-Bloomington. In response to the shortage, some employers will offer higher pay to attract the nurses. Other employers will have to match the higher pay to keep their own employees. The higher salaries will encourage more nurses to train or work in Minneapolis-St. Paul-Bloomington. Again, price and quantity in the labor market will move toward equilibrium. Shifts in Labor Demand\n\n[4920324692d7ee19] (Economics2e.pdf p.95) $80,000 32,000 41,000\n\nTable 4.1 Demand and Supply of Nurses in Minneapolis-St. Paul-Bloomington\n\nThe horizontal axis shows the quantity of nurses hired. In this example we measure labor by number of workers, but another common way to measure the quantity of labor is by the number of hours worked. The vertical axis shows the price for nurses’ labor—that is, how much they are paid. In the real world, this “price” would be total labor compensation: salary plus benefits. It is not obvious, but benefits are a significant part (as high as 30 percent) of labor compensation. In this example we measure the price of labor by salary on an annual basis, although in other cases we could measure the price of labor by monthly or weekly pay, or even the wage paid per hour. As the salary for nurses rises, the quantity demanded will fall. Some hospitals and nursing homes may reduce the number of nurses they hire, or they may lay off some of their existing nurses, rather than pay them higher salaries.",
+  "latency_s": 3.2985079000063706,
+  "prompt_tokens": 1625,
+  "completion_tokens": 183,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00035355,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t48",
+  "split": "test",
+  "answerable": true,
+  "question": "In the constant unitary elasticity demand example, by what percentage do price and quantity change between points C and D?",
+  "status": "answered",
+  "answer": "Between points C and D on the demand curve with constant unitary elasticity, both price and quantity change by 22.2%. This means that a 22.2% change in price corresponds to a 22.2% change in quantity demanded, maintaining the unit elasticity condition where the percentage change in price equals the percentage change in quantity. [262eb8334e00494a]",
+  "citations": [
+   "262eb8334e00494a"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "constant unitary elasticity demand example points C and D percentage change",
+    "filter": null,
+    "results": [
+     [
+      "262eb8334e00494a",
+      124,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "74024909efd3b02c",
+      124,
+      0.03200204813108039,
+      2
+     ],
+     [
+      "a7c7ea42f778b239",
+      125,
+      0.03200204813108039,
+      3
+     ],
+     [
+      "7ea85c078ae4629d",
+      124,
+      0.03125,
+      4
+     ],
+     [
+      "dea9063e9bf055f9",
+      125,
+      0.02967032967032967,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "262eb8334e00494a",
+     "74024909efd3b02c",
+     "a7c7ea42f778b239",
+     "7ea85c078ae4629d"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "262eb8334e00494a",
+   "74024909efd3b02c",
+   "a7c7ea42f778b239",
+   "7ea85c078ae4629d"
+  ],
+  "context": "[262eb8334e00494a] (Economics2e.pdf p.124) Constant unitary elasticity, in either a supply or demand curve, occurs when a price change of one percent results in a quantity change of one percent. Figure 5.6 shows a demand curve with constant unit elasticity. Constant unitary elasticity, in either a supply or demand curve, occurs when a price change of one percent results in a quantity change of one percent. Figure 5.6 shows a demand curve with constant unit elasticity. Using the midpoint method, you can calculate that between points A and B on the demand curve, the price changes by 28.6% and quantity demanded also changes by 28.6%. Hence, the elasticity equals 1. Between points B and C, price again changes by 28.6% as does quantity, while between points C and D the corresponding percentage changes are 22.2% for both price and quantity. In each case, then, the percentage change in price equals the percentage change in quantity, and consequently elasticity equals 1.\n\n[74024909efd3b02c] (Economics2e.pdf p.124) Figure 5.6 A Constant Unitary Elasticity Demand Curve A demand curve with constant unitary elasticity will be a curved line. Notice how price and quantity demanded change by an identical percentage amount between each pair of points on the demand curve.\n\nUnlike the demand curve with unitary elasticity, the supply curve with unitary elasticity is represented by a straight\n\nline, and that line goes through the origin. In each pair of points on the supply curve there is an equal difference in quantity of 30. However, in percentage value, using the midpoint method, the steps are decreasing as one moves from left to right, from 28.6% to 22.2% to 18.2%, because the quantity points in each percentage calculation are getting increasingly larger, which expands the denominator in the elasticity calculation of the percentage change in quantity.\n\n[a7c7ea42f778b239] (Economics2e.pdf p.125) Consider the price changes moving up the supply curve in Figure 5.7. From points D to E to F and to G on the supply curve, each step of $1.50 is the same in absolute value. However, if we measure the price changes in percentage change terms, using the midpoint method, they are also decreasing, from 28.6% to 22.2% to 18.2%, because the original price points in each percentage calculation are getting increasingly larger in value, increasing the denominator in the calculation of the percentage change in price. Along the constant unitary elasticity supply curve, the percentage quantity increases on the horizontal axis exactly match the percentage price increases on the vertical axis—so this supply curve has a constant unitary elasticity at all points.\n\n[7ea85c078ae4629d] (Economics2e.pdf p.124) Notice that in absolute value, the declines in price, as you step down the demand curve, are not identical. Instead, the price falls by $2.00 from A to B, by a smaller amount of $1.50 from B to C, and by a still smaller amount of $0.90 from C to D. As a result, a demand curve with constant unitary elasticity moves from a steeper slope on the left and a flatter slope on the right—and a curved shape overall. Notice that in absolute value, the declines in price, as you step down the demand curve, are not identical. Instead, the price falls by $23 from A to B, by a smaller amount of $1.50 from B to C, and by a still smaller amount of $.90 from C to D. As a result, a demand curve with constant unitary elasticity has a steeper slope on the left and a flatter slope on the right—and a curved shape overall.",
+  "latency_s": 2.659724199998891,
+  "prompt_tokens": 1640,
+  "completion_tokens": 128,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0003228,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t49",
+  "split": "test",
+  "answerable": false,
+  "question": "What was the U.S. federal minimum wage in 2022?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide information about the U.S. federal minimum wage specifically for the year 2022.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. federal minimum wage 2022",
+    "filter": null,
+    "results": [
+     [
+      "87e26da6e4f0b189",
+      101,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "63dadd9259803ad4",
+      100,
+      0.03200204813108039,
+      2
+     ],
+     [
+      "61dd76ef29c8941b",
+      80,
+      0.031754032258064516,
+      3
+     ],
+     [
+      "1bb902ea784d7f9e",
+      102,
+      0.03149801587301587,
+      4
+     ],
+     [
+      "a8eac835673bdf2f",
+      100,
+      0.030090497737556562,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "87e26da6e4f0b189",
+     "63dadd9259803ad4",
+     "61dd76ef29c8941b",
+     "1bb902ea784d7f9e"
+    ]
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "87e26da6e4f0b189",
+   "63dadd9259803ad4",
+   "61dd76ef29c8941b",
+   "1bb902ea784d7f9e"
+  ],
+  "context": "[87e26da6e4f0b189] (Economics2e.pdf p.101) The U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly below it. About 1% of American workers are actually paid the minimum wage. In other words, the vast majority of the U.S. labor force has its wages determined in the labor market, not as a result of the government price floor. However, for workers with low skills and little experience, like those without a high school diploma or teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently below the market price for unskilled labor, because employers offer more than the minimum wage to checkout clerks and other low-skill workers without any government prodding.\n\n[63dadd9259803ad4] (Economics2e.pdf p.100) The labor market, however, presents some prominent examples of price floors, which are an attempt to increase the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it illegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage was raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher minimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage is too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you work 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is $14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty.\n\n[61dd76ef29c8941b] (Economics2e.pdf p.80) of a price floor is the minimum wage, which is based on the view that someone working full time should be able to afford a basic standard of living. The federal minimum wage in 2016 was $7.25 per hour, although some states and localities have a higher minimum wage. The federal minimum wage yields an annual income for a single person of $15,080, which is slightly higher than the Federal poverty line of $11,880. As the cost of living rises over time, the Congress periodically raises the federal minimum wage.\n\nPrice floors are sometimes called “price supports,” because they support a price by preventing it from falling below a certain level. Around the world, many countries have passed laws to create agricultural price supports. Farm prices and thus farm incomes fluctuate, sometimes widely. Even if, on average, farm incomes are adequate, some years they can be quite low. The purpose of price supports is to prevent these swings.\n\n[1bb902ea784d7f9e] (Economics2e.pdf p.102) These insights help to explain why U.S. minimum wage laws have historically had only a small impact on employment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor and sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the minimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have considered—then its impact on reducing the quantity demanded of employment would be far greater. As of 2017, many U.S. states are set to increase their minimum wage to $15 per hour. We will see what happens. The following Clear It Up feature describes in greater detail some of the arguments for and against changes to minimum wage.\n\nWhat’s the harm in raising the minimum wage?",
+  "latency_s": 1.8219249000248965,
+  "prompt_tokens": 1591,
+  "completion_tokens": 57,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00027285,
+  "verify_tokens": {},
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "t50",
+  "split": "test",
+  "answerable": false,
+  "question": "What is the price elasticity of demand for electric cars?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide specific information about the price elasticity of demand for electric cars.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "price elasticity of demand for electric cars",
+    "filter": null,
+    "results": [
+     [
+      "1da087922f6060a0",
+      63,
+      0.029906956136464335,
+      1
+     ],
+     [
+      "4e300708fc49eef7",
+      120,
+      0.029906956136464335,
+      2
+     ],
+     [
+      "7135de81a5fd9181",
+      64,
+      0.029513888888888888,
+      3
+     ],
+     [
+      "0c1d484846bd0a5b",
+      134,
+      0.028790389395194696,
+      4
+     ],
+     [
+      "da52673117baefe7",
+      120,
+      0.028612012987012988,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "1da087922f6060a0",
+     "4e300708fc49eef7",
+     "7135de81a5fd9181",
+     "0c1d484846bd0a5b"
+    ]
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "1da087922f6060a0",
+   "4e300708fc49eef7",
+   "7135de81a5fd9181",
+   "0c1d484846bd0a5b"
+  ],
+  "context": "[1da087922f6060a0] (Economics2e.pdf p.63) Let’s use income as an example of how factors other than price affect demand. Figure 3.5 shows the initial demand for automobiles as D0. At point Q, for example, if the price is $20,000 per car, the quantity of cars demanded is 18 million. D0 also shows how the quantity of cars demanded would change as a result of a higher or lower price. For example, if the price of a car rose to $22,000, the quantity demanded would decrease to 17 million, at point R.\n\nThe original demand curve D0, like every demand curve, is based on the ceteris paribus assumption that no other economically relevant factors change. Now imagine that the economy expands in a way that raises the incomes of many people, making cars more affordable. How will this affect demand? How can we show this graphically?\n\n[4e300708fc49eef7] (Economics2e.pdf p.120) Figure 5.2 Calculating the Price Elasticity of Demand We calculate the price elasticity of demand as the percentage change in quantity divided by the percentage change in price.\n\nFirst, apply the formula to calculate the elasticity as price decreases from $70 at point B to $60 at point A:\n\n% change in quantity = 3,000 – 2,800 (3,000 + 2,800)/2 × 100\n\n= 200 2,900 × 100\n\n= 6.9\n\n% change in price = 60 – 70 (60 + 70)/2 × 100\n\n= –10\n\n65 × 100\n\n= –15.4\n\nPrice Elasticity of Demand = 6.9% –15.4% = 0.45\n\nTherefore, the elasticity of demand between these two points is 6.9%\n\n–15.4% which is 0.45, an amount smaller than one,\n\n[7135de81a5fd9181] (Economics2e.pdf p.64) $24,000 13.2 million 16.5 million 18.5 million\n\n$26,000 12.8 million 16.0 million 18.0 million\n\nTable 3.4 Price and Demand Shifts: A Car Example\n\nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing their incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every given price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a decrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of $20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand fell.\n\n[0c1d484846bd0a5b] (Economics2e.pdf p.134) Income elasticity of demand = % change in Qd % change in income\n\nCross-price elasticity of demand = % change in Qd of good A % change in price of good B\n\nTable 5.4 Formulas for Calculating Elasticity\n\nWage elasticity of labor supply = % change in quantity of labor supplied\n\n% change in wage\n\nWage elasticity of labor demand = % change in quantity of labor demanded\n\n% change in wage\n\nInterest rate elasticity of savings = % change in quantity of savings\n\n% change in interest rate\n\nInterest rate elasticity of borrowing = % change in quantity of borrowing\n\n% change in interest rate\n\nTable 5.4 Formulas for Calculating Elasticity\n\nThat Will Be How Much?\n\nHow did the 60% price increase in 2011 end up for Netflix? It has been a very bumpy ride.",
+  "latency_s": 1.7623023000196554,
+  "prompt_tokens": 1612,
+  "completion_tokens": 50,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00027179999999999994,
+  "verify_tokens": {},
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "t51",
+  "split": "test",
+  "answerable": false,
+  "question": "What is the marginal propensity to consume?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not contain a definition or explanation of the marginal propensity to consume.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "marginal propensity to consume",
+    "filter": null,
+    "results": [
+     [
+      "120122cead382cb0",
+      105,
+      0.01639344262295082,
+      1
+     ],
+     [
+      "e0836c7003dfaaa7",
+      63,
+      0.01639344262295082,
+      2
+     ],
+     [
+      "629f97634d13caf4",
+      130,
+      0.016129032258064516,
+      3
+     ],
+     [
+      "5b838c2f48a7f5da",
+      129,
+      0.015873015873015872,
+      4
+     ],
+     [
+      "5ee0f0069452f647",
+      133,
+      0.015625,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "120122cead382cb0",
+     "e0836c7003dfaaa7",
+     "629f97634d13caf4",
+     "5b838c2f48a7f5da"
+    ]
+   },
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "definition of marginal propensity to consume",
+    "filter": null,
+    "results": [
+     [
+      "fd9a8fbf09fe5234",
+      57,
+      0.03252247488101534,
+      1
+     ],
+     [
+      "e0836c7003dfaaa7",
+      63,
+      0.01639344262295082,
+      2
+     ],
+     [
+      "120122cead382cb0",
+      105,
+      0.016129032258064516,
+      3
+     ],
+     [
+      "629f97634d13caf4",
+      130,
+      0.015873015873015872,
+      4
+     ],
+     [
+      "63dadd9259803ad4",
+      100,
+      0.015873015873015872,
+      5
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "fd9a8fbf09fe5234",
+     "120122cead382cb0",
+     "e0836c7003dfaaa7",
+     "629f97634d13caf4",
+     "63dadd9259803ad4"
+    ]
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "fd9a8fbf09fe5234",
+   "120122cead382cb0",
+   "e0836c7003dfaaa7",
+   "629f97634d13caf4",
+   "63dadd9259803ad4"
+  ],
+  "context": "[fd9a8fbf09fe5234] (Economics2e.pdf p.57) Economists use the term demand to refer to the amount of some good or service consumers are willing and able to purchase at each price. Demand is fundamentally based on needs and wants—if you have no need or want for something, you won't buy it. While a consumer may be able to differentiate between a need and a want, but from an economist’s perspective they are the same thing. Demand is also based on ability to pay. If you cannot pay for it, you have no effective demand. By this definition, a homeless person probably has no effective demand for shelter.\n\n[120122cead382cb0] (Economics2e.pdf p.105) The FRED database publishes some two dozen measures of interest rates, including interest rates on credit cards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website (https://openstax.org/l/FRED_stlouis) .\n\nShifts in Demand and Supply in Financial Markets\n\nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their savings among different forms of financial investments. We will discuss each of these in turn.\n\nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. Economists call this intertemporal decision making because it involves decisions across time. Unlike a decision about what to buy from the grocery store, people make investment or savings decisions across a period of time, sometimes a long period.\n\n[e0836c7003dfaaa7] (Economics2e.pdf p.63) For example, we can say that an increase in the price reduces the amount consumers will buy (assuming income, and anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount consumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the ceteris paribus assumption really means. In this particular case, after we analyze each factor separately, we can combine the results. The amount consumers buy falls for two reasons: first because of the higher price and second because of the lower income.\n\nHow Does Income Affect Demand?\n\n[629f97634d13caf4] (Economics2e.pdf p.130) The intuition for this is simple. When the demand is inelastic, consumers are not very responsive to price changes, and the quantity demanded reduces only modestly when the tax is introduced. In the case of smoking, the demand is inelastic because consumers are addicted to the product. The government can then pass the tax burden along to consumers in the form of higher prices, without much of a decline in the equilibrium quantity.\n\n[63dadd9259803ad4] (Economics2e.pdf p.100) The labor market, however, presents some prominent examples of price floors, which are an attempt to increase the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it illegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage was raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher minimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage is too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you work 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is $14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty.",
+  "latency_s": 3.242915600014385,
+  "prompt_tokens": 2666,
+  "completion_tokens": 66,
+  "embedding_tokens": 6,
+  "cost_usd": 0.00043962,
+  "verify_tokens": {},
+  "n_model_calls": 3
+ }
+]

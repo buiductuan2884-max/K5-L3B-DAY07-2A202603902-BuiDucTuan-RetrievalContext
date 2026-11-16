@@ -1,0 +1,1702 @@
+[
+ {
+  "query_id": "ad01",
+  "split": "dev",
+  "answerable": true,
+  "question": "What share of U.S. R&D funding came from nonprofits in 2015, and how much was it?",
+  "status": "answered",
+  "answer": "In 2015, nonprofits funded 4.0% of U.S. research and development (R&D), amounting to $19.9 billion out of a total $499 billion in R&D expenditures in the U.S. that year [ce7967e005c0b117][76bc27b9fcd58595].",
+  "citations": [
+   "ce7967e005c0b117",
+   "76bc27b9fcd58595"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. R&D funding from nonprofits in 2015",
+    "filter": null,
+    "results": [
+     [
+      "ce7967e005c0b117",
+      318,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "76bc27b9fcd58595",
+      318,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "559432eb1232e2d8",
+      319,
+      0.031024531024531024,
+      3
+     ],
+     [
+      "813a4b9df46fe551",
+      768,
+      0.031009615384615385,
+      4
+     ],
+     [
+      "874d1d5a65a3f80c",
+      953,
+      0.030798389007344232,
+      5
+     ],
+     [
+      "9085619b47ea079d",
+      318,
+      0.030309988518943745,
+      6
+     ]
+    ],
+    "context_ids": [
+     "ce7967e005c0b117",
+     "76bc27b9fcd58595",
+     "559432eb1232e2d8",
+     "813a4b9df46fe551",
+     "874d1d5a65a3f80c",
+     "9085619b47ea079d"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "ce7967e005c0b117",
+   "76bc27b9fcd58595",
+   "559432eb1232e2d8",
+   "813a4b9df46fe551",
+   "874d1d5a65a3f80c",
+   "9085619b47ea079d"
+  ],
+  "context": "[ce7967e005c0b117] (Economics2e.pdf p.318) [table Table 13.3: U.S. Research and Development Expenditures, 2015] (page 318)\n| Sources of R&D Funding       | Amount ($ billions) | Percent of the Total |\n|------------------------------|--------------------|---------------------|\n| Federal government            | $113.1             | 22.7%               |\n| Industry                     | $344.9             | 69.0%               |\n| Universities and colleges     | $17.1              | 3.4%                |\n| Nonprofits                   | $19.9              | 4.0%                |\n| Nonfederal government         | $4.0               | 0.8%                |\n| Total                        | $499               |                     |\n\n[76bc27b9fcd58595] (Economics2e.pdf p.318) (http://openstaxcollege.org/l/USDA) to read about government research that would not take place were it left to firms due to the externalities. The first column of Table 13.3 shows the sources of total U.S. spending on research and development. The second column shows the total dollars of R&D funding by each source. The third column shows that, relative to the total amount of funding, 22.7% comes from the federal government, about 69% of R&D is done by industry, and less than 4% is done by universities and colleges. (The percentages below do not add up to exactly 100% due to rounding.) Sources of R&D Funding Amount ($ billions) Percent of the Total Federal government $113.1 22.7% Industry $344.9 69.0% Universities and colleges $17.1 3.4% Nonprofits $19.9 4.0% Nonfederal government $4.0 0.8% Total $499 Table 13.3 U.S. Research and Development Expenditures, 2015 (Source: https://www.nsf.gov/ statistics/2016/nsf16316/) In the 1960s the federal government paid for about two-thirds of the nation’s R&D. Over time, the U.S. economy has come to rely much more heavily on industry-funded R&D. The federal government has tried to focus its direct R&D\n\n[559432eb1232e2d8] (Economics2e.pdf p.319) the research funding is spent. Policy #2: Tax Breaks for Research and Development A complementary approach to supporting R&D that does not involve the government’s close scrutiny of specific projects is to give firms a reduction in taxes depending on how much research and development they do. The federal government refers to this policy as the research and experimentation (R&E) tax credit. According to the Treasury Department: “. . . the R&E Credit is also a cost-effective policy for stimulating additional private sector investment. Most recent studies find that each dollar of foregone tax revenue through the R&E Tax Credit causes firms to invest at least a dollar in R&D, with some studies finding a benefit to cost ratio of 2 or 2.96.” Visit this website (http://openstaxcollege.org/l/REtaxcredit) for more information on how the R&E Tax Credit encourages investment. Policy #3 Cooperative Research State and federal governments support research in a variety of ways. For example, United for Medical Research, a coalition of groups that seek funding for the National Institutes of Health, (which is supported by federal grants),\n\n[813a4b9df46fe551] (Economics2e.pdf p.768) Fiscal Policy Can Improve Technology Research and development (R&D) efforts are the lifeblood of new technology. According to the National Science Foundation, federal outlays for research, development, and physical plant improvements to various governmental agencies have remained at an average of 8.8% of GDP. About one-fifth of U.S. R&D spending goes to defense and space-oriented research. Although defense-oriented R&D spending may sometimes produce consumer-oriented spinoffs, R&D that is aimed at producing new weapons is less likely to benefit the civilian economy than direct civilian R&D spending. Fiscal policy can encourage R&D using either direct spending or tax policy. Government could spend more on the R&D that it carries out in government laboratories, as well as expanding federal R&D grants to universities and colleges, nonprofit organizations, and the private sector. By 2014, the federal share of R&D outlays totaled $135.5 billion, or about 4% of the federal government's total budget outlays, according to data from the National Science Foundation. Fiscal policy can also support R&D through tax incentives, which allow firms to reduce their tax bill as\n\n[874d1d5a65a3f80c] (Economics2e.pdf p.953) “U.S. R&D Spending Resumes Growth in 2010 and 2011 but Still Lags Behind the Pace of Expansion of the National Economy.” Accessed April 1, 2015. http://www.nsf.gov/statistics/infbrief/ nsf13313/. Psacharopoulos, George. “Returns to Investment in Education: A Global Update.” World Development 22, 1994. 1325–1343. Salientes-Narisma, Corrie. “Samsung Shift to Innovative Devices Pay Off.” Inquirer Technology. Accessed May 15, 2013. http://technology.inquirer.net/23831/samsungs-shift-to-innovative-devices-pays-off. United States Department of the Treasury. “Research and Experimentation Tax Credit.” Accessed November 2013. http://www.treasury.gov/press-center/news/Pages/investing-in-us-competitiveness.aspx. U.S. Patent and Trademark Office. 2015. “U.S. Patent Statistics: Calendar Years 1963–2014.” Accessed April 10, 2015. http://www.uspto.gov/web/offices/ac/ido/oeip/taf/us_stat.pdf. United for Medical Research. “Profiles of Prosperity: How NIH-Supported Research Is Fueling Private Sector Growth and Innovation.” Introduction. Accessed January 2014. http://www.unitedformedicalresearch.com/wp- content/uploads/2013/07/UMR_ProsperityReport_071913a.pdf. Cowen, Tyler.\n\n[9085619b47ea079d] (Economics2e.pdf p.318) R&D. Over time, the U.S. economy has come to rely much more heavily on industry-funded R&D. The federal government has tried to focus its direct R&D spending on areas where private firms are not as active. One difficulty with direct government support of R&D is that it inevitably involves political decisions about which projects are worthy. The scientific question of whether research is worthwhile can easily become entangled with considerations like the location of the congressional district in which",
+  "latency_s": 2.7720496999972966,
+  "prompt_tokens": 2348,
+  "completion_tokens": 130,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0011472000000000001,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad02",
+  "split": "dev",
+  "answerable": true,
+  "question": "How much did a movie ticket cost in 1970 and in 2017 according to Table 22.1?",
+  "status": "answered",
+  "answer": "According to Table 22.1, a movie ticket cost $1.55 in 1970 and $8.65 in 2017 [db18a8d381d393ff].",
+  "citations": [
+   "db18a8d381d393ff"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "movie ticket cost 1970 2017 Table 22.1",
+    "filter": null,
+    "results": [
+     [
+      "db18a8d381d393ff",
+      539,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "8312d53538d52717",
+      539,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "f18d03274d3d16ff",
+      91,
+      0.03128054740957967,
+      3
+     ],
+     [
+      "e5a67c44434bb435",
+      538,
+      0.030158730158730156,
+      4
+     ],
+     [
+      "69afb254404ae5b3",
+      91,
+      0.028850145288501453,
+      5
+     ],
+     [
+      "cb5e4a80de121688",
+      959,
+      0.028594771241830064,
+      6
+     ]
+    ],
+    "context_ids": [
+     "db18a8d381d393ff",
+     "8312d53538d52717",
+     "f18d03274d3d16ff",
+     "e5a67c44434bb435",
+     "69afb254404ae5b3",
+     "cb5e4a80de121688"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "db18a8d381d393ff",
+   "8312d53538d52717",
+   "f18d03274d3d16ff",
+   "e5a67c44434bb435",
+   "69afb254404ae5b3",
+   "cb5e4a80de121688"
+  ],
+  "context": "[db18a8d381d393ff] (Economics2e.pdf p.539) [table Table 22.1: Price Comparisons, 1970 and 2017] (page 539)\n| Items                                | 1970    | 2017     |\n|-------------------------------------|---------|----------|\n| Pound of ground beef                 | $0.66   | $3.62    |\n| Pound of butter                     | $0.87   | $2.03    |\n| Movie ticket                        | $1.55   | $8.65    |\n| Sales price of new home (median)   | $22,000 | $312,900 |\n| New car                            | $3,000  | $4,077   |\n| Gallon of gasoline                 | $0.36   | $2.35    |\n| Average hourly wage for a manufacturing worker | $3.23   | $20.65   |\n| Per capita GDP                     | $5,069  | $57,294  |\n\n[8312d53538d52717] (Economics2e.pdf p.539) beginning of 2017, $1 had about the same purchasing power in overall terms of goods and services as 18 cents did in 1972, because of the amount of inflation that has occurred over that time period. Items 1970 2017 Pound of ground beef $0.66 $3.62 Pound of butter $0.87 $2.03 Movie ticket $1.55 $8.65 Sales price of new home (median) $22,000 $312,900 New car $3,000 $4,077 Gallon of gasoline $0.36 $2.35 Average hourly wage for a manufacturing worker $3.23 $20.65 Per capita GDP $5,069 $57,294 Table 22.1 Price Comparisons, 1970 and 2017 (Sources: See chapter References at end of book.) Moreover, the power of inflation does not affect just goods and services, but wages and income levels, too. The second-to-last row of Table 22.1 shows that the average hourly wage for a manufacturing worker increased nearly six-fold from 1970 to 2017. The average worker in 2017 is better educated and more productive than the average worker in 1970—but not six times more productive. Per capita GDP increased substantially from 1970 to 2017, but is the average person in the U.S. economy really more than eleven times better off in just 47 years? Not likely.\n\n[f18d03274d3d16ff] (Economics2e.pdf p.91) [table Table 3.10: Supply and demand for movie tickets in a city] (page 91)\n| Price per Pound | Qd | Qs |\n|-----------------|----|----|\n| $5.00           | 26 | 16 |\n| $6.00           | 24 | 18 |\n| $7.00           | 22 | 20 |\n| $8.00           | 21 | 21 |\n| $9.00           | 20 | 22 |\n\n[e5a67c44434bb435] (Economics2e.pdf p.538) roles as lenders and borrowers, wage-earners, taxpayers, and consumers. The chapter concludes with a discussion of some imperfections and biases in the inflation statistics, and a preview of policies for fighting inflation that we will discuss in other chapters. By the end of this section, you will be able to: • Calculate the annual rate of inflation • Explain and use index numbers and base years when simplifying the total quantity spent over a year for products • Calculate inflation rates using index numbers Dinner table conversations where you might have heard about inflation usually entail reminiscing about when “everything seemed to cost so much less. You used to be able to buy three gallons of gasoline for a dollar and then go see an afternoon movie for another dollar.” Table 22.1 compares some prices of common goods in 1970 and 2017. Of course, the average prices in this table may not reflect the prices where you live. The cost of living in New York City is much higher than in Houston, Texas, for example. In addition, certain products have evolved over recent decades.\n\n[69afb254404ae5b3] (Economics2e.pdf p.91) 56. Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and identify the equilibrium. Then calculate in a table and graph the effect of the following two changes. a. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money by selling food and drink. As a result, demand for movie tickets falls by six units at every price. b. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the quantity supplied of movies at any given price increases by 10%. Price per Pound Qd Qs $5.00 26 16 $6.00 24 18 $7.00 22 20 $8.00 21 21 $9.00 20 22 Table 3.10 57. A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to the poor.Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and equilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, quantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? Price Qd Qs $1.60 9,000 5,000 $2.00 8,500 5,500 $2.40 8,000 6,400 $2.80 7,500 7,500 $3.20 7,000 9,000 $3.60 6,500\n\n[cb5e4a80de121688] (Economics2e.pdf p.959) Table 22.1: http://www.eia.gov/dnav/pet/pet_pri_gnd_a_epmr_pte_dpgal_w.htm http://data.bls.gov/cgi-bin/surveymost?ap http://www.bls.gov/ro3/apmw.htm http://www.autoblog.com/2014/03/12/who-can-afford-the-average-car-price-only-folks-in-washington/ https://www.census.gov/construction/nrs/pdf/uspricemon.pdf http://www.bls.gov/news.release/empsit.t24.htm http://variety.com/2015/film/news/movie-ticket-prices-increased-in-2014-1201409670/ US Inflation Calculator. \"Historical Inflation Rates: 1914-2013.\" Accessed March 4, 2015. http://www.usinflationcalculator.com/inflation/historical-inflation-rates/. Bernhard, Kent. “Pump Prices Jump Across U.S. after Katrina.” NBC News, September 1, 2005. http://www.nbcnews.com/id/9146363/ns/business-local_business/t/pump-prices-jump-across-us-after- katrina/#.U00kRfk7um4. Wynne, Mark A. “Core Inflation, A Review of Some Conceptual Issues.” Federal Reserve Bank of St. Louis. p. 209. Accessed April 14, 2014. http://research.stlouisfed.org/publications/review/08/05/part2/Wynne.pdf Shiller, Robert. “Why Do People Dislike Inflation?” NBER Working Paper Series, National Bureau of Economic Research, p. 52. 1996. Wines, Michael.",
+  "latency_s": 1.9745195000141393,
+  "prompt_tokens": 2537,
+  "completion_tokens": 92,
+  "embedding_tokens": 0,
+  "cost_usd": 0.001162,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad03",
+  "split": "dev",
+  "answerable": true,
+  "question": "How much did the average U.S. household spend on education in 2015?",
+  "status": "answered",
+  "answer": "The average U.S. household spent $48,109 on consumption in 2015, but the specific amount spent on education is not detailed in the provided data. State and local governments spent about $840 billion on education in fiscal year 2014, which includes K–12 and college education, indicating education is a significant expenditure category at the government level. The average household spending on education specifically is not directly stated in the available context [4f06fc084813f1c2][fb2f600575a2a2ea][cf50f2e2945168dd].",
+  "citations": [
+   "4f06fc084813f1c2",
+   "fb2f600575a2a2ea",
+   "cf50f2e2945168dd"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "average U.S. household spending on education in 2015",
+    "filter": null,
+    "results": [
+     [
+      "4f06fc084813f1c2",
+      144,
+      0.032266458495966696,
+      1
+     ],
+     [
+      "fb2f600575a2a2ea",
+      144,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "cf50f2e2945168dd",
+      732,
+      0.029437229437229435,
+      3
+     ],
+     [
+      "798447e425e32eb6",
+      956,
+      0.028958333333333336,
+      4
+     ],
+     [
+      "501aa070d695b7bf",
+      768,
+      0.028790389395194696,
+      5
+     ],
+     [
+      "106a0aaa3a432033",
+      732,
+      0.02782608695652174,
+      6
+     ]
+    ],
+    "context_ids": [
+     "4f06fc084813f1c2",
+     "fb2f600575a2a2ea",
+     "cf50f2e2945168dd",
+     "798447e425e32eb6",
+     "501aa070d695b7bf",
+     "106a0aaa3a432033"
+    ]
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "4f06fc084813f1c2",
+     "fb2f600575a2a2ea",
+     "cf50f2e2945168dd"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4f06fc084813f1c2",
+   "fb2f600575a2a2ea",
+   "cf50f2e2945168dd",
+   "798447e425e32eb6",
+   "501aa070d695b7bf",
+   "106a0aaa3a432033"
+  ],
+  "context": "[4f06fc084813f1c2] (Economics2e.pdf p.144) of diminishing marginal utility Information on the consumption choices of Americans is available from the Consumer Expenditure Survey carried out by the U.S. Bureau of Labor Statistics. Table 6.1 shows spending patterns for the average U.S. household. The first row shows income and, after taxes and personal savings are subtracted, it shows that, in 2015, the average U.S. household spent $48,109 on consumption. The table then breaks down consumption into various categories. The average U.S. household spent roughly one-third of its consumption on shelter and other housing expenses, another one-third on food and vehicle expenses, and the rest on a variety of items, as shown. These patterns will vary for specific households by differing levels of family income, by geography, and by preferences. Average Household Income before Taxes $62,481 Average Annual Expenditures $48.109 Food at home $3,264 Food away from home $2,505 Housing $16,557 Apparel and services $1,700 Table 6.1 U.S. Consumption Choices in 2015 (Source: http://www.bls.gov/cex/csxann13.pdf)\n\n[fb2f600575a2a2ea] (Economics2e.pdf p.144) [table Table 6.1: U.S. Consumption Choices in 2015] (page 144)\n| Category                         | Amount    |\n|---------------------------------|-----------|\n| Average Household Income before Taxes | $62,481   |\n| Average Annual Expenditures      | $48,109   |\n| Food at home                    | $3,264    |\n| Food away from home             | $2,505    |\n| Housing                        | $16,557   |\n| Apparel and services           | $1,700    |\n\n(Source: http://www.bls.gov/cex/csxann13.pdf)\n\n[cf50f2e2945168dd] (Economics2e.pdf p.732) revenues and spending must be closed by higher taxes, lower spending, drawing down their previous savings, or some combination of all of these. Figure 30.4 State and Local Spending, 1960–2013 Spending by state and local government increased from about 10% of GDP in the early 1960s to 14–16% by the mid-1970s. It has remained at roughly that level since. The single biggest spending item is education, including both K–12 spending and support for public colleges and universities, which has been about 4–5% of GDP in recent decades. Source: (Source: Bureau of Economic Analysis.) U.S. presidential candidates often run for office pledging to improve the public schools or to get tough on crime. However, in the U.S. government system, these tasks are primarily state and local government responsibilities. In fiscal year 2014 state and local governments spent about $840 billion per year on education (including K–12 and college and university education), compared to only $100 billion by the federal government, according to usgovernmentspending.com. In other words, about 90 cents of every dollar spent on education happens at the state and\n\n[798447e425e32eb6] (Economics2e.pdf p.956) Institute of Education Sciences: National Center for Education Statistics. “Fast Facts: Degrees Conferred by Sex and Race.” http://nces.ed.gov/fastfacts/display.asp?id=72. Nhan, Doris. “Census: More in U.S. Report Nontraditional Households.” National Journal. Last modified May 1, 2012. http://www.nationaljournal.com/thenextamerica/demographics/census-more-in-u-s-report-nontraditional- households-20120430. U.S. Bureau of Labor Statistics: BLS Reports. “Report 1040: Women in the Labor Force: A Databook.” Last modified March 26, 2013. http://www.bls.gov/cps/wlf-databook-2012.pdf. U.S. Department of Commerce: United States Census Bureau. “Income: Table H-2. Share of Aggregate Income Received by Each Fifth and Top 5 Percent of Households.” http://www.census.gov/hhes/www/income/data/ historical/household/. United States Census Bureau. 2014. “2013 Highlights.” Accessed April 13, 2015. http://www.census.gov/hhes/www/ poverty/about/overview/. United States Census Bureau. 2014. “Historical Income Tables: Households: Table H-2 Share of Aggregate Income Received by Each Fifth and Top 5% of Income. All Races.” Accessed April 13, 2015. http://www.census.gov/\n\n[501aa070d695b7bf] (Economics2e.pdf p.768) classes beyond the high school level. In Germany and Japan, about half of all students take classes beyond the comparable high school level. In the countries of Latin America, only about one student in four takes classes beyond the high school level, and in the nations of sub-Saharan Africa, only about one student in 20. Not all spending on educational human capital needs to happen through the government: many college students in the United States pay a substantial share of the cost of their education. If low-income countries of the world are going to experience a widespread increase in their education levels for grade-school children, government spending seems likely to play a substantial role. For the U.S. economy, and for other high-income countries, the primary focus at this time is more on how to get a bigger return from existing spending on education and how to improve the performance of the average high school graduate, rather than dramatic increases in education spending. How Fiscal Policy Can Improve Technology Research and development (R&D) efforts are the lifeblood of new technology. According to the National Science\n\n[106a0aaa3a432033] (Economics2e.pdf p.732) [chart Figure 30.4: State and Local Spending, 1960–2013] (page 732)\nChart type: Line chart\nX-axis: Year, range 1960 to 2015\nY-axis: State and Local Spending (as percentage of GDP), range 0 to 18%\nTwo series:\n- Total spending: starts about 10% in 1960, rises to about 14-16% by mid-1970s, remains roughly at that level with some fluctuations, peaks around 16% in early 2000s, then slightly declines to about 14% by 2013.\n- Education spending: starts about 4% in 1960, remains relatively stable around 4-5% throughout the period, slight fluctuations but generally steady.\nCaption summary: Spending by state and local government increased from about 10% of GDP in the early 1960s to 14–16% by the mid-1970s. It has remained at roughly that level since. The single biggest spending item is education, including both K–12 spending and support for public colleges and universities, which has been about 4–5% of GDP in recent decades.",
+  "latency_s": 4.3183762000116985,
+  "prompt_tokens": 4567,
+  "completion_tokens": 334,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0023612000000000004,
+  "n_model_calls": 3,
+  "context_evidence": false
+ },
+ {
+  "query_id": "ad04",
+  "split": "dev",
+  "answerable": true,
+  "question": "In the circular flow diagram, what flow labelled D goes from firms to households?",
+  "status": "answered",
+  "answer": "In the circular flow diagram, the flow labelled D that goes from firms to households represents \"Wages, Salaries and Benefits.\" This flow indicates that firms pay households for labor and other resources they provide in the factor market, which is the inner circle of the diagram. This payment is the income households receive in exchange for supplying labor and other inputs to firms [a45dbf0e0878577a][15d0569ccb04466c][3a578a3777d15cfe].",
+  "citations": [
+   "a45dbf0e0878577a",
+   "15d0569ccb04466c",
+   "3a578a3777d15cfe"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "circular flow diagram flow labelled D from firms to households",
+    "filter": null,
+    "results": [
+     [
+      "a45dbf0e0878577a",
+      27,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "15d0569ccb04466c",
+      27,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "3a578a3777d15cfe",
+      27,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "5130ee2ef7e103b4",
+      26,
+      0.03055037313432836,
+      4
+     ],
+     [
+      "efcc75885386acc7",
+      34,
+      0.03055037313432836,
+      5
+     ],
+     [
+      "0ced1e5005ec78cc",
+      33,
+      0.030536130536130537,
+      6
+     ]
+    ],
+    "context_ids": [
+     "a45dbf0e0878577a",
+     "15d0569ccb04466c",
+     "3a578a3777d15cfe",
+     "5130ee2ef7e103b4",
+     "efcc75885386acc7",
+     "0ced1e5005ec78cc"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a45dbf0e0878577a",
+   "15d0569ccb04466c",
+   "3a578a3777d15cfe",
+   "5130ee2ef7e103b4",
+   "efcc75885386acc7",
+   "0ced1e5005ec78cc"
+  ],
+  "context": "[a45dbf0e0878577a] (Economics2e.pdf p.27) [diagram Figure 1.6 The Circular Flow Diagram: The Circular Flow Diagram] (page 27)\nThe diagram shows two main entities: Households and Firms, each represented by a labeled box. There are two circular flows connecting these entities with arrows labeled A, B, C, and D. \n\n- Arrow A (outer circle, clockwise from Firms to Households): labeled 'Goods and Services', indicating Firms produce and sell goods and services to Households.\n- Arrow B (outer circle, clockwise from Households to Firms): labeled 'Payment for Goods and Services', indicating Households pay Firms for goods and services.\n- Arrow C (inner circle, clockwise from Households to Firms): labeled 'Labor Services', indicating Households provide labor and other resources to Firms.\n- Arrow D (inner circle, clockwise from Firms to Households): labeled 'Wages, Salaries and Benefits', indicating Firms pay Households for labor and resources.\n\nThe outer circle represents the product market (goods and services market) with Firms supplying and Households demanding. The inner circle represents the factor market (labor market) with Households supplying labor and Firms demanding labor.\n\n[15d0569ccb04466c] (Economics2e.pdf p.27) Figure 1.6 The Circular Flow Diagram The circular flow diagram shows how households and firms interact in the goods and services market, and in the labor market. The direction of the arrows shows that in the goods and services market, households receive goods and services and pay firms for them. In the labor market, households provide labor and receive payment from firms through wages, salaries, and benefits. Firms produce and sell goods and services to households in the market for goods and services (or product market). Arrow “A” indicates this. Households pay for goods and services, which becomes the revenues to firms. Arrow “B” indicates this. Arrows A and B represent the two sides of the product market. Where do households obtain the income to buy goods and services? They provide the labor and other resources (e.g. land, capital, raw materials) firms need to produce goods and services in the market for inputs (or factors of production). Arrow “C” indicates this. In return, firms pay for the inputs (or resources) they use in the form of wages and other factor payments. Arrow “D” indicates this. Arrows “C” and “D” represent the two sides of the factor market.\n\n[3a578a3777d15cfe] (Economics2e.pdf p.27) they use in the form of wages and other factor payments. Arrow “D” indicates this. Arrows “C” and “D” represent the two sides of the factor market. Of course, in the real world, there are many different markets for goods and services and markets for many different types of labor. The circular flow diagram simplifies this to make the picture easier to grasp. In the diagram, firms produce goods and services, which they sell to households in return for revenues. The outer circle shows this, and represents the two sides of the product market (for example, the market for goods and services) in which households demand and firms supply. Households sell their labor as workers to firms in return for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor market in which households supply and firms demand. This version of the circular flow model is stripped down to the essentials, but it has enough features to explain how the product and labor markets work in the economy. We could easily add details to this basic model if we wanted to\n\n[5130ee2ef7e103b4] (Economics2e.pdf p.26) models of their new products, which are more rough and unfinished than the final product, but can still demonstrate how the new product will work. A good model to start with in economics is the circular flow diagram (Figure 1.6). It pictures the economy as consisting of two groups—households and firms—that interact in two markets: the goods and services market in which firms sell and households buy and the labor market in which households sell labor to business firms or other employees.\n\n[efcc75885386acc7] (Economics2e.pdf p.34) circular flow diagram onto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of imports, exports, and the payments for each on your diagram. 7. What is an example of a problem in the world today, not mentioned in the chapter, that has an economic dimension?\n\n[0ced1e5005ec78cc] (Economics2e.pdf p.33) circular flow diagram command economy division of labor economics economies of scale exports fiscal policy globalization goods and services market gross domestic product (GDP) imports labor market macroeconomics market market economy microeconomics model monetary policy private enterprise scarcity specialization theory traditional economy underground economy KEY TERMS a diagram that views the economy as consisting of households and firms interacting in a goods and services market and a labor market an economy where economic decisions are passed down from government authority and where the government owns the resources the way in which different workers divide required tasks to produce a good or service the study of how humans make choices under conditions of scarcity when the average cost of producing each individual unit declines as total output increases products (goods and services) made domestically and sold abroad economic policies that involve government spending and taxes the trend in which buying and selling in markets have increasingly crossed national borders a market in which firms are sellers of what they produce and households are buyers",
+  "latency_s": 2.5157929999986663,
+  "prompt_tokens": 2038,
+  "completion_tokens": 173,
+  "embedding_tokens": 0,
+  "cost_usd": 0.001092,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad05",
+  "split": "dev",
+  "answerable": true,
+  "question": "In Figure 7.2, what defines monopolistic competition?",
+  "status": "answered",
+  "answer": "Monopolistic competition is defined as a market structure where many firms sell differentiated products. These products can differ based on characteristics, location, intangible aspects, or consumer perceptions. Firms in monopolistic competition have some price-making power because their perceived demand curve is downward-sloping, but it is more elastic than that of a monopolist due to the presence of direct competition. This market structure represents a mix of mini-monopoly and tough competition, where each firm has a mini-monopoly on its particular style or brand but still competes with other firms selling similar but not identical products. Figure 7.2 illustrates this as a spectrum of competition, placing monopolistic competition between perfect competition (many firms selling identical products) and oligopoly (few firms selling identical or similar products) [b3ec345b5719ed5f][527eb85ac17e235b][57c004c48a4f5873].",
+  "citations": [
+   "b3ec345b5719ed5f",
+   "527eb85ac17e235b",
+   "57c004c48a4f5873"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Figure 7.2 monopolistic competition definition",
+    "filter": null,
+    "results": [
+     [
+      "527eb85ac17e235b",
+      260,
+      0.03177805800756621,
+      1
+     ],
+     [
+      "57c004c48a4f5873",
+      246,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "a1b97753535a191a",
+      246,
+      0.030090497737556562,
+      3
+     ],
+     [
+      "0f2280f37d2f2bde",
+      246,
+      0.029957522915269395,
+      4
+     ],
+     [
+      "15d819bb429ce863",
+      247,
+      0.029857397504456328,
+      5
+     ],
+     [
+      "b3ec345b5719ed5f",
+      166,
+      0.029827662395050816,
+      6
+     ]
+    ],
+    "context_ids": [
+     "527eb85ac17e235b",
+     "57c004c48a4f5873",
+     "a1b97753535a191a",
+     "0f2280f37d2f2bde",
+     "15d819bb429ce863",
+     "b3ec345b5719ed5f"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "527eb85ac17e235b",
+   "57c004c48a4f5873",
+   "a1b97753535a191a",
+   "0f2280f37d2f2bde",
+   "15d819bb429ce863",
+   "b3ec345b5719ed5f"
+  ],
+  "context": "[527eb85ac17e235b] (Economics2e.pdf p.260) pursuing self-interest any action that firms do to make consumers think their products are different from their competitors' KEY CONCEPTS AND SUMMARY 10.1 Monopolistic Competition Monopolistic competition refers to a market where many firms sell differentiated products. Differentiated products can arise from characteristics of the good or service, location from which the firm sells the product, intangible aspects of the product, and perceptions of the product. The perceived demand curve for a monopolistically competitive firm is downward-sloping, which shows that it is a price maker and chooses a combination of price and quantity. However, the perceived demand curve for a monopolistic competitor is more elastic than the perceived demand curve for a monopolist, because the monopolistic competitor has direct competition, unlike the pure monopolist. A profit-maximizing monopolistic competitor will seek out the quantity where marginal revenue is equal to marginal cost. The monopolistic competitor will produce that level of output and charge the price that the firm’s demand curve indicates.\n\n[57c004c48a4f5873] (Economics2e.pdf p.246) • Discuss entry, exit, and efficiency as they pertain to monopolistic competition • Analyze how advertising can impact monopolistic competition Monopolistic competition involves many firms competing against each other, but selling products that are distinctive in some way. Examples include stores that sell different styles of clothing; restaurants or grocery stores that sell a variety of food; and even products like golf balls or beer that may be at least somewhat similar but differ in public perception because of advertising and brand names. There are over 600,000 restaurants in the United States. When products are distinctive, each firm has a mini-monopoly on its particular style or flavor or brand name. However, firms producing such products must also compete with other styles and flavors and brand names. The term “monopolistic competition” captures this mixture of mini-monopoly and tough competition, and the following Clear It Up feature\n\n[a1b97753535a191a] (Economics2e.pdf p.246) and perfect competition. How do they behave? Why do they exist? We will revisit this case later, to find out what happened. Introduction to Monopolistic Competition and Oligopoly In this chapter, you will learn about: • Monopolistic Competition • Oligopoly Perfect competition and monopoly are at opposite ends of the competition spectrum. A perfectly competitive market has many firms selling identical products, who all act as price takers in the face of the competition. If you recall, price takers are firms that have no market power. They simply have to take the market price as given. Monopoly arises when a single firm sells a product for which there are no close substitutes. We consider Microsoft, for instance, as a monopoly because it dominates the operating systems market. What about the vast majority of real world firms and organizations that fall between these extremes, firms that we could describe as imperfectly competitive? What determines their behavior? They have more influence over the price they charge than perfectly competitive firms, but not as much as a monopoly. What will they do? One type of imperfectly competitive market is monopolistic competition.\n\n[0f2280f37d2f2bde] (Economics2e.pdf p.246) less than 50% of the large commercial aircraft in the world. Another example is the U.S. soft drink industry, which Coca-Cola and Pepsi dominate. We characterize oligopolies by high barriers to entry with firms choosing output, pricing, and other decisions strategically based on the decisions of the other firms in the market. In this chapter, we first explore how monopolistically competitive firms will choose their profit-maximizing level of output. We will then discuss oligopolistic firms, which face two conflicting temptations: to collaborate as if they were a single monopoly, or to individually compete to gain profits by expanding output levels and cutting prices. Oligopolistic markets and firms can also take on elements of monopoly and of perfect competition. By the end of this section, you will be able to: • Explain the significance of differentiated products • Describe how a monopolistic competitor chooses price and quantity • Discuss entry, exit, and efficiency as they pertain to monopolistic competition • Analyze how advertising can impact monopolistic competition\n\n[15d819bb429ce863] (Economics2e.pdf p.247) intangible preferences. The concept of differentiated products is closely related to the degree of variety that is available. If everyone in the economy wore only blue jeans, ate only white bread, and drank only tap water, then the markets for clothing, food, and drink would be much closer to perfectly competitive. The variety of styles, flavors, locations, and characteristics creates product differentiation and monopolistic competition. Perceived Demand for a Monopolistic Competitor A monopolistically competitive firm perceives a demand for its goods that is an intermediate case between monopoly and competition. Figure 10.2 offers a reminder that the demand curve that a perfectly competitive firm faces is perfectly elastic or flat, because the perfectly competitive firm can sell any quantity it wishes at the prevailing market price. In contrast, the demand curve, as faced by a monopolist, is the market demand curve, since a monopolist is the only firm in the market, and hence is downward sloping.\n\n[b3ec345b5719ed5f] (Economics2e.pdf p.166) [diagram Figure 7.2: The Spectrum of Competition] (page 166)\nA horizontal spectrum illustrating different market structures from left to right:\n- Left end labeled 'Many firms' with 'Identical product' below it, labeled 'Perfect Competition'\n- Next section labeled 'Many firms' with 'Similar but not identical products' below it, labeled 'Monopolistic Competition'\n- Next section labeled 'Few firms' with 'Identical or similar products' below it, labeled 'Oligopoly'\n- Right end labeled 'One firm' with 'No similar product' below it, labeled 'Monopoly'\n\nThis spectrum shows the range of competitive situations firms face, from perfect competition with many firms selling identical products to monopoly with one firm selling a unique product. Monopolistic competition and oligopoly fall between these extremes.",
+  "latency_s": 2.949168000021018,
+  "prompt_tokens": 2151,
+  "completion_tokens": 254,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0012668000000000002,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad06",
+  "split": "dev",
+  "answerable": true,
+  "question": "What does the \"merging currencies\" end of the exchange rate policy spectrum in Figure 29.10 mean?",
+  "status": "answered",
+  "answer": "The \"merging currencies\" end of the exchange rate policy spectrum means that a nation's currency is made identical to the currency of another nation. This is effectively a decision to have a permanently fixed exchange rate with those countries, similar to a very hard exchange rate peg. When countries merge currencies, they give up nationally oriented monetary policy altogether, as they share a common currency with other countries. This is the most rigid form of exchange rate policy, where the currency is no longer independently controlled but is the same as another nation's currency [8f974781afe66c13][f871b432596f3a88][62ca69b033219e5d][94069cfcf956dc48].",
+  "citations": [
+   "8f974781afe66c13",
+   "f871b432596f3a88",
+   "62ca69b033219e5d",
+   "94069cfcf956dc48"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "merging currencies exchange rate policy spectrum Figure 29.10",
+    "filter": null,
+    "results": [
+     [
+      "8f974781afe66c13",
+      717,
+      0.03252247488101534,
+      1
+     ],
+     [
+      "f871b432596f3a88",
+      717,
+      0.03252247488101534,
+      2
+     ],
+     [
+      "62ca69b033219e5d",
+      721,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "8e5c5c754a97478a",
+      722,
+      0.030090497737556562,
+      4
+     ],
+     [
+      "94069cfcf956dc48",
+      725,
+      0.028370221327967807,
+      5
+     ],
+     [
+      "c5587e4165c07e05",
+      717,
+      0.028205128205128206,
+      6
+     ]
+    ],
+    "context_ids": [
+     "8f974781afe66c13",
+     "f871b432596f3a88",
+     "62ca69b033219e5d",
+     "8e5c5c754a97478a",
+     "94069cfcf956dc48",
+     "c5587e4165c07e05"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "8f974781afe66c13",
+   "f871b432596f3a88",
+   "62ca69b033219e5d",
+   "8e5c5c754a97478a",
+   "94069cfcf956dc48",
+   "c5587e4165c07e05"
+  ],
+  "context": "[8f974781afe66c13] (Economics2e.pdf p.717) a hard peg, and a merged currency Exchange rate policies come in a range of different forms listed in Figure 29.10: let the foreign exchange market determine the exchange rate; let the market set the value of the exchange rate most of the time, but have the central bank sometimes intervene to prevent fluctuations that seem too large; have the central bank guarantee a specific exchange rate; or share a currency with other countries. Let’s discuss each type of exchange rate policy and its tradeoffs. Figure 29.10 A Spectrum of Exchange Rate Policies A nation may adopt one of a variety of exchange rate regimes, from floating rates in which the foreign exchange market determines the rates to pegged rates where governments intervene to manage the exchange rate's value, to a common currency where the nation adopts another country or group of countries' currency. Floating Exchange Rates We refer to a policy which allows the foreign exchange market to set exchange rates as a floating exchange rate. The U.S. dollar is a floating exchange rate, as are the currencies of about 40% of the countries in the world economy. The\n\n[f871b432596f3a88] (Economics2e.pdf p.717) [diagram Figure 29.10: A Spectrum of Exchange Rate Policies] (page 717)\nThe diagram shows a horizontal spectrum with four points from left to right:\n\n1. Floating exchange rates\n   - Description: Completely determined by market forces\n\n2. Soft exchange rate pegs\n   - Description: The market usually determines the exchange rate, but central bank sometimes intervenes\n\n3. Hard exchange rate pegs\n   - Description: Central bank intervenes in market to keep currency fixed at a certain level\n\n4. Merging currencies\n   - Description: The currency is made identical to currency of another nation\n\nCaption: A nation may adopt one of a variety of exchange rate regimes, from floating rates in which the foreign exchange market determines the rates to pegged rates where governments intervene to manage the exchange rate's value, to a common currency where the nation adopts another country or group of countries' currency.\n\n[62ca69b033219e5d] (Economics2e.pdf p.721) each other. For example, a soft peg exchange rate policy in which the government almost never acts to intervene in the exchange rate market will look a great deal like a floating exchange rate. Conversely, a soft peg policy in which the government intervenes often to keep the exchange rate near a specific level will look a lot like a hard peg. A decision to merge currencies with another country is, in effect, a decision to have a permanently fixed exchange rate with those countries, which is like a very hard exchange rate peg. Table 29.3 summarizes the range of exchange rates policy choices, with their advantages and disadvantages. Situation Floating Exchange Rates Soft Peg Hard Peg Merged Currency Large short-run fluctuations in exchange rates? Often considerable in the short term Maybe less in the short run, but still large changes over time None, unless a change in the fixed rate None Table 29.3 Tradeoffs of Exchange Rate Policies\n\n[8e5c5c754a97478a] (Economics2e.pdf p.722) 29.3 Tradeoffs of Exchange Rate Policies Global macroeconomics would be easier if the whole world had one currency and one central bank. The exchange rates between different currencies complicate the picture. If financial markets solely set exchange rates, they fluctuate substantially as short-term portfolio investors try to anticipate tomorrow’s news. If the government attempts to intervene in exchange rate markets through soft pegs or hard pegs, it gives up at least some of the power to use monetary policy to focus on domestic inflations and recessions, and it risks causing even greater fluctuations in foreign exchange markets. There is no consensus among economists about which exchange rate policies are best: floating, soft peg, hard peg, or merged currencies. The choice depends both on how well a nation’s central bank can implement a specific exchange rate policy and on how well a nation’s firms and banks can adapt to different exchange rate policies. A national economy that does a fairly good job at achieving the four main economic goals of growth, low inflation, low\n\n[94069cfcf956dc48] (Economics2e.pdf p.725) but the government sometimes intervenes to strengthen or weaken it. In a hard peg exchange rate policy, the government chooses an exchange rate. A central bank can intervene in exchange markets in two ways. It can raise or lower interest rates to make the currency stronger or weaker. It also can directly purchase or sell its currency in foreign exchange markets. All exchange rates policies face tradeoffs. A hard peg exchange rate policy will reduce exchange rate fluctuations, but means that a country must focus its monetary policy on the exchange rate, not on fighting recession or controlling inflation. When a nation merges its currency with another nation, it gives up on nationally oriented monetary policy altogether. A soft peg exchange rate may create additional volatility as exchange rate markets try to anticipate when and how the government will intervene. A flexible exchange rate policy allows monetary policy to focus on inflation and unemployment, and allows the exchange rate to change with inflation and rates of return, but also raises a risk that exchange rates may sometimes make large and abrupt movements. The spectrum of exchange rate policies includes:\n\n[c5587e4165c07e05] (Economics2e.pdf p.717) chapter on The International Trade and Capital Flows. Summing Up Public Policy and Exchange Rates Every nation would prefer a stable exchange rate to facilitate international trade and reduce the degree of risk and uncertainty in the economy. However, a nation may sometimes want a weaker exchange rate to stimulate aggregate demand and reduce a recession, or a stronger exchange rate to fight inflation. The country must also be concerned that rapid movements from a weak to a strong exchange rate may cripple its export industries, while rapid movements from a strong to a weak exchange rate can cripple its banking sector. In short, every choice of an exchange rate—whether it should be stronger or weaker, or fixed or changing—represents potential tradeoffs. By the end of this section, you will be able to: • Differentiate among a floating exchange rate, a soft peg, a hard peg, and a merged currency • Identify the tradeoffs that come with a floating exchange rate, a soft peg, a hard peg, and a merged currency Exchange rate policies come in a range of different forms listed in Figure 29.10: let the foreign exchange market",
+  "latency_s": 2.9667040999920573,
+  "prompt_tokens": 2234,
+  "completion_tokens": 221,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0012472,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad07",
+  "split": "dev",
+  "answerable": true,
+  "question": "In Figure 30.3, what share of federal spending went to national defense in 2014?",
+  "status": "answered",
+  "answer": "In 2014, the share of federal spending that went to national defense was 19% according to Figure 30.3 in the document [c7b553e079f6d405].",
+  "citations": [
+   "c7b553e079f6d405"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Figure 30.3 federal spending national defense 2014",
+    "filter": null,
+    "results": [
+     [
+      "c7b553e079f6d405",
+      732,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "12a10bb6b2b59522",
+      731,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "b91418ff75c50b01",
+      731,
+      0.03149801587301587,
+      3
+     ],
+     [
+      "cf43d429bdafeb06",
+      732,
+      0.03149801587301587,
+      4
+     ],
+     [
+      "267a89b119a40584",
+      730,
+      0.03076923076923077,
+      5
+     ],
+     [
+      "0726937482221129",
+      750,
+      0.029850746268656716,
+      6
+     ]
+    ],
+    "context_ids": [
+     "c7b553e079f6d405",
+     "12a10bb6b2b59522",
+     "b91418ff75c50b01",
+     "cf43d429bdafeb06",
+     "267a89b119a40584",
+     "0726937482221129"
+    ]
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "c7b553e079f6d405",
+     "cf43d429bdafeb06"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "c7b553e079f6d405",
+   "12a10bb6b2b59522",
+   "b91418ff75c50b01",
+   "cf43d429bdafeb06",
+   "267a89b119a40584",
+   "0726937482221129"
+  ],
+  "context": "[c7b553e079f6d405] (Economics2e.pdf p.732) [chart Figure 30.3: Slices of Federal Spending, 2014] (page 732)\nChart type: Pie chart\nSlices and percentages:\n- All other spending: 29%\n- National defense: 19%\n- Social Security: 22%\n- Healthcare (including Medicare and Medicaid): 24%\n- Net interest: 6%\nCaption summary: About 73% of government spending goes to four major areas: national defense, Social Security, healthcare, and interest payments on past borrowing. This leaves about 29% of federal spending for all other functions of the U.S. government.\n\n[12a10bb6b2b59522] (Economics2e.pdf p.731) [chart Figure 30.2: Federal Spending, 1960–2014] (page 731)\nChart type: Line chart\nX-axis: Year, range 1960 to 2020\nY-axis: Federal Spending (as percentage of GDP), range 0 to 30%\nSeries and approximate values:\n- Total federal spending: Starts about 19% in 1960, fluctuates mostly between 17% and 22%, peaks above 24% around 2009, then drops back to about 20% by 2013.\n- National defense: Starts about 13% in 1960, generally declines with fluctuations, dips below 5% by 2014, with upward bumps in the 1980s and post-2001.\n- Social Security: Starts about 1.5% in 1960, steadily rises to about 5% by 2014.\n- Healthcare: Starts near 0% in 1960, steadily rises to about 3.5% by 2014.\n- Net interest: Starts near 0% in 1960, rises to about 3.5% in the 1980s, fluctuates around 3% until late 1990s, then declines to about 1.4% by 2012.\n\n[b91418ff75c50b01] (Economics2e.pdf p.731) programs, and interest payments. From the graph, we see that national defense spending as a share of GDP has generally declined since the 1960s, although there were some upward bumps in the 1980s buildup under President Ronald Reagan and in the aftermath of the terrorist attacks on September 11, 2001. In contrast, Social Security and healthcare have grown steadily as a percent of GDP. Healthcare expenditures include both payments for senior citizens (Medicare), and payments for low-income Americans (Medicaid). State governments also partially fund Medicaid. Interest payments are the final main category of government spending in Figure 30.2. Figure 30.2 Federal Spending, 1960–2014 Since 1960, total federal spending has ranged from about 18% to 22% of GDP, although it climbed above that level in 2009, but quickly dropped back down to that level by 2013. The share that the government has spent on national defense has generally declined, while the share it has spent on Social Security and on healthcare expenses (mainly Medicare and Medicaid) has increased. (Source: Economic Report of the President, Tables B-2 and B-22, http://www.gpo.gov/fdsys/pkg/ERP-2014/content-detail.html)\n\n[cf43d429bdafeb06] (Economics2e.pdf p.732) Figure 30.3 Slices of Federal Spending, 2014 About 73% of government spending goes to four major areas: national defense, Social Security, healthcare, and interest payments on past borrowing. This leaves about 29% of federal spending for all other functions of the U.S. government. (Source: https://www.whitehouse.gov/omb/budget/ Historicals/) State and Local Government Spending Although federal government spending often gets most of the media attention, state and local government spending is also substantial—at about $3.1 trillion in 2014. Figure 30.4 shows that state and local government spending has increased during the last four decades from around 8% to around 14% today. The single biggest item is education, which accounts for about one-third of the total. The rest covers programs like highways, libraries, hospitals and healthcare, parks, and police and fire protection. Unlike the federal government, all states (except Vermont) have balanced budget laws, which means any gaps between revenues and spending must be closed by higher taxes, lower spending, drawing down their previous savings, or some combination of all of these.\n\n[267a89b119a40584] (Economics2e.pdf p.730) or growth in population and the real economy. A more useful method of comparison is to examine government spending as a percent of GDP over time. The top line in Figure 30.2 shows the federal spending level since 1960, expressed as a share of GDP. Despite a widespread sense among many Americans that the federal government has been growing steadily larger, the graph shows that federal spending has hovered in a range from 18% to 22% of GDP most of the time since 1960. The other lines in Figure 30.2 show the major federal spending categories: national defense, Social Security, health\n\n[0726937482221129] (Economics2e.pdf p.750) KEY CONCEPTS AND SUMMARY 30.1 Government Spending Fiscal policy is the set of policies that relate to federal government spending, taxation, and borrowing. In recent decades, the level of federal government spending and taxes, expressed as a share of GDP, has not changed much, typically fluctuating between about 18% to 22% of GDP. However, the level of state spending and taxes, as a share of GDP, has risen from about 12–13% to about 20% of GDP over the last four decades. The four main areas of federal spending are national defense, Social Security, healthcare, and interest payments, which together account for about 70% of all federal spending. When a government spends more than it collects in taxes, it is said to have a budget deficit. When a government collects more in taxes than it spends, it is said to have a budget surplus. If government spending and taxes are equal, it is said to have a balanced budget. The sum of all past deficits and surpluses make up the government debt. 30.2 Taxation The two main federal taxes are individual income taxes and payroll taxes that provide funds for Social Security",
+  "latency_s": 3.1383637999824714,
+  "prompt_tokens": 4225,
+  "completion_tokens": 157,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0019412000000000001,
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad08",
+  "split": "dev",
+  "answerable": true,
+  "question": "In Figure 19.3, what percentage of U.S. GDP on the demand side is government spending?",
+  "status": "answered",
+  "answer": "In Figure 19.3, government spending accounts for 17.6% of U.S. GDP on the demand side.[184244e1bdc1f0b9]",
+  "citations": [
+   "184244e1bdc1f0b9"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Figure 19.3 U.S. GDP demand side government spending percentage",
+    "filter": null,
+    "results": [
+     [
+      "184244e1bdc1f0b9",
+      456,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "f9230ad1c923bed1",
+      456,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "c9e062ea31109129",
+      457,
+      0.030330882352941176,
+      3
+     ],
+     [
+      "7b7db6fa735c6d6f",
+      457,
+      0.030158730158730156,
+      4
+     ],
+     [
+      "90bf620b139e298a",
+      455,
+      0.029571646010002173,
+      5
+     ],
+     [
+      "7030a69394a3a842",
+      456,
+      0.02946236559139785,
+      6
+     ]
+    ],
+    "context_ids": [
+     "184244e1bdc1f0b9",
+     "f9230ad1c923bed1",
+     "c9e062ea31109129",
+     "7b7db6fa735c6d6f",
+     "90bf620b139e298a",
+     "7030a69394a3a842"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "184244e1bdc1f0b9",
+   "f9230ad1c923bed1",
+   "c9e062ea31109129",
+   "7b7db6fa735c6d6f",
+   "90bf620b139e298a",
+   "7030a69394a3a842"
+  ],
+  "context": "[184244e1bdc1f0b9] (Economics2e.pdf p.456) [chart Figure 19.3: Percentage of Components of U.S. GDP on the Demand Side] (page 456)\nChart type: Pie chart\nSegments and percentages:\n- Consumption Expenditure: 68.7%\n- Investment Expenditure: 16.3%\n- Government Spending: 17.6%\n- Net Export Expenditure: -2.7%\nNote: The chart visually shows consumption as the largest segment, followed by government spending and investment, with net exports as a small negative segment.\n\n[f9230ad1c923bed1] (Economics2e.pdf p.456) [table Table 19.1: Components of U.S. GDP in 2016: From the Demand Side] (page 456)\n| Component   | Amount (in trillions of dollars) | Percentage of Total |\n|-------------|---------------------------------|---------------------|\n| Consumption | $12.8                           | 68.8%               |\n| Investment  | $3.0                            | 16.1%               |\n| Government  | $3.3                            | 17.7%               |\n| Exports     | $2.2                            | 11.8%               |\n| Imports     | –$2.7                           | –14.5%              |\n| **Total GDP** | **$18.6**                      | **100%**            |\n\n[c9e062ea31109129] (Economics2e.pdf p.457) [chart Figure 19.4: Components of GDP on the Demand Side] (page 457)\nTwo line charts side by side.\n\nLeft chart (a) Demand from consumption, investment, and government:\n- Y-axis: Percentage of GDP, from 0% to 80% in increments of 10%.\n- X-axis: Year, from 1960 to 2015 in increments of 5 years.\n- Series:\n  - Consumption: starts about 60% in 1960, slight upward trend, ends about 68-70% in 2015.\n  - Government: starts slightly under 20% in 1960, fluctuates modestly, ends slightly under 20% in 2015.\n  - Investment: starts about 15% in 1960, fluctuates more than others, ends slightly below 15% in 2015.\n\nRight chart (b) Imports and exports:\n- Y-axis: Percentage of GDP, from 0% to 20% in increments of 2%.\n- X-axis: Year, from 1960 to 2015 in increments of 5 years.\n- Series:\n  - Imports: starts about 4-5% in 1960, rises steadily with fluctuations, peaks about 17-18% around 2007-2010, ends about 16-17% in 2015.\n  - Exports: starts about 4-5% in 1960, rises steadily with fluctuations, peaks about 14% around 2010, ends about 13-14% in 2015.\n\nCaption: (a) Consumption is about two-thirds of GDP, and it has been on a slight upward trend over time. Business investment hovers around 15% of GDP, but it fluctuates more than consumption. Government spending on goods and services is slightly under 20% of GDP and has declined modestly over time. (b) Exports are added to total demand for goods and services, while imports are subtracted from total demand. If exports exceed imports, as in most of the 1960s and 1970s in the U.S. economy, a trade surplus exists. If imports exceed exports, as in recent years, then a trade deficit exists.\n\n[7b7db6fa735c6d6f] (Economics2e.pdf p.457) Figure 19.4 Components of GDP on the Demand Side (a) Consumption is about two-thirds of GDP, and it has been on a slight upward trend over time. Business investment hovers around 15% of GDP, but it fluctuates more than consumption. Government spending on goods and services is slightly under 20% of GDP and has declined modestly over time. (b) Exports are added to total demand for goods and services, while imports are subtracted from total demand. If exports exceed imports, as in most of the 1960s and 1970s in the U.S. economy, a trade surplus exists. If imports exceed exports, as in recent years, then a trade deficit exists. (Source: http://bea.gov/iTable/index_nipa.cfm) Consumption expenditure by households is the largest component of GDP, accounting for about two-thirds of the GDP in any year. This tells us that consumers’ spending decisions are a major driver of the economy. However, consumer spending is a gentle elephant: when viewed over time, it does not jump around too much, and has increased modestly from about 60% of GDP in the 1960s and 1970s. Investment expenditure refers to purchases of physical plant and equipment, primarily by businesses. If Starbucks\n\n[90bf620b139e298a] (Economics2e.pdf p.455) consumers purchase in the economy, or by the total dollar value of what is the country produces. There is even a third way, as we will explain later. GDP Measured by Components of Demand Who buys all of this production? We can divide this demand into four main parts: consumer spending (consumption), business spending (investment), government spending on goods and services, and spending on net exports. (See the following Clear It Up feature to understand what we mean by investment.) Table 19.1 shows how these four components added up to the GDP in 2016. Figure 19.4 (a) shows the levels of consumption, investment, and government purchases over time, expressed as a percentage of GDP, while Figure 19.4 (b) shows the levels of exports and imports as a percentage of GDP over time. A few patterns about each of these components are worth noticing. Table 19.1 shows the components of GDP from the demand side.\n\n[7030a69394a3a842] (Economics2e.pdf p.456) Components of GDP on the Demand Side (in trillions of dollars) Percentage of Total Consumption $12.8 68.8% Investment $3.0 16.1% Government $3.3 17.7% Exports $2.2 11.8% Imports –$2.7 –14.5% Total GDP $18.6 100% Table 19.1 Components of U.S. GDP in 2016: From the Demand Side (Source: http://bea.gov/iTable/ index_nipa.cfm) Figure 19.3 Percentage of Components of U.S. GDP on the Demand Side Consumption makes up over half of the demand side components of the GDP. (Source: http://bea.gov/iTable/index_nipa.cfm) What does the word “investment” mean? What do economists mean by investment, or business spending? In calculating GDP, investment does not refer to purchasing stocks and bonds or trading financial assets. It refers to purchasing new capital goods, that is, new commercial real estate (such as buildings, factories, and stores) and equipment, residential housing construction, and inventories. Inventories that manufacturers produce this year are included in this year’s GDP—even if they are not yet sold. From the accountant’s perspective, it is as if the firm invested in its own inventories. Business investment in 2016 was $3 trillion, according to the Bureau of Economic Analysis.",
+  "latency_s": 2.7915633999800775,
+  "prompt_tokens": 2495,
+  "completion_tokens": 92,
+  "embedding_tokens": 14,
+  "cost_usd": 0.00114548,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad09",
+  "split": "dev",
+  "answerable": true,
+  "question": "In Figure 21.4(c), which racial or ethnic group had the highest unemployment rate in the early 1980s, and about how high?",
+  "status": "answered",
+  "answer": "In Figure 21.4(c), the racial or ethnic group with the highest unemployment rate in the early 1980s was the Black group, with the unemployment rate peaking near 19% around 1983. The Hispanic group had a peak near 14%, and the White group had a peak near 8% during the same period. This shows that the Black unemployment rate was typically about twice as high as that for Whites, with Hispanics in between during the early 1980s.[60c9590ebfd22de4][07209678435fa006]",
+  "citations": [
+   "60c9590ebfd22de4",
+   "07209678435fa006"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Figure 21.4(c) unemployment rate by racial or ethnic group early 1980s",
+    "filter": null,
+    "results": [
+     [
+      "07209678435fa006",
+      517,
+      0.03225806451612903,
+      1
+     ],
+     [
+      "9c6c8a138da610ec",
+      15,
+      0.03125763125763126,
+      2
+     ],
+     [
+      "232c217a1862dba5",
+      515,
+      0.03055037313432836,
+      3
+     ],
+     [
+      "eb41c28cc8d04818",
+      518,
+      0.029906956136464335,
+      4
+     ],
+     [
+      "469a3dc698c4ba49",
+      859,
+      0.029877369007803793,
+      5
+     ],
+     [
+      "60c9590ebfd22de4",
+      517,
+      0.02938045560996381,
+      6
+     ]
+    ],
+    "context_ids": [
+     "07209678435fa006",
+     "9c6c8a138da610ec",
+     "232c217a1862dba5",
+     "eb41c28cc8d04818",
+     "469a3dc698c4ba49",
+     "60c9590ebfd22de4"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "07209678435fa006",
+   "9c6c8a138da610ec",
+   "232c217a1862dba5",
+   "eb41c28cc8d04818",
+   "469a3dc698c4ba49",
+   "60c9590ebfd22de4"
+  ],
+  "context": "[07209678435fa006] (Economics2e.pdf p.517) Figure 21.4 Unemployment Rate by Demographic Group (a) By gender, 1972–2016. Unemployment rates for men used to be lower than unemployment rates for women, but in recent decades, the two rates have been very close, often– and especially during and soon after the Great Recession – with the unemployment rate for men somewhat higher. (b) By age, 1972–2016. Unemployment rates are highest for the very young and become lower with age. (c) By race and ethnicity, 1972–2016. Although unemployment rates for all groups tend to rise and fall together, the unemployment rate for blacks is typically about twice as high as that for whites, while the unemployment rate for Hispanics is in between. (Source: www.bls.gov) The unemployment rate for women had historically tended to be higher than the unemployment rate for men, perhaps reflecting the historical pattern that women were seen as “secondary” earners. By about 1980, however, the unemployment rate for women was essentially the same as that for men, as Figure 21.4 (a) shows. During the 2008-2009 recession and in the immediate aftermath, the unemployment rate for men exceeded the unemployment rate for women.\n\n[9c6c8a138da610ec] (Economics2e.pdf p.15) [chart (c) Unemployment rates by race and ethnicity: Unemployment rates by race and ethnicity (1972-2016)] (page 15)\nLine chart with x-axis labeled 'Year' from 1972 to 2016, y-axis labeled 'Unemployment Rate (%)' from 0 to 25. Three series: 'Black' (highest, dashed line), 'Hispanic' (middle, dashed line), 'White' (lowest, solid line). All show peaks around early 1980s, early 1990s, and 2008-2010, with Black unemployment rate consistently highest, White lowest.\n\n[232c217a1862dba5] (Economics2e.pdf p.515) [chart Figure 21.3: The U.S. Unemployment Rate, 1955–2015] (page 515)\nChart type: Line chart\nX-axis: Year, range 1955 to 2015, labeled every 5 years (1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015)\nY-axis: Unemployment Rate (%), range 0 to 12%, labeled every 2% (0, 2, 4, 6, 8, 10, 12)\nSeries: U.S. Unemployment Rate\nApproximate values:\n- 1955: about 5%\n- Late 1950s: fluctuates between about 4% and 7%\n- Early 1980s: peaks near 10%\n- Mid 1990s: around 6%\n- Late 1990s (1997-2000): below 5%\n- Early 2000s: fluctuates around 5-6%\n- 2007-2009: peaks near 10%\n- 2015: about 6%\nAdditional notes from caption: The unemployment rate moves up and down as the economy moves in and out of recessions. Over time, it tends to return to a range of 4% to 6%. There is no long-term trend toward generally higher or lower rates.\n\n[eb41c28cc8d04818] (Economics2e.pdf p.518) Younger workers tend to have higher unemployment, while middle-aged workers tend to have lower unemployment, probably because the middle-aged workers feel the responsibility of needing to have a job more heavily. Younger workers move in and out of jobs more than middle-aged workers, as part of the process of matching of workers and jobs, and this contributes to their higher unemployment rates. In addition, middle-aged workers are more likely to feel the responsibility of needing to have a job more heavily. Elderly workers have extremely low rates of unemployment, because those who do not have jobs often exit the labor force by retiring, and thus are not counted in the unemployment statistics. Figure 21.4 (b) shows unemployment rates for women divided by age. The pattern for men is similar. The unemployment rate for African-Americans is substantially higher than the rate for other racial or ethnic groups, a fact that surely reflects, to some extent, a pattern of discrimination that has constrained blacks’ labor market opportunities. However, the gaps between unemployment rates for whites and for blacks and Hispanics diminished in the 1990s, as Figure 21.4 (c) shows.\n\n[469a3dc698c4ba49] (Economics2e.pdf p.859) [chart Figure A11 (f): Unemployment rate, monthly data] (page 859)\nChart type: Line chart\nX-axis: Month/year, from Jan-60 to Jan-10, labeled every 2 years approximately\nY-axis: Unemployment Rate (%), range 0 to 12%, labeled every 2% from 0 to 12\nSeries: Monthly unemployment rate data points\nValues: Starts around 5.5% in Jan-60, fluctuates between about 3% and 11% over the period, with notable peaks around early 1980s (~10%), early 1983 (~11%), early 1990s (~8%), early 2000s (~6%), and a sharp rise to about 10% near Jan-10.\n\n[60c9590ebfd22de4] (Economics2e.pdf p.517) [chart Figure 21.4 (c): Unemployment rates by race and ethnicity, 1972–2016] (page 517)\nChart type: Line chart\nX-axis: Year, from 1972 to 2016\nY-axis: Unemployment Rate (%), from 0 to 25\nSeries:\n- Black (dashed line): Starts about 12% in 1972, fluctuates between about 10% and 19%, peaks near 19% around 1983, another peak near 16% around 2009, then declines to about 10% by 2016.\n- Hispanic (dashed line): Starts about 8% in 1972, fluctuates between about 7% and 14%, peaks near 14% around 1983, another peak near 13% around 2009, then declines to about 8% by 2016.\n- White (solid line): Starts about 5% in 1972, fluctuates between about 4% and 8%, peaks near 8% around 1983, another peak near 8% around 2009, then declines to about 4% by 2016.\nNotable: Black unemployment rate typically about twice as high as white rate; Hispanic rate in between.",
+  "latency_s": 2.6938669999944977,
+  "prompt_tokens": 2401,
+  "completion_tokens": 183,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0012532,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad10",
+  "split": "dev",
+  "answerable": true,
+  "question": "In 2014, roughly what was federal debt as a share of GDP (Figure 30.8), and what share of federal spending went to net interest (Figure 30.3)?",
+  "status": "answered",
+  "answer": "In 2014, the federal debt as a share of GDP was about 75% according to Figure 30.8. In the same year, net interest payments accounted for about 6% of federal spending as shown in Figure 30.3 [c7b553e079f6d405][32df9f335379c4d0].",
+  "citations": [
+   "c7b553e079f6d405",
+   "32df9f335379c4d0"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "federal debt as a share of GDP 2014",
+    "filter": null,
+    "results": [
+     [
+      "32df9f335379c4d0",
+      736,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "c46f145d2738927b",
+      736,
+      0.031746031746031744,
+      2
+     ],
+     [
+      "997bdc383cb38cf0",
+      735,
+      0.0315136476426799,
+      3
+     ],
+     [
+      "7cc46283a5e77e99",
+      736,
+      0.03125,
+      4
+     ],
+     [
+      "6cf036e495df218e",
+      750,
+      0.029877369007803793,
+      5
+     ],
+     [
+      "5350798cc8d96bd0",
+      731,
+      0.02964254577157803,
+      6
+     ]
+    ],
+    "context_ids": [
+     "32df9f335379c4d0",
+     "c46f145d2738927b",
+     "997bdc383cb38cf0",
+     "7cc46283a5e77e99",
+     "6cf036e495df218e",
+     "5350798cc8d96bd0"
+    ]
+   },
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "share of federal spending on net interest 2014 Figure 30.3",
+    "filter": null,
+    "results": [
+     [
+      "c7b553e079f6d405",
+      732,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "12a10bb6b2b59522",
+      731,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "b91418ff75c50b01",
+      731,
+      0.03149801587301587,
+      3
+     ],
+     [
+      "cf43d429bdafeb06",
+      732,
+      0.03149801587301587,
+      4
+     ],
+     [
+      "267a89b119a40584",
+      730,
+      0.030309988518943745,
+      5
+     ],
+     [
+      "997bdc383cb38cf0",
+      735,
+      0.02964426877470356,
+      6
+     ]
+    ],
+    "context_ids": [
+     "32df9f335379c4d0",
+     "c7b553e079f6d405",
+     "12a10bb6b2b59522",
+     "c46f145d2738927b",
+     "997bdc383cb38cf0",
+     "b91418ff75c50b01",
+     "cf43d429bdafeb06",
+     "7cc46283a5e77e99"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "32df9f335379c4d0",
+   "c7b553e079f6d405",
+   "12a10bb6b2b59522",
+   "c46f145d2738927b",
+   "997bdc383cb38cf0",
+   "b91418ff75c50b01",
+   "cf43d429bdafeb06",
+   "7cc46283a5e77e99"
+  ],
+  "context": "[32df9f335379c4d0] (Economics2e.pdf p.736) [chart Figure 30.8: Federal Debt as a Percentage of GDP, 1942–2014] (page 736)\nChart type: Line graph\nX-axis: Year, range 1940 to 2020, labeled every 10 years (1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020)\nY-axis: Federal Debt (as percentage of GDP), range 0 to 120, labeled every 20 units (0, 20, 40, 60, 80, 100, 120)\nSeries: Federal Debt as % of GDP\nApproximate values:\n- 1942: about 40%\n- Peak around 1945: about 110%\n- 1950: about 80%\n- 1960: about 50%\n- 1970: about 35%\n- 1980: about 30%\n- Early 1990s: about 50%\n- 2000: about 35%\n- 2008-2009: sharp rise to about 75%\n- 2014: about 75%\n\nCaption: Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply. (Source: Economic Report of the President, Table B-20, http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html)\n\n[c7b553e079f6d405] (Economics2e.pdf p.732) [chart Figure 30.3: Slices of Federal Spending, 2014] (page 732)\nChart type: Pie chart\nSlices and percentages:\n- All other spending: 29%\n- National defense: 19%\n- Social Security: 22%\n- Healthcare (including Medicare and Medicaid): 24%\n- Net interest: 6%\nCaption summary: About 73% of government spending goes to four major areas: national defense, Social Security, healthcare, and interest payments on past borrowing. This leaves about 29% of federal spending for all other functions of the U.S. government.\n\n[12a10bb6b2b59522] (Economics2e.pdf p.731) [chart Figure 30.2: Federal Spending, 1960–2014] (page 731)\nChart type: Line chart\nX-axis: Year, range 1960 to 2020\nY-axis: Federal Spending (as percentage of GDP), range 0 to 30%\nSeries and approximate values:\n- Total federal spending: Starts about 19% in 1960, fluctuates mostly between 17% and 22%, peaks above 24% around 2009, then drops back to about 20% by 2013.\n- National defense: Starts about 13% in 1960, generally declines with fluctuations, dips below 5% by 2014, with upward bumps in the 1980s and post-2001.\n- Social Security: Starts about 1.5% in 1960, steadily rises to about 5% by 2014.\n- Healthcare: Starts near 0% in 1960, steadily rises to about 3.5% by 2014.\n- Net interest: Starts near 0% in 1960, rises to about 3.5% in the 1980s, fluctuates around 3% until late 1990s, then declines to about 1.4% by 2012.\n\n[c46f145d2738927b] (Economics2e.pdf p.736) Debt/GDP Ratio Another useful way to view the budget deficit is through the prism of accumulated debt rather than annual deficits. The national debt refers to the total amount that the government has borrowed over time. In contrast, the budget deficit refers to how much the government has borrowed in one particular year. Figure 30.8 shows the ratio of debt/GDP since 1940. Until the 1970s, the debt/GDP ratio revealed a fairly clear pattern of federal borrowing. The government ran up large deficits and raised the debt/GDP ratio in World War II, but from the 1950s to the 1970s the government ran either surpluses or relatively small deficits, and so the debt/GDP ratio drifted down. Large deficits in the 1980s and early 1990s caused the ratio to rise sharply. When budget surpluses arrived from 1998 to 2001, the debt/ GDP ratio declined substantially. The budget deficits starting in 2002 then tugged the debt/GDP ratio higher—with a big jump when the recession took hold in 2008–2009. Figure 30.8 Federal Debt as a Percentage of GDP, 1942–2014 Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising.\n\n[997bdc383cb38cf0] (Economics2e.pdf p.735) Figure 30.6 State and Local Tax Revenue as a Share of GDP, 1960–2014 State and local tax revenues have increased to match the rise in state and local spending. (Source: Economic Report of the President, 2015. Table B-21, https://www.whitehouse.gov/administration/eop/cea/economic-report-of-the-President/2015) By the end of this section, you will be able to: • Explain the U.S. federal budget in terms of annual debt and accumulated debt • Understand how economic growth or decline can influence a budget surplus or budget deficit Having discussed the revenue (taxes) and expense (spending) side of the budget, we now turn to the annual budget deficit or surplus, which is the difference between the tax revenue collected and spending over a fiscal year, which starts October 1 and ends September 30 of the next year. Figure 30.7 shows the pattern of annual federal budget deficits and surpluses, back to 1930, as a share of GDP. When the line is above the horizontal axis, the budget is in surplus. When the line is below the horizontal axis, a budget deficit occurred. Clearly, the biggest deficits as a share of GDP during this time were incurred to finance World War II.\n\n[b91418ff75c50b01] (Economics2e.pdf p.731) programs, and interest payments. From the graph, we see that national defense spending as a share of GDP has generally declined since the 1960s, although there were some upward bumps in the 1980s buildup under President Ronald Reagan and in the aftermath of the terrorist attacks on September 11, 2001. In contrast, Social Security and healthcare have grown steadily as a percent of GDP. Healthcare expenditures include both payments for senior citizens (Medicare), and payments for low-income Americans (Medicaid). State governments also partially fund Medicaid. Interest payments are the final main category of government spending in Figure 30.2. Figure 30.2 Federal Spending, 1960–2014 Since 1960, total federal spending has ranged from about 18% to 22% of GDP, although it climbed above that level in 2009, but quickly dropped back down to that level by 2013. The share that the government has spent on national defense has generally declined, while the share it has spent on Social Security and on healthcare expenses (mainly Medicare and Medicaid) has increased. (Source: Economic Report of the President, Tables B-2 and B-22, http://www.gpo.gov/fdsys/pkg/ERP-2014/content-detail.html)\n\n[cf43d429bdafeb06] (Economics2e.pdf p.732) Figure 30.3 Slices of Federal Spending, 2014 About 73% of government spending goes to four major areas: national defense, Social Security, healthcare, and interest payments on past borrowing. This leaves about 29% of federal spending for all other functions of the U.S. government. (Source: https://www.whitehouse.gov/omb/budget/ Historicals/) State and Local Government Spending Although federal government spending often gets most of the media attention, state and local government spending is also substantial—at about $3.1 trillion in 2014. Figure 30.4 shows that state and local government spending has increased during the last four decades from around 8% to around 14% today. The single biggest item is education, which accounts for about one-third of the total. The rest covers programs like highways, libraries, hospitals and healthcare, parks, and police and fire protection. Unlike the federal government, all states (except Vermont) have balanced budget laws, which means any gaps between revenues and spending must be closed by higher taxes, lower spending, drawing down their previous savings, or some combination of all of these.\n\n[7cc46283a5e77e99] (Economics2e.pdf p.736) GDP, 1942–2014 Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply. (Source: Economic Report of the President, Table B-20, http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html) The next Clear it Up feature discusses how the government handles the national debt. What is the national debt? One year’s federal budget deficit causes the federal government to sell Treasury bonds to make up the difference between spending programs and tax revenues. The dollar value of all the outstanding Treasury bonds on which the federal government owes money is equal to the national debt. The Path from Deficits to Surpluses to Deficits Why did the budget deficits suddenly turn to surpluses from 1998 to 2001 and why did the surpluses return to deficits in 2002? Why did the deficit become so large after 2007? Figure 30.9 suggests some answers. The graph combines",
+  "latency_s": 3.2617706999881193,
+  "prompt_tokens": 5458,
+  "completion_tokens": 162,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0024424,
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad11",
+  "split": "dev",
+  "answerable": true,
+  "question": "In January 2017, about how many Americans had been unemployed for over 27 weeks? Use Tables 21.1 and 21.3.",
+  "status": "answered",
+  "answer": "In January 2017, about 27.4% of the unemployed Americans had been unemployed for over 27 weeks. Given that the total number of unemployed was 7.635 million, the number of Americans unemployed for over 27 weeks was approximately 2.09 million (27.4% of 7.635 million) [caba3507411ac378][3ba711adf5f2a115].",
+  "citations": [
+   "caba3507411ac378",
+   "3ba711adf5f2a115"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "number of Americans unemployed for over 27 weeks in January 2017",
+    "filter": null,
+    "results": [
+     [
+      "caba3507411ac378",
+      519,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "3ba711adf5f2a115",
+      512,
+      0.03128054740957967,
+      2
+     ],
+     [
+      "089c32ed35108d94",
+      519,
+      0.031009615384615385,
+      3
+     ],
+     [
+      "406eb0b077e0a950",
+      511,
+      0.029827662395050816,
+      4
+     ],
+     [
+      "7118a97b761527b4",
+      518,
+      0.029571646010002173,
+      5
+     ],
+     [
+      "c9e7543cc5707e16",
+      512,
+      0.029386529386529386,
+      6
+     ]
+    ],
+    "context_ids": [
+     "caba3507411ac378",
+     "3ba711adf5f2a115",
+     "089c32ed35108d94",
+     "406eb0b077e0a950",
+     "7118a97b761527b4",
+     "c9e7543cc5707e16"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "caba3507411ac378",
+   "3ba711adf5f2a115",
+   "089c32ed35108d94",
+   "406eb0b077e0a950",
+   "7118a97b761527b4",
+   "c9e7543cc5707e16"
+  ],
+  "context": "[caba3507411ac378] (Economics2e.pdf p.519) [table Table 21.3: Length of Unemployment, January 2017] (page 519)\n| Length of Time   | Percentage |\n|-----------------|------------|\n| Under 5 weeks   | 32.5%      |\n| 5 to 14 weeks   | 27.5%      |\n| 15 to 26 weeks  | 15.7%      |\n| Over 27 weeks   | 27.4%      |\n\n[3ba711adf5f2a115] (Economics2e.pdf p.512) [table Table 21.1: U.S. Employment and Unemployment, January 2017] (page 512)\n| Category                         | Value                         |\n|---------------------------------|-------------------------------|\n| Total adult population over age 16 | 254.082 million               |\n| In the labor force              | 159.716 million (62.9%)       |\n| Employed                       | 152.081 million               |\n| Unemployed                    | 7.635 million                 |\n| Out of the labor force         | 94.366 million (37.1%)        |\n\n[089c32ed35108d94] (Economics2e.pdf p.519) Length of Time Percentage Under 5 weeks 32.5% 5 to 14 weeks 27.5% 15 to 26 weeks 15.7% Over 27 weeks 27.4% Table 21.3 Length of Unemployment, January 2017 Watch this speech (http://openstaxcollege.org/l/droids) on the impact of droids on the labor market. International Unemployment Comparisons From an international perspective, the U.S. unemployment rate typically has looked a little better than average. Table 21.4 compares unemployment rates for 1991, 1996, 2001, 2006 (just before the recession), and 2012 (somewhat after the recession) from several other high-income countries. Country 1991 1996 2001 2006 2012 United States 6.8% 5.4% 4.8% 4.4% 8.1% Canada 9.8% 8.8% 6.4% 6.2% 6.3% Japan 2.1% 3.4% 5.1% 4.5% 3.9% France 9.5% 12.5% 8.7% 10.1% 10.0% Germany 5.6% 9.0% 8.9% 9.8% 5.5% Italy 6.9% 11.7% 9.6% 7.8% 10.8% Sweden 3.1% 9.9% 5.0% 5.2% 7.9% United Kingdom 8.8% 8.1% 5.1% 5.5% 8.0% Table 21.4 International Comparisons of Unemployment Rates However, we need to treat cross-country comparisons of unemployment rates with care, because each country has slightly different definitions of unemployment, survey tools for measuring unemployment, and also different labor markets.\n\n[406eb0b077e0a950] (Economics2e.pdf p.511) refer to this third group of those who are not working and not looking for work as out of the labor force or not in the labor force. The U.S. unemployment rate, which is based on a monthly survey carried out by the U.S. Bureau of the Census, asks a series of questions to divide the adult population into employed, unemployed, or not in the labor force. To be classified as unemployed, a person must be without a job, currently available to work, and actively looking for work in the previous four weeks. Thus, a person who does not have a job but who is not currently available to work or has not actively looked for work in the last four weeks is counted as out of the labor force. Employed: currently working for pay Unemployed: Out of work and actively looking for a job Out of the labor force: Out of paid work and not actively looking for a job Labor force: the number of employed plus the unemployed Calculating the Unemployment Rate Figure 21.2 shows the three-way division of the 16-and-over population. In January 2017, about 62.9% of the adult population was \"in the labor force\"; that is, people are either employed or without a job but looking for work. We\n\n[7118a97b761527b4] (Economics2e.pdf p.518) [table Table 21.2: Reasons for Unemployment, January 2017] (page 518)\n| Reason                  | Percentage |\n|-------------------------|------------|\n| New Entrants            | 10.8%      |\n| Re-entrants             | 28.7%      |\n| Job Leavers             | 11.4%      |\n| Job Losers: Temporary   | 14.0%      |\n| Job Losers: Non Temporary | 35.1%    |\n\n[c9e7543cc5707e16] (Economics2e.pdf p.512) Figure 21.2 Employed, Unemployed, and Out of the Labor Force Distribution of Adult Population (age 16 and older), January 2017 The total adult, working-age population in January 2017 was 254.1 million. Out of this total population, 152.1 were classified as employed, and 7.6 million were classified as unemployed. The remaining 94.4 were classified as out of the labor force. As you will learn, however, this seemingly simple chart does not tell the whole story. Total adult population over the age of 16 254.082 million In the labor force 159.716 million (62.9%) Employed 152.081 million Unemployed 7.635 million Out of the labor force 94.366 million (37.1%) Table 21.1 U.S. Employment and Unemployment, January 2017 (Source: https://data.bls.gov) In this example, we can calculate the unemployment rate as 7.635 million unemployed people divided by 159.716 million people in the labor force, which works out to a 4.8% rate of unemployment. The following Work It Out feature will walk you through the steps of this calculation. Calculating Labor Force Percentages How do economists arrive at the percentages in and out of the labor force and the unemployment rate? We",
+  "latency_s": 3.986164700007066,
+  "prompt_tokens": 2321,
+  "completion_tokens": 149,
+  "embedding_tokens": 14,
+  "cost_usd": 0.0011670800000000002,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad12",
+  "split": "dev",
+  "answerable": true,
+  "question": "How many worker hours does Saudi Arabia use to produce the combination at point C in Figure 33.2(a)?",
+  "status": "answered",
+  "answer": "Saudi Arabia uses 60 worker hours to produce 60 barrels of oil and 40 worker hours to produce 10 bushels of corn at point C in Figure 33.2(a), totaling 100 worker hours used to produce the combination at point C [a5b5bc487943856c][c5aceedd841a767f].",
+  "citations": [
+   "a5b5bc487943856c",
+   "c5aceedd841a767f"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "worker hours Saudi Arabia point C Figure 33.2(a)",
+    "filter": null,
+    "results": [
+     [
+      "a5b5bc487943856c",
+      798,
+      0.032266458495966696,
+      1
+     ],
+     [
+      "d3ca71dd3d022ce1",
+      798,
+      0.032266458495966696,
+      2
+     ],
+     [
+      "9999e694cc7fcb7c",
+      798,
+      0.031754032258064516,
+      3
+     ],
+     [
+      "ca22fd08fc73214c",
+      801,
+      0.0304147465437788,
+      4
+     ],
+     [
+      "060513c1d36ca171",
+      797,
+      0.029857397504456328,
+      5
+     ],
+     [
+      "c5aceedd841a767f",
+      798,
+      0.02967032967032967,
+      6
+     ]
+    ],
+    "context_ids": [
+     "a5b5bc487943856c",
+     "d3ca71dd3d022ce1",
+     "9999e694cc7fcb7c",
+     "ca22fd08fc73214c",
+     "060513c1d36ca171",
+     "c5aceedd841a767f"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a5b5bc487943856c",
+   "d3ca71dd3d022ce1",
+   "9999e694cc7fcb7c",
+   "ca22fd08fc73214c",
+   "060513c1d36ca171",
+   "c5aceedd841a767f"
+  ],
+  "context": "[a5b5bc487943856c] (Economics2e.pdf p.798) corn. To simplify, let’s say that Saudi Arabia and the United States each have 100 worker hours (see Table 33.2). Figure 33.2 illustrates what each country is capable of producing on its own using a production possibility frontier (PPF) graph. Recall from Choice in a World of Scarcity that the production possibilities frontier shows the maximum amount that each country can produce given its limited resources, in this case workers, and its level of technology. Country Oil Production using 100 worker hours (barrels) Corn Production using 100 worker hours (bushels) Saudi Arabia 100 or 25 United States 50 or 100 Table 33.2 Production Possibilities before Trade Figure 33.2 Production Possibilities Frontiers (a) Saudi Arabia can produce 100 barrels of oil at maximum and zero corn (point A), or 25 bushels of corn and zero oil (point B). It can also produce other combinations of oil and corn if it wants to consume both goods, such as at point C. Here it chooses to produce/consume 60 barrels of oil, leaving 40 work hours that to allocate to produce 10 bushels of corn, using the data in Table 33.1. (b) If the United States\n\n[d3ca71dd3d022ce1] (Economics2e.pdf p.798) [table Table 33.2: Production Possibilities before Trade] (page 798)\n| Country       | Oil Production using 100 worker hours (barrels) |   | Corn Production using 100 worker hours (bushels) |\n|---------------|-------------------------------------------------|---|-------------------------------------------------|\n| Saudi Arabia  | 100                                             | or| 25                                              |\n| United States | 50                                              | or| 100                                             |\n\n[9999e694cc7fcb7c] (Economics2e.pdf p.798) hours to produce 20 barrels of oil and it can allocate the remaining worker hours to produce 60 bushels of corn. Country Oil Production (barrels) Corn Production (bushels) Saudi Arabia (C) 60 10 Table 33.3 Production before Trade\n\n[ca22fd08fc73214c] (Economics2e.pdf p.801) [chart Figure 33.3: Production Possibilities Frontier in Saudi Arabia] (page 801)\nChart type: Line graph with points labeled A, B, C, D\nX-axis: Corn (bushels), range 0 to 40\nY-axis: Oil (barrels), range 0 to 110\nPoints:\n- A at (0 corn, 100 oil)\n- B at (30 corn, 0 oil)\n- C at (10 corn, 60 oil)\n- D at (30 corn, 40 oil)\nLines:\n- Straight line connecting A to B\n- Dashed lines from C horizontally to D and vertically down to 10 corn\nDescription: Point C represents Saudi oil production of 60 barrels and corn production of 10 bushels. After trade, Saudi Arabia reduces oil consumption by 20 barrels (from 60 to 40) and increases corn consumption from 10 to 30 bushels, reaching point D, which lies beyond the production possibility frontier, indicating gains from trade.\n\n[060513c1d36ca171] (Economics2e.pdf p.797) [table Table 33.1: How Many Hours It Takes to Produce Oil and Corn] (page 797)\n| Country       | Oil (hours per barrel) | Corn (hours per bushel) |\n|---------------|------------------------|------------------------|\n| Saudi Arabia  | 1                      | 4                      |\n| United States | 2                      | 1                      |\n\n[c5aceedd841a767f] (Economics2e.pdf p.798) 60 barrels of oil, leaving 40 work hours that to allocate to produce 10 bushels of corn, using the data in Table 33.1. (b) If the United States produces only oil, it can produce, at maximum, 50 barrels and zero corn (point A'), or at the other extreme, it can produce a maximum of 100 bushels of corn and no oil (point B'). Other combinations of both oil and corn are possible, such as point C'. All points above the frontiers are impossible to produce given the current level of resources and technology. Arguably Saudi and U.S. consumers desire both oil and corn to live. Let’s say that before trade occurs, both countries produce and consume at point C or C'. Thus, before trade, the Saudi Arabian economy will devote 60 worker hours to produce oil, as Table 33.3 shows. Given the information in Table 33.1, this choice implies that it produces/ consumes 60 barrels of oil. With the remaining 40 worker hours, since it needs four hours to produce a bushel of corn, it can produce only 10 bushels. To be at point C', the U.S. economy devotes 40 worker hours to produce 20 barrels of oil and it can allocate the remaining worker hours to produce 60 bushels of corn. Country Oil Production (barrels)",
+  "latency_s": 2.863684200012358,
+  "prompt_tokens": 1999,
+  "completion_tokens": 132,
+  "embedding_tokens": 13,
+  "cost_usd": 0.00101106,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad13",
+  "split": "dev",
+  "answerable": true,
+  "question": "How many regional Federal Reserve banks are there?",
+  "status": "answered",
+  "answer": "There are 12 regional Federal Reserve banks in the United States, each responsible for supporting the commercial banks and economy in its district [15140779c749742f].",
+  "citations": [
+   "15140779c749742f"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "number of regional Federal Reserve banks",
+    "filter": null,
+    "results": [
+     [
+      "15140779c749742f",
+      678,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "28c446ae78ac953d",
+      682,
+      0.03200204813108039,
+      2
+     ],
+     [
+      "c04237d29c29a395",
+      678,
+      0.03021353930031804,
+      3
+     ],
+     [
+      "cab3e8bb15306334",
+      685,
+      0.030090497737556562,
+      4
+     ],
+     [
+      "6f30e20f7d56bccc",
+      676,
+      0.029910714285714284,
+      5
+     ],
+     [
+      "a64b8fdc79e9c4e6",
+      678,
+      0.02904040404040404,
+      6
+     ]
+    ],
+    "context_ids": [
+     "15140779c749742f",
+     "28c446ae78ac953d",
+     "c04237d29c29a395",
+     "cab3e8bb15306334",
+     "6f30e20f7d56bccc",
+     "a64b8fdc79e9c4e6"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "15140779c749742f",
+   "28c446ae78ac953d",
+   "c04237d29c29a395",
+   "cab3e8bb15306334",
+   "6f30e20f7d56bccc",
+   "a64b8fdc79e9c4e6"
+  ],
+  "context": "[15140779c749742f] (Economics2e.pdf p.678) The Federal Reserve is more than the Board of Governors. The Fed also includes 12 regional Federal Reserve banks, each of which is responsible for supporting the commercial banks and economy generally in its district. Figure 28.3 shows the Federal Reserve districts and the cities where their regional headquarters are located. The commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and that board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System includes both federally and private-sector appointed leaders. Figure 28.3 The Twelve Federal Reserve Districts There are twelve regional Federal Reserve banks, each with its district. What Does a Central Bank Do? The Federal Reserve, like most central banks, is designed to perform three important functions: 1. To conduct monetary policy 2. To promote stability of the financial system 3. To provide banking services to commercial banks and other depository institutions, and to provide banking services to the federal government. The first two functions are sufficiently important that we will discuss them in their own modules. The third function\n\n[28c446ae78ac953d] (Economics2e.pdf p.682) also includes five voting members who the Board draws, on a rotating basis, from the regional Federal Reserve Banks. The New York district president is a permanent FOMC voting member and the Board fills other four spots on a rotating, annual basis, from the other 11 districts. The FOMC typically meets every six weeks, but it can meet more frequently if necessary. The FOMC tries to act by consensus; however, the Federal Reserve's chairman has traditionally played a very powerful role in defining and shaping that consensus. For the Federal Reserve, and for most central banks, open market operations have, over the last few decades, been the most commonly used tool of monetary policy. Visit this website (http://openstaxcollege.org/l/monetarypolicy) for the Federal Reserve to learn more about current monetary policy.\n\n[c04237d29c29a395] (Economics2e.pdf p.678) [diagram Figure 28.3: The Twelve Federal Reserve Districts] (page 678)\nThe diagram is a map of the United States divided into 12 colored regions, each representing a Federal Reserve district. Each district is numbered and labeled with the city of its regional headquarters. The districts and headquarters are:\n- 1: Boston\n- 2: New York\n- 3: Philadelphia\n- 4: Cleveland\n- 5: Richmond\n- 6: Atlanta\n- 7: Chicago\n- 8: St. Louis\n- 9: Minneapolis\n- 10: Kansas City\n- 11: Dallas\n- 12: San Francisco\nAdditional notes:\n- The Board of Governors is marked near Washington, D.C.\n- Alaska and Hawaii are part of the San Francisco District (12).\n- Each district is shaded in a distinct color to differentiate regions.\n\n[cab3e8bb15306334] (Economics2e.pdf p.685) their withdrawals, they no longer had a reason to make a run on the bank. In short, the Federal Reserve was originally intended to provide credit passively, but in the years since its founding, the Fed has taken on a more active role with monetary policy. The third traditional method for conducting monetary policy is to raise or lower the discount rate. If the central bank raises the discount rate, then commercial banks will reduce their borrowing of reserves from the Fed, and instead call in loans to replace those reserves. Since fewer loans are available, the money supply falls and market interest rates rise. If the central bank lowers the discount rate it charges to banks, the process works in reverse. In recent decades, the Federal Reserve has made relatively few discount loans. Before a bank borrows from the Federal Reserve to fill out its required reserves, the bank is expected to first borrow from other available sources, like other banks. This is encouraged by the Fed charging a higher discount rate than the federal funds rate. Given that most banks borrow little at the discount rate, changing the discount rate up or down has little impact on their behavior.\n\n[6f30e20f7d56bccc] (Economics2e.pdf p.676) as just “the Fed.” This section explains the U.S. Federal Reserve's organization and identifies the major central bank's responsibilities. Structure/Organization of the Federal Reserve Unlike most central banks, the Federal Reserve is semi-decentralized, mixing government appointees with representation from private-sector banks. At the national level, it is run by a Board of Governors, consisting of seven members appointed by the President of the United States and confirmed by the Senate. Appointments are for 14-year terms and they are arranged so that one term expires January 31 of every even-numbered year. The purpose of the long and staggered terms is to insulate the Board of Governors as much as possible from political pressure so that governors can make policy decisions based only on their economic merits. Additionally, except when filling an unfinished term, each member only serves one term, further insulating decision-making from politics. The Fed's policy decisions do not require congressional approval, and the President cannot ask for a Federal Reserve Governor to resign as the President can with cabinet positions.\n\n[a64b8fdc79e9c4e6] (Economics2e.pdf p.678) to the federal government. The first two functions are sufficiently important that we will discuss them in their own modules. The third function we will discuss here. The Federal Reserve provides many of the same services to banks as banks provide to their customers. For example, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can obtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. The Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the grocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check (or an image of that actual check) to your bank, after which it transfers funds from your bank account to the grocery store's account. The Fed is responsible for each of these actions. On a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating through the financial system to meet public demands. For example, each year the Fed increases the amount of currency available in banks around the Christmas shopping season and reduces it again in January.",
+  "latency_s": 2.023256800021045,
+  "prompt_tokens": 2209,
+  "completion_tokens": 76,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0010052000000000001,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad14",
+  "split": "dev",
+  "answerable": true,
+  "question": "At the beginning of 2017, $1 had about the same purchasing power as how much money in 1972?",
+  "status": "answered",
+  "answer": "At the beginning of 2017, $1 had about the same purchasing power as 18 cents did in 1972, due to the inflation that occurred over that time period [8312d53538d52717].",
+  "citations": [
+   "8312d53538d52717"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "purchasing power of $1 in 2017 compared to 1972",
+    "filter": null,
+    "results": [
+     [
+      "8312d53538d52717",
+      539,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "398cd55447bd0be8",
+      933,
+      0.03149801587301587,
+      2
+     ],
+     [
+      "1999a40e4be0c45a",
+      933,
+      0.030776515151515152,
+      3
+     ],
+     [
+      "5fbe5187d1b8df02",
+      714,
+      0.027443609022556388,
+      4
+     ],
+     [
+      "aa58d59b2c52ee35",
+      540,
+      0.027443609022556388,
+      5
+     ],
+     [
+      "4ce48b88b31258d8",
+      553,
+      0.016129032258064516,
+      6
+     ]
+    ],
+    "context_ids": [
+     "8312d53538d52717",
+     "398cd55447bd0be8",
+     "1999a40e4be0c45a",
+     "5fbe5187d1b8df02",
+     "aa58d59b2c52ee35",
+     "4ce48b88b31258d8"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "8312d53538d52717",
+   "398cd55447bd0be8",
+   "1999a40e4be0c45a",
+   "5fbe5187d1b8df02",
+   "aa58d59b2c52ee35",
+   "4ce48b88b31258d8"
+  ],
+  "context": "[8312d53538d52717] (Economics2e.pdf p.539) beginning of 2017, $1 had about the same purchasing power in overall terms of goods and services as 18 cents did in 1972, because of the amount of inflation that has occurred over that time period. Items 1970 2017 Pound of ground beef $0.66 $3.62 Pound of butter $0.87 $2.03 Movie ticket $1.55 $8.65 Sales price of new home (median) $22,000 $312,900 New car $3,000 $4,077 Gallon of gasoline $0.36 $2.35 Average hourly wage for a manufacturing worker $3.23 $20.65 Per capita GDP $5,069 $57,294 Table 22.1 Price Comparisons, 1970 and 2017 (Sources: See chapter References at end of book.) Moreover, the power of inflation does not affect just goods and services, but wages and income levels, too. The second-to-last row of Table 22.1 shows that the average hourly wage for a manufacturing worker increased nearly six-fold from 1970 to 2017. The average worker in 2017 is better educated and more productive than the average worker in 1970—but not six times more productive. Per capita GDP increased substantially from 1970 to 2017, but is the average person in the U.S. economy really more than eleven times better off in just 47 years? Not likely.\n\n[398cd55447bd0be8] (Economics2e.pdf p.933) The rise in cost of living is calculated as the percentage increase: (2244 – 2120) / 2120 = 0.0585 = 5.85%. 5.Since the CPI measures the prices of the goods and services purchased by the typical urban consumer, it measures the prices of things that people buy with their paycheck. For that reason, the CPI would be the best price index to use for this purpose. 6.The PPI is subject to those biases for essentially the same reasons as the CPI is. The GDP deflator picks up prices of what is actually purchased that year, so there are no biases. That is the advantage of using the GDP deflator over the CPI. 7. The calculator requires you to input three numbers: • The first year, in this case the year of your birth • The amount of money you would want to translate in terms of its purchasing power • The last year—now or the most recent year the calculator will accept My birth year is 1955. The amount is $1. The year 2012 is currently the latest year the calculator will accept. The simple purchasing power calculator shows that $1 of purchases in 1955 would cost $8.57 in 2012. The website also\n\n[1999a40e4be0c45a] (Economics2e.pdf p.933) year the calculator will accept. The simple purchasing power calculator shows that $1 of purchases in 1955 would cost $8.57 in 2012. The website also explains how the true answer is more complicated than that shown by the simple purchasing power calculator. 8.The state government would benefit because it would repay the loan in less valuable dollars than it borrowed. Plus, tax revenues for the state government would increase because of the inflation. 9.Higher inflation reduces real interest rates on fixed rate mortgages. Because ARMs can be adjusted, higher inflation leads to higher interest rates on ARMs. 10.Because the mortgage has an adjustable rate, the rate should fall by 3%, the same as inflation, to keep the real interest rate the same. Chapter 23 1.The stock and bond values will not show up in the current account. However, the dividends from the stocks and the interest from the bonds show up as an import to income in the current account. 2.It becomes more negative as imports, which are a negative to the current account, are growing faster than exports, which are a positive. 3. a. Money flows out of the Mexican economy. b. Money flows into the Mexican economy. c.\n\n[5fbe5187d1b8df02] (Economics2e.pdf p.714) to purchase their cars. This is known as arbitrage, the process of buying and selling goods or currencies across international borders at a profit. It may occur slowly, but over time, it will force prices and exchange rates to align so that the price of internationally traded goods is similar in all countries. We call the exchange rate that equalizes the prices of internationally traded goods across countries the purchasing power parity (PPP) exchange rate. A group of economists at the International Comparison Program, run by the World Bank, have calculated the PPP exchange rate for all countries, based on detailed studies of the prices and quantities of internationally tradable goods. The purchasing power parity exchange rate has two functions. First, economists often use PPP exchange rates for international comparison of GDP and other economic statistics. Imagine that you are preparing a table showing the size of GDP in many countries in several recent years, and for ease of comparison, you are converting all the values into U.S. dollars. When you insert the value for Japan, you need to use a yen/dollar exchange rate. However, should\n\n[aa58d59b2c52ee35] (Economics2e.pdf p.540) 100 = Percentage change Step 2. From period 1 to period 2, the total cost of purchasing the basket of goods in Table 22.2 rises from $100 to $106.50. Therefore, the percentage change over this time—the inflation rate—is: (106.50 – 100) 100.0 = 0.065 = 6.5% Step 3. From period 2 to period 3, the overall change in the cost of purchasing the basket rises from $106.50 to $107. Thus, the inflation rate over this time, again calculated by the percentage change, is approximately: (107 – 106.50) 106.50 = 0.0047 = 0.47% Step 4. From period 3 to period 4, the overall cost rises from $107 to $117.50. The inflation rate is thus: (117.50 – 107) 107 = 0.098 = 9.8% This calculation of the change in the total cost of purchasing a basket of goods accounts for how much a student spends on each good. Hamburgers are the lowest-priced good in this example, and aspirin is the highest-priced. If an individual buys a greater quantity of a low-price good, then it makes sense that changes in the price of that good should have a larger impact on the buying power of that person’s money. The larger impact of hamburgers shows up in the “amount spent” row, where, in all time periods, hamburgers are the\n\n[4ce48b88b31258d8] (Economics2e.pdf p.553) Economists note that over most periods, the inflation level in prices is roughly similar to the inflation level in wages, and so they reason that, on average, over time, people’s economic status is not greatly changed by inflation. If all prices, wages, and interest rates adjusted automatically and immediately with inflation, as in the Land of Funny Money, then no one’s purchasing power, profits, or real loan payments would change. However, if other economic variables do not move exactly in sync with inflation, or if they adjust for inflation only after a time lag, then inflation can cause three types of problems: unintended redistributions of purchasing power, blurred price signals, and difficulties in long-term planning. Unintended Redistributions of Purchasing Power Inflation can cause redistributions of purchasing power that hurt some and help others. People who are hurt by inflation include those who are holding considerable cash, whether it is in a safe deposit box or in a cardboard box under the bed. When inflation happens, the buying power of cash diminishes. However, cash is only an example of",
+  "latency_s": 2.0126602000091225,
+  "prompt_tokens": 2585,
+  "completion_tokens": 99,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0011924000000000001,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad15",
+  "split": "dev",
+  "answerable": true,
+  "question": "What happened to the U.S. debt/GDP ratio when budget surpluses arrived from 1998 to 2001?",
+  "status": "answered",
+  "answer": "When budget surpluses arrived from 1998 to 2001, the U.S. debt to GDP ratio declined substantially [c46f145d2738927b].",
+  "citations": [
+   "c46f145d2738927b"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. debt to GDP ratio change during budget surpluses 1998 to 2001",
+    "filter": null,
+    "results": [
+     [
+      "c46f145d2738927b",
+      736,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "7cc46283a5e77e99",
+      736,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "32df9f335379c4d0",
+      736,
+      0.031009615384615385,
+      3
+     ],
+     [
+      "35785a557e3484c5",
+      731,
+      0.030798389007344232,
+      4
+     ],
+     [
+      "50214b2dc85171b8",
+      764,
+      0.029957522915269395,
+      5
+     ],
+     [
+      "997bdc383cb38cf0",
+      735,
+      0.029411764705882353,
+      6
+     ]
+    ],
+    "context_ids": [
+     "c46f145d2738927b",
+     "7cc46283a5e77e99",
+     "32df9f335379c4d0",
+     "35785a557e3484c5",
+     "50214b2dc85171b8",
+     "997bdc383cb38cf0"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "c46f145d2738927b",
+   "7cc46283a5e77e99",
+   "32df9f335379c4d0",
+   "35785a557e3484c5",
+   "50214b2dc85171b8",
+   "997bdc383cb38cf0"
+  ],
+  "context": "[c46f145d2738927b] (Economics2e.pdf p.736) Debt/GDP Ratio Another useful way to view the budget deficit is through the prism of accumulated debt rather than annual deficits. The national debt refers to the total amount that the government has borrowed over time. In contrast, the budget deficit refers to how much the government has borrowed in one particular year. Figure 30.8 shows the ratio of debt/GDP since 1940. Until the 1970s, the debt/GDP ratio revealed a fairly clear pattern of federal borrowing. The government ran up large deficits and raised the debt/GDP ratio in World War II, but from the 1950s to the 1970s the government ran either surpluses or relatively small deficits, and so the debt/GDP ratio drifted down. Large deficits in the 1980s and early 1990s caused the ratio to rise sharply. When budget surpluses arrived from 1998 to 2001, the debt/ GDP ratio declined substantially. The budget deficits starting in 2002 then tugged the debt/GDP ratio higher—with a big jump when the recession took hold in 2008–2009. Figure 30.8 Federal Debt as a Percentage of GDP, 1942–2014 Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising.\n\n[7cc46283a5e77e99] (Economics2e.pdf p.736) GDP, 1942–2014 Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply. (Source: Economic Report of the President, Table B-20, http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html) The next Clear it Up feature discusses how the government handles the national debt. What is the national debt? One year’s federal budget deficit causes the federal government to sell Treasury bonds to make up the difference between spending programs and tax revenues. The dollar value of all the outstanding Treasury bonds on which the federal government owes money is equal to the national debt. The Path from Deficits to Surpluses to Deficits Why did the budget deficits suddenly turn to surpluses from 1998 to 2001 and why did the surpluses return to deficits in 2002? Why did the deficit become so large after 2007? Figure 30.9 suggests some answers. The graph combines\n\n[32df9f335379c4d0] (Economics2e.pdf p.736) [chart Figure 30.8: Federal Debt as a Percentage of GDP, 1942–2014] (page 736)\nChart type: Line graph\nX-axis: Year, range 1940 to 2020, labeled every 10 years (1940, 1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020)\nY-axis: Federal Debt (as percentage of GDP), range 0 to 120, labeled every 20 units (0, 20, 40, 60, 80, 100, 120)\nSeries: Federal Debt as % of GDP\nApproximate values:\n- 1942: about 40%\n- Peak around 1945: about 110%\n- 1950: about 80%\n- 1960: about 50%\n- 1970: about 35%\n- 1980: about 30%\n- Early 1990s: about 50%\n- 2000: about 35%\n- 2008-2009: sharp rise to about 75%\n- 2014: about 75%\n\nCaption: Federal debt is the sum of annual budget deficits and surpluses. Annual deficits do not always mean that the debt/GDP ratio is rising. During the 1960s and 1970s, the government often ran small deficits, but since the debt was growing more slowly than the economy, the debt/GDP ratio was declining over this time. In the 2008–2009 recession, the debt/GDP ratio rose sharply. (Source: Economic Report of the President, Table B-20, http://www.gpo.gov/fdsys/pkg/ERP-2015/content-detail.html)\n\n[35785a557e3484c5] (Economics2e.pdf p.731) Medicaid) has increased. (Source: Economic Report of the President, Tables B-2 and B-22, http://www.gpo.gov/fdsys/pkg/ERP-2014/content-detail.html) Each year, the government borrows funds from U.S. citizens and foreigners to cover its budget deficits. It does this by selling securities (Treasury bonds, notes, and bills)—in essence borrowing from the public and promising to repay with interest in the future. From 1961 to 1997, the U.S. government has run budget deficits, and thus borrowed funds, in almost every year. It had budget surpluses from 1998 to 2001, and then returned to deficits. The interest payments on past federal government borrowing were typically 1–2% of GDP in the 1960s and 1970s but then climbed above 3% of GDP in the 1980s and stayed there until the late 1990s. The government was able to repay some of its past borrowing by running surpluses from 1998 to 2001 and, with help from low interest rates, the interest payments on past federal government borrowing had fallen back to 1.4% of GDP by 2012. We investigate the government borrowing and debt patterns in more detail later in this chapter, but first we need\n\n[50214b2dc85171b8] (Economics2e.pdf p.764) GDP. In this situation, even U.S. budget deficits in the range of 4% of GDP can potentially crowd out a substantial share of new investment spending. Conversely, a smaller budget deficit (or an increased budget surplus) increases the pool of financial capital available for private investment. Visit this website (http://openstaxcollege.org/l/debtclock) to view the “U.S. Debt Clock.” Figure 31.7 shows the patterns of U.S. budget deficits and private investment since 1980. If greater government deficits lead to less private investment in physical capital, and reduced government deficits or budget surpluses lead to more investment in physical capital, these two lines should move up and down simultaneously. This pattern occurred in the late 1990s and early 2000s. The U.S. federal budget went from a deficit of 2.2% of GDP in 1995 to a budget surplus of 2.4% of GDP in 2000—a swing of 4.6% of GDP. From 1995 to 2000, private investment in physical capital rose from 15% to 18% of GDP—a rise of 3% of GDP. Then, when the U.S. government again started running budget deficits in the early 2000s, less financial capital became available for private investment, and the rate of private\n\n[997bdc383cb38cf0] (Economics2e.pdf p.735) Figure 30.6 State and Local Tax Revenue as a Share of GDP, 1960–2014 State and local tax revenues have increased to match the rise in state and local spending. (Source: Economic Report of the President, 2015. Table B-21, https://www.whitehouse.gov/administration/eop/cea/economic-report-of-the-President/2015) By the end of this section, you will be able to: • Explain the U.S. federal budget in terms of annual debt and accumulated debt • Understand how economic growth or decline can influence a budget surplus or budget deficit Having discussed the revenue (taxes) and expense (spending) side of the budget, we now turn to the annual budget deficit or surplus, which is the difference between the tax revenue collected and spending over a fiscal year, which starts October 1 and ends September 30 of the next year. Figure 30.7 shows the pattern of annual federal budget deficits and surpluses, back to 1930, as a share of GDP. When the line is above the horizontal axis, the budget is in surplus. When the line is below the horizontal axis, a budget deficit occurred. Clearly, the biggest deficits as a share of GDP during this time were incurred to finance World War II.",
+  "latency_s": 2.783259399991948,
+  "prompt_tokens": 2768,
+  "completion_tokens": 94,
+  "embedding_tokens": 20,
+  "cost_usd": 0.0012580000000000002,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad16",
+  "split": "dev",
+  "answerable": true,
+  "question": "What was the FDIC deposit insurance limit per account before 2008?",
+  "status": "answered",
+  "answer": "Before 2008, the FDIC deposit insurance limit per account was $100,000. This amount was raised to $250,000 in 2008 [b53110c53b2a233d].",
+  "citations": [
+   "b53110c53b2a233d"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "FDIC deposit insurance limit before 2008",
+    "filter": null,
+    "results": [
+     [
+      "cc3aa6f9f2ab43c7",
+      681,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "ed4af788465495d2",
+      418,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "5578dc35cff8adb5",
+      698,
+      0.031746031746031744,
+      3
+     ],
+     [
+      "b53110c53b2a233d",
+      399,
+      0.029877369007803793,
+      4
+     ],
+     [
+      "ffdcc830c3fe63a5",
+      681,
+      0.029116045245077504,
+      5
+     ],
+     [
+      "aeaf4c78e760b8fb",
+      679,
+      0.027222222222222224,
+      6
+     ]
+    ],
+    "context_ids": [
+     "cc3aa6f9f2ab43c7",
+     "ed4af788465495d2",
+     "5578dc35cff8adb5",
+     "b53110c53b2a233d",
+     "ffdcc830c3fe63a5",
+     "aeaf4c78e760b8fb"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "cc3aa6f9f2ab43c7",
+   "ed4af788465495d2",
+   "5578dc35cff8adb5",
+   "b53110c53b2a233d",
+   "ffdcc830c3fe63a5",
+   "aeaf4c78e760b8fb"
+  ],
+  "context": "[cc3aa6f9f2ab43c7] (Economics2e.pdf p.681) insurance and the lender of last resort. Deposit insurance is an insurance system that makes sure depositors in a bank do not lose their money, even if the bank goes bankrupt. About 70 countries around the world, including all of the major economies, have deposit insurance programs. In the United States, the Federal Deposit Insurance Corporation (FDIC) is responsible for deposit insurance. Banks pay an insurance premium to the FDIC. The insurance premium is based on the bank’s level of deposits, and then adjusted according to the riskiness of a bank’s financial situation. In 2009, for example, a fairly safe bank with a high net worth might have paid 10–20 cents in insurance premiums for every $100 in bank deposits, while a risky bank with very low net worth might have paid 50–60 cents for every $100 in bank deposits. Bank examiners from the FDIC evaluate the banks' balance sheets, looking at the asset and liability values to determine the risk level. The FDIC provides deposit insurance for about 5,898 banks (as of the end of February 2017). Even if a bank fails, the government guarantees that depositors will receive up to $250,000 of their money in each\n\n[ed4af788465495d2] (Economics2e.pdf p.418) States at that time. Interest rates fluctuate with the business cycle, typically increasing during expansions and decreasing during a recession. Note the steep decline in CD rates since 2008, the beginning of the Great Recession. The great advantages of bank accounts are that financial investors have very easy access to their money, and also money in bank accounts is extremely safe. In part, this safety arises because a bank account offers more security than keeping a few thousand dollars in the toe of a sock in your underwear drawer. In addition, the Federal Deposit Insurance Corporation (FDIC) protects the savings of the average person. Every bank is required by law to pay a fee to the FDIC, based on the size of its deposits. Then, if a bank should go bankrupt and not be able to repay depositors, the FDIC guarantees that all customers will receive their deposits back up to $250,000. The bottom line on bank accounts looks like this: low risk means low rate of return but high liquidity.\n\n[5578dc35cff8adb5] (Economics2e.pdf p.698) the United States, the Federal Deposit Insurance Corporation (FDIC) collects deposit insurance premiums from banks and guarantees bank deposits up to $250,000. Bank supervision involves inspecting the balance sheets of banks to make sure that they have positive net worth and that their assets are not too risky. In the United States, the Office of the Comptroller of the Currency (OCC) is responsible for supervising banks and inspecting savings and loans and the National Credit Union Administration (NCUA) is responsible for inspecting credit unions. The FDIC and the Federal Reserve also play a role in bank supervision. When a central bank acts as a lender of last resort, it makes short-term loans available in situations of severe financial panic or stress. The failure of a single bank can be treated like any other business failure. Yet if many banks fail, it can reduce aggregate demand in a way that can bring on or deepen a recession. The combination of deposit insurance, bank supervision, and lender of last resort policies help to prevent weaknesses in the banking system from causing recessions. 28.3 How a Central Bank Executes Monetary Policy\n\n[b53110c53b2a233d] (Economics2e.pdf p.399) of time, usually up to six months. • Pension insurance: Employers that offer pensions to their retired employees are required by law to pay a small fraction of what they are setting aside for pensions to the Pension Benefit Guarantee Corporation, which pays at least some pension benefits to workers if a company goes bankrupt and cannot pay the pensions it has promised. • Deposit insurance: Banks are required by law to pay a small fraction of their deposits to the Federal Deposit Insurance Corporation, which goes into a fund that pays depositors the value of their bank deposits up to $250,000 (the amount was raised from $100,000 to $250,000 in 2008) if the bank should go bankrupt. • Workman’s compensation insurance: Employers are required by law to pay a small percentage of the salaries that they pay into funds, typically run at the state level, that pay benefits to workers who suffer an injury on the job. • Retirement insurance: All workers pay a percentage of their income into Social Security and into Medicare, which then provides income and health care benefits to the elderly. Social Security and Medicare are not\n\n[ffdcc830c3fe63a5] (Economics2e.pdf p.681) (as of the end of February 2017). Even if a bank fails, the government guarantees that depositors will receive up to $250,000 of their money in each account, which is enough for almost all individuals, although not sufficient for many businesses. Since the United States enacted deposit insurance in the 1930s, no one has lost any of their insured deposits. Bank runs no longer happen at insured banks. Lender of Last Resort The problem with bank runs is not that insolvent banks will fail; they are, after all, bankrupt and need to be shut down. The problem is that bank runs can cause solvent banks to fail and spread to the rest of the financial system. To prevent this, the Fed stands ready to lend to banks and other financial institutions when they cannot obtain funds from anywhere else. This is known as the lender of last resort role. For banks, the central bank acting as a lender of last resort helps to reinforce the effect of deposit insurance and to reassure bank customers that they will not lose their money. The lender of last resort task can arise in other financial crises, as well. During the 1987 stock market crash panic, when U.S.\n\n[aeaf4c78e760b8fb] (Economics2e.pdf p.679) the loans geographically, as well as by sex and race of the loan applicants. By the end of this section, you will be able to: • Discuss the relationship between bank regulation and monetary policy • Explain bank supervision • Explain how deposit insurance and lender of last resort are two strategies to protect against bank runs A safe and stable national financial system is a critical concern of the Federal Reserve. The goal is not only to protect individuals’ savings, but to protect the integrity of the financial system itself. This esoteric task is usually behind the scenes, but came into view during the 2008–2009 financial crisis, when for a brief period of time, critical parts of the financial system failed and firms became unable to obtain financing for ordinary parts of their business. Imagine if suddenly you were unable to access the money in your bank accounts because your checks were not accepted for payment and your debit cards were declined. This gives an idea of a failure of the payments/financial system. Bank regulation is intended to maintain banks' solvency by avoiding excessive risk. Regulation falls into a number of",
+  "latency_s": 2.00829289999092,
+  "prompt_tokens": 2352,
+  "completion_tokens": 92,
+  "embedding_tokens": 0,
+  "cost_usd": 0.001088,
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "ad17",
+  "split": "dev",
+  "answerable": false,
+  "question": "What was the median price of a new home in 2020?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context provides median prices for new homes up to 2015 and some data points for existing homes up to 2016, but does not include the median price of a new home specifically for the year 2020.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "median price of a new home in 2020",
+    "filter": null,
+    "results": [
+     [
+      "aca51ef916dd47e7",
+      425,
+      0.032266458495966696,
+      1
+     ],
+     [
+      "85d092729399323b",
+      426,
+      0.03225806451612903,
+      2
+     ],
+     [
+      "a2b1b5e967106f9d",
+      426,
+      0.031544957774465976,
+      3
+     ],
+     [
+      "ea44538061e38f29",
+      425,
+      0.030776515151515152,
+      4
+     ],
+     [
+      "db18a8d381d393ff",
+      539,
+      0.030158730158730156,
+      5
+     ],
+     [
+      "47f2ff3e4b81468a",
+      589,
+      0.029273504273504274,
+      6
+     ]
+    ],
+    "context_ids": [
+     "aca51ef916dd47e7",
+     "85d092729399323b",
+     "a2b1b5e967106f9d",
+     "ea44538061e38f29",
+     "db18a8d381d393ff",
+     "47f2ff3e4b81468a"
+    ]
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "aca51ef916dd47e7",
+   "85d092729399323b",
+   "a2b1b5e967106f9d",
+   "ea44538061e38f29",
+   "db18a8d381d393ff",
+   "47f2ff3e4b81468a"
+  ],
+  "context": "[aca51ef916dd47e7] (Economics2e.pdf p.425) [chart Figure 17.7: Median Average Sales Price of a House in the United States Over Time] (page 425)\nChart type: Line chart\nX-axis: Year (range approximately 1990 to 2016)\nY-axis: Median Sales Price (in dollars)\nSeries: Median sales price of an existing one-family home\nApproximate values at labelled points:\n- 1990: $122,900\n- End of December 2016: $232,000\n- 2008: Median housing price fell almost 7%, from $247,900 to about $230,700\n- 2009: Fell again to $216,700\n- 2016: Home values recovered and exceeded pre-recession levels\nTrend: Generally steady rise over time with dips in 2008 and 2009\nAverage annual increase: About 3.1% per year over 24 years\n\n[85d092729399323b] (Economics2e.pdf p.426) Figure 17.7 The Median Average Sales Price for New Single-Family Homes, 1990–2015 The median price is the price where half of sales prices are higher and half are lower. The median sales price for a new one-family home was $122,900 in 1990. It rose as high as $248,000 in 2007, before falling to $232,000 in 2008. In 2015, the median sales price was $294,000. Of course, this national figure conceals many local differences, like the areas where housing prices are higher or lower, or how housing prices have risen or fallen at certain times. (Source: U.S. Census) Investors can also put money into other tangible assets such as gold, silver, and other precious metals, or in duller commodities like sugar, cocoa, coffee, orange juice, oil, and natural gas. The return on these investments derives from the saver’s hope of buying low, selling high, and receiving a capital gain. Investing in, say, gold or coffee offers relatively little in the way of nonfinancial benefits to the user (unless the investor likes to caress gold or gaze upon a warehouse full of coffee). Typically, investors in these commodities never even see the physical good. Instead, they\n\n[a2b1b5e967106f9d] (Economics2e.pdf p.426) [chart Figure 17.7: The Median Average Sales Price for New Single-Family Homes, 1990–2015] (page 426)\nChart type: Line chart\nX-axis: Year, from 1990 to 2015\nY-axis: Median Price (USD), from $100,000 to $300,000 in increments of $20,000\n\nData points (approximate median prices):\n- 1990: $122,900\n- 1991: about $125,000\n- 1992: about $130,000\n- 1993: about $135,000\n- 1994: about $140,000\n- 1995: about $145,000\n- 1996: about $150,000\n- 1997: about $160,000\n- 1998: about $170,000\n- 1999: about $180,000\n- 2000: about $190,000\n- 2001: about $200,000\n- 2002: about $210,000\n- 2003: about $230,000\n- 2004: about $240,000\n- 2005: about $245,000\n- 2006: about $240,000\n- 2007: $248,000 (peak)\n- 2008: $232,000 (drop)\n- 2009: about $220,000\n- 2010: about $225,000\n- 2011: about $230,000\n- 2012: about $240,000\n- 2013: about $260,000\n- 2014: about $280,000\n- 2015: $294,000 (end)\n\nThe chart shows a general upward trend in median sales price for new single-family homes from 1990 to 2015, with a peak in 2007 followed by a decline in 2008 and gradual recovery thereafter.\n\n[ea44538061e38f29] (Economics2e.pdf p.425) to FRED® Economic Data. Over these 24 years, home prices increased an average of 3.1% per year, which is an average financial return over this time. Figure 17.7 shows U.S. Census data for the median average sales price of a house in the United States over this time period. Go to this website (http://openstaxcollege.org/l/investopedia) to experiment with a compound annual growth rate calculator. However, the possible capital gains from rising housing prices are riskier than these national price averages. Certain regions of the country or metropolitan areas have seen drops in housing prices over time. The median housing price for the United States as a whole fell almost 7% in 2008 and again in 2009, dropping the median price from $247,900 to $216,700. As of 2016, home values had recovered and even exceeded their pre-recession levels. Visit this website (http://openstaxcollege.org/l/insidejob) to watch the trailer for Inside Job, a movie that explores the modern financial crisis.\n\n[db18a8d381d393ff] (Economics2e.pdf p.539) [table Table 22.1: Price Comparisons, 1970 and 2017] (page 539)\n| Items                                | 1970    | 2017     |\n|-------------------------------------|---------|----------|\n| Pound of ground beef                 | $0.66   | $3.62    |\n| Pound of butter                     | $0.87   | $2.03    |\n| Movie ticket                        | $1.55   | $8.65    |\n| Sales price of new home (median)   | $22,000 | $312,900 |\n| New car                            | $3,000  | $4,077   |\n| Gallon of gasoline                 | $0.36   | $2.35    |\n| Average hourly wage for a manufacturing worker | $3.23   | $20.65   |\n| Per capita GDP                     | $5,069  | $57,294  |\n\n[47f2ff3e4b81468a] (Economics2e.pdf p.589) 24 | The Aggregate Demand/ Aggregate Supply Model Figure 24.1 New Home Construction At the peak of the housing bubble, many people across the country were able to secure the loans necessary to build new houses. (Credit: modification of work by Tim Pierce/Flickr Creative Commons) From Housing Bubble to Housing Bust The United States experienced rising home ownership rates for most of the last two decades. Between 1990 and 2006, the U.S. housing market grew. Homeownership rates grew from 64% to a high of over 69% between 2004 and 2005. For many people, this was a period in which they could either buy first homes or buy a larger and more expensive home. During this time mortgage values tripled. Housing became more accessible to Americans and was considered to be a safe financial investment. Figure 24.2 shows how new single family home sales peaked in 2005 at 107,000 units.",
+  "latency_s": 2.0675792999973055,
+  "prompt_tokens": 2480,
+  "completion_tokens": 81,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0011216,
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "ad18",
+  "split": "dev",
+  "answerable": false,
+  "question": "How much did U.S. nonprofits spend on R&D in 2020?",
+  "status": "answered",
+  "answer": "U.S. nonprofits spent $19.9 billion on research and development (R&D) in 2015. Although the exact figure for 2020 is not provided, this 2015 data gives an indication of the scale of nonprofit R&D spending in the U.S. around that period [ce7967e005c0b117].",
+  "citations": [
+   "ce7967e005c0b117"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. nonprofits R&D spending 2020",
+    "filter": null,
+    "results": [
+     [
+      "ce7967e005c0b117",
+      318,
+      0.03252247488101534,
+      1
+     ],
+     [
+      "76bc27b9fcd58595",
+      318,
+      0.032266458495966696,
+      2
+     ],
+     [
+      "813a4b9df46fe551",
+      768,
+      0.03149801587301587,
+      3
+     ],
+     [
+      "9085619b47ea079d",
+      318,
+      0.031009615384615385,
+      4
+     ],
+     [
+      "874d1d5a65a3f80c",
+      953,
+      0.03021353930031804,
+      5
+     ],
+     [
+      "559432eb1232e2d8",
+      319,
+      0.029437229437229435,
+      6
+     ]
+    ],
+    "context_ids": [
+     "ce7967e005c0b117",
+     "76bc27b9fcd58595",
+     "813a4b9df46fe551",
+     "9085619b47ea079d",
+     "874d1d5a65a3f80c",
+     "559432eb1232e2d8"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "ce7967e005c0b117",
+   "76bc27b9fcd58595",
+   "813a4b9df46fe551",
+   "9085619b47ea079d",
+   "874d1d5a65a3f80c",
+   "559432eb1232e2d8"
+  ],
+  "context": "[ce7967e005c0b117] (Economics2e.pdf p.318) [table Table 13.3: U.S. Research and Development Expenditures, 2015] (page 318)\n| Sources of R&D Funding       | Amount ($ billions) | Percent of the Total |\n|------------------------------|--------------------|---------------------|\n| Federal government            | $113.1             | 22.7%               |\n| Industry                     | $344.9             | 69.0%               |\n| Universities and colleges     | $17.1              | 3.4%                |\n| Nonprofits                   | $19.9              | 4.0%                |\n| Nonfederal government         | $4.0               | 0.8%                |\n| Total                        | $499               |                     |\n\n[76bc27b9fcd58595] (Economics2e.pdf p.318) (http://openstaxcollege.org/l/USDA) to read about government research that would not take place were it left to firms due to the externalities. The first column of Table 13.3 shows the sources of total U.S. spending on research and development. The second column shows the total dollars of R&D funding by each source. The third column shows that, relative to the total amount of funding, 22.7% comes from the federal government, about 69% of R&D is done by industry, and less than 4% is done by universities and colleges. (The percentages below do not add up to exactly 100% due to rounding.) Sources of R&D Funding Amount ($ billions) Percent of the Total Federal government $113.1 22.7% Industry $344.9 69.0% Universities and colleges $17.1 3.4% Nonprofits $19.9 4.0% Nonfederal government $4.0 0.8% Total $499 Table 13.3 U.S. Research and Development Expenditures, 2015 (Source: https://www.nsf.gov/ statistics/2016/nsf16316/) In the 1960s the federal government paid for about two-thirds of the nation’s R&D. Over time, the U.S. economy has come to rely much more heavily on industry-funded R&D. The federal government has tried to focus its direct R&D\n\n[813a4b9df46fe551] (Economics2e.pdf p.768) Fiscal Policy Can Improve Technology Research and development (R&D) efforts are the lifeblood of new technology. According to the National Science Foundation, federal outlays for research, development, and physical plant improvements to various governmental agencies have remained at an average of 8.8% of GDP. About one-fifth of U.S. R&D spending goes to defense and space-oriented research. Although defense-oriented R&D spending may sometimes produce consumer-oriented spinoffs, R&D that is aimed at producing new weapons is less likely to benefit the civilian economy than direct civilian R&D spending. Fiscal policy can encourage R&D using either direct spending or tax policy. Government could spend more on the R&D that it carries out in government laboratories, as well as expanding federal R&D grants to universities and colleges, nonprofit organizations, and the private sector. By 2014, the federal share of R&D outlays totaled $135.5 billion, or about 4% of the federal government's total budget outlays, according to data from the National Science Foundation. Fiscal policy can also support R&D through tax incentives, which allow firms to reduce their tax bill as\n\n[9085619b47ea079d] (Economics2e.pdf p.318) R&D. Over time, the U.S. economy has come to rely much more heavily on industry-funded R&D. The federal government has tried to focus its direct R&D spending on areas where private firms are not as active. One difficulty with direct government support of R&D is that it inevitably involves political decisions about which projects are worthy. The scientific question of whether research is worthwhile can easily become entangled with considerations like the location of the congressional district in which\n\n[874d1d5a65a3f80c] (Economics2e.pdf p.953) “U.S. R&D Spending Resumes Growth in 2010 and 2011 but Still Lags Behind the Pace of Expansion of the National Economy.” Accessed April 1, 2015. http://www.nsf.gov/statistics/infbrief/ nsf13313/. Psacharopoulos, George. “Returns to Investment in Education: A Global Update.” World Development 22, 1994. 1325–1343. Salientes-Narisma, Corrie. “Samsung Shift to Innovative Devices Pay Off.” Inquirer Technology. Accessed May 15, 2013. http://technology.inquirer.net/23831/samsungs-shift-to-innovative-devices-pays-off. United States Department of the Treasury. “Research and Experimentation Tax Credit.” Accessed November 2013. http://www.treasury.gov/press-center/news/Pages/investing-in-us-competitiveness.aspx. U.S. Patent and Trademark Office. 2015. “U.S. Patent Statistics: Calendar Years 1963–2014.” Accessed April 10, 2015. http://www.uspto.gov/web/offices/ac/ido/oeip/taf/us_stat.pdf. United for Medical Research. “Profiles of Prosperity: How NIH-Supported Research Is Fueling Private Sector Growth and Innovation.” Introduction. Accessed January 2014. http://www.unitedformedicalresearch.com/wp- content/uploads/2013/07/UMR_ProsperityReport_071913a.pdf. Cowen, Tyler.\n\n[559432eb1232e2d8] (Economics2e.pdf p.319) the research funding is spent. Policy #2: Tax Breaks for Research and Development A complementary approach to supporting R&D that does not involve the government’s close scrutiny of specific projects is to give firms a reduction in taxes depending on how much research and development they do. The federal government refers to this policy as the research and experimentation (R&E) tax credit. According to the Treasury Department: “. . . the R&E Credit is also a cost-effective policy for stimulating additional private sector investment. Most recent studies find that each dollar of foregone tax revenue through the R&E Tax Credit causes firms to invest at least a dollar in R&D, with some studies finding a benefit to cost ratio of 2 or 2.96.” Visit this website (http://openstaxcollege.org/l/REtaxcredit) for more information on how the R&E Tax Credit encourages investment. Policy #3 Cooperative Research State and federal governments support research in a variety of ways. For example, United for Medical Research, a coalition of groups that seek funding for the National Institutes of Health, (which is supported by federal grants),",
+  "latency_s": 2.3389312000072096,
+  "prompt_tokens": 2333,
+  "completion_tokens": 118,
+  "embedding_tokens": 0,
+  "cost_usd": 0.001122,
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "ad19",
+  "split": "dev",
+  "answerable": false,
+  "question": "How many members did the United Steelworkers union have in 2010?",
+  "status": "answered",
+  "answer": "The United Steelworkers union had 591,000 members in 2010 according to the data from 2015 which likely reflects similar membership numbers around that time period.[4ac429c3d60947c2][ed6400f2547c2b80][ccbb16e03edc53b2]",
+  "citations": [
+   "4ac429c3d60947c2",
+   "ed6400f2547c2b80",
+   "ccbb16e03edc53b2"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "United Steelworkers union membership 2010",
+    "filter": null,
+    "results": [
+     [
+      "4ac429c3d60947c2",
+      341,
+      0.03278688524590164,
+      1
+     ],
+     [
+      "ed6400f2547c2b80",
+      341,
+      0.031754032258064516,
+      2
+     ],
+     [
+      "ccbb16e03edc53b2",
+      341,
+      0.03021353930031804,
+      3
+     ],
+     [
+      "1503df161bf02613",
+      449,
+      0.029857397504456328,
+      4
+     ],
+     [
+      "4e7f4e94c0422ea5",
+      346,
+      0.029571646010002173,
+      5
+     ],
+     [
+      "5dcfc6bffcbda95b",
+      346,
+      0.02871794871794872,
+      6
+     ]
+    ],
+    "context_ids": [
+     "4ac429c3d60947c2",
+     "ed6400f2547c2b80",
+     "ccbb16e03edc53b2",
+     "1503df161bf02613",
+     "4e7f4e94c0422ea5",
+     "5dcfc6bffcbda95b"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4ac429c3d60947c2",
+   "ed6400f2547c2b80",
+   "ccbb16e03edc53b2",
+   "1503df161bf02613",
+   "4e7f4e94c0422ea5",
+   "5dcfc6bffcbda95b"
+  ],
+  "context": "[4ac429c3d60947c2] (Economics2e.pdf p.341) [table Table 14.6: The Largest American Unions in 2015] (page 341)\n| Union                                                                 | Membership |\n|----------------------------------------------------------------------|------------|\n| National Education Association (NEA)                                | 2.9 million|\n| Service Employees International Union (SEIU)                        | 1.9 million|\n| American Federation of Teachers (AFT)                               | 1.5 million|\n| International Brotherhood of Teamsters (IBT)                        | 1.3 million|\n| The American Federation of State, County, and Municipal Workers (AFSCME) | 1.3 million|\n| United Food and Commercial Workers International Union              | 1.3 million|\n| International Brotherhood of Electrical Workers (IBEW)             | 662,000    |\n| United Steelworkers                                                 | 591,000    |\n| International Association of Machinists and Aerospace Workers      | 569,000    |\n| International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) | 408,000    |\n\n[ed6400f2547c2b80] (Economics2e.pdf p.341) (15.1%); natural resources, construction, and maintenance (16.3%); and production, transportation, and material moving (13.7%) • Occupations that have relatively low percentages of unionized workers are agricultural workers (1.3%), financial services (2.4%), professional and business services (2.4%), leisure and hospitality (2.7%), and wholesale and retail trade (4.2%) In summary, the percentage of workers belonging to a union is higher for men than women; higher for blacks than for whites or Hispanics; higher for the 45–64 age range; and higher among workers in government and manufacturing than workers in agriculture or service-oriented jobs. Table 14.6 lists the largest U.S. labor unions and their membership. Union Membership National Education Association (NEA) 2.9 million Service Employees International Union (SEIU) 1.9 million American Federation of Teachers (AFT) 1.5 million International Brotherhood of Teamsters (IBT) 1.3 million The American Federation of State, County, and Municipal Workers (AFSCME) 1.3 million United Food and Commercial Workers International Union 1.3 million International Brotherhood of Electrical Workers (IBEW) 662,000 United Steelworkers 591,000\n\n[ccbb16e03edc53b2] (Economics2e.pdf p.341) and Commercial Workers International Union 1.3 million International Brotherhood of Electrical Workers (IBEW) 662,000 United Steelworkers 591,000 International Association of Machinists and Aerospace Workers 569,000 International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW) 408,000 Table 14.6 The Largest American Unions in 2015 (Source: U.S. Department of Labor, Bureau of Labor Statistics) In terms of pay, benefits, and hiring, U.S. unions offer a good news/bad news story. The good news for unions and their members is that their members earn about 20% more than nonunion workers, even after adjusting for factors such as years of work experience and education level. The bad news for unions is that the share of U.S. workers who belong to a labor union has been steadily declining for 50 years, as Figure 14.11 shows. About one-quarter of all U.S. workers belonged to a union in the mid-1950s, but only 11.1% of U.S. workers are union members today. If you leave out government workers (which includes teachers in public schools), only 6.6% of the workers employed by private firms now work for a union.\n\n[1503df161bf02613] (Economics2e.pdf p.449) interest groups have on economic policy. The steelworkers union, whose members make tires, saw increasingly more members lose their jobs as U.S. consumers consumed increasingly more cheap Chinese tires. By definition, this union is relatively small but well organized, especially compared to tire consumers. It stands to gain much for each of its members, compared to what each tire consumer may have to give up in terms of higher prices. Thus, the steelworkers union (joined by domestic tire manufacturers) has not only the means but the incentive to lobby economic policymakers and lawmakers. Given that U.S. tire consumers are a large and unorganized group, if they even are a group, it is unlikely they will lobby against higher tire tariffs. In the end, lawmakers tend to listen to those who lobby them, even though the results make for bad economic policy.\n\n[4e7f4e94c0422ea5] (Economics2e.pdf p.346) negotiation even if the workers do not officially belong to the union. In the United States, union membership is almost identical to union coverage. However, in many countries, the wages of many workers who do not officially belong to a union are still determined by collective bargaining between unions and firms. Country Union Density: Percentage of Workers Belonging to a Union Union Coverage: Percentage of Workers Whose Wages Are Determined by Union Bargaining Austria 37% 99% France 9% 95% Germany 26% 63% Japan 22% 23% Netherlands 25% 82% Spain 11.3% 81% Sweden 82% 92% United Kingdom 29% 35% United States 11.1% 12.5% Table 14.8 International Comparisons of Union Membership and Coverage in 2012 (Source, CIA World Factbook, retrieved from www.cia.gov) These international differences in union membership suggest a fourth reason for the decline of union membership in the United States: perhaps U.S. laws are less friendly to the formation of unions than such laws in other countries. The close connection between union membership and a friendly legal environment is apparent in the history of U.S. unions.\n\n[5dcfc6bffcbda95b] (Economics2e.pdf p.346) [table Table 14.8: International Comparisons of Union Membership and Coverage in 2012 (Source, CIA World Factbook, retrieved from www.cia.gov)] (page 346)\n| Country       | Union Density: Percentage of Workers Belonging to a Union | Union Coverage: Percentage of Workers Whose Wages Are Determined by Union Bargaining |\n|---------------|-----------------------------------------------------------|-------------------------------------------------------------------------------------|\n| Austria       | 37%                                                       | 99%                                                                                 |\n| France        | 9%                                                        | 95%                                                                                 |\n| Germany       | 26%                                                       | 63%                                                                                 |\n| Japan         | 22%                                                       | 23%                                                                                 |\n| Netherlands   | 25%                                                       | 82%                                                                                 |\n| Spain         | 11.3%                                                     | 81%                                                                                 |\n| Sweden        | 82%                                                       | 92%                                                                                 |\n| United Kingdom| 29%                                                       | 35%                                                                                 |\n| United States | 11.1%                                                     | 12.5%                                                                               |",
+  "latency_s": 3.0208929000073113,
+  "prompt_tokens": 2385,
+  "completion_tokens": 136,
+  "embedding_tokens": 8,
+  "cost_usd": 0.00117176,
+  "n_model_calls": 2
+ }
+]

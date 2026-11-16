@@ -1,0 +1,892 @@
+[
+ {
+  "id": "at01",
+  "split": "test",
+  "group": "table",
+  "question": "By how many percentage points did the U.S. unemployment rate change from 2006 to 2012 according to Table 21.4?",
+  "expected_answer": "It rose 3.7 percentage points, from 4.4% (2006) to 8.1% (2012).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 519,
+    "region": "Table 21.4",
+    "evidence": "United States 6.8% 5.4% 4.8% 4.4% 8.1%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Must give +3.7 pp (or 4.4% to 8.1%)."
+ },
+ {
+  "id": "at02",
+  "split": "test",
+  "group": "table",
+  "question": "How much did U.S. industry spend on research and development in 2015, and what share of total R&D funding was that?",
+  "expected_answer": "$344.9 billion, 69.0% of the total.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 318,
+    "region": "Table 13.3",
+    "evidence": "Industry $344.9 69.0%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Both amount and share."
+ },
+ {
+  "id": "at03",
+  "split": "test",
+  "group": "table",
+  "question": "What was the poverty rate for Hispanics in the United States in 2013?",
+  "expected_answer": "23.5%.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 365,
+    "region": "Table 15.1",
+    "evidence": "Hispanic 23.5%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at04",
+  "split": "test",
+  "group": "table",
+  "question": "Which was the largest U.S. labor union in 2015 and how many members did it have?",
+  "expected_answer": "The National Education Association (NEA), with 2.9 million members.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 341,
+    "region": "Table 14.6",
+    "evidence": "National Education Association (NEA) 2.9 million",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at05",
+  "split": "test",
+  "group": "table",
+  "question": "How much did the average U.S. household spend on healthcare in 2015?",
+  "expected_answer": "$3,157.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 145,
+    "region": "Table 6.1",
+    "evidence": "Healthcare $3,157",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at06",
+  "split": "test",
+  "group": "table",
+  "question": "According to Table 22.1, by roughly what factor did the median sales price of a new home rise from 1970 to 2017?",
+  "expected_answer": "From $22,000 to $312,900, about 14.2 times.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 539,
+    "region": "Table 22.1",
+    "evidence": "Sales price of new home (median) $22,000 $312,900",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Factor 14.2 (accept 14-14.3) with both prices."
+ },
+ {
+  "id": "at07",
+  "split": "test",
+  "group": "image",
+  "question": "In the circular flow diagram (Figure 1.6), what two flows go from households to firms?",
+  "expected_answer": "Labor services (C) and payment for goods and services (B).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 27,
+    "region": "Figure 1.6",
+    "evidence": "Arrows from Households to Firms labelled \"B: Payment for Goods and Services\" and \"C: Labor Services\"; A (goods and services) and D (wages, salaries and benefits) go to households.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Both B and C, no reversed flows."
+ },
+ {
+  "id": "at08",
+  "split": "test",
+  "group": "image",
+  "question": "In Figure 29.10, which exchange rate policy lies between floating exchange rates and hard pegs, and how does it work?",
+  "expected_answer": "Soft exchange rate pegs: the market usually determines the exchange rate, but the central bank sometimes intervenes.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 717,
+    "region": "Figure 29.10",
+    "evidence": "Spectrum: Floating exchange rates / Soft exchange rate pegs (\"The market usually determines the exchange rate, but central bank sometimes intervenes\") / Hard exchange rate pegs / Merging currencies.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at09",
+  "split": "test",
+  "group": "image",
+  "question": "In the spectrum of competition shown in Figure 7.2, which market structure has few firms selling identical or similar products?",
+  "expected_answer": "Oligopoly.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 166,
+    "region": "Figure 7.2",
+    "evidence": "Columns: Many firms + identical product = Perfect Competition; Many firms + similar but not identical = Monopolistic Competition; Few firms + identical or similar products = Oligopoly; One firm + no similar product = Monopoly.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at10",
+  "split": "test",
+  "group": "image",
+  "question": "In Figure 33.2(b), how much oil and corn does the United States produce at point C'?",
+  "expected_answer": "20 barrels of oil and 60 bushels of corn.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 798,
+    "region": "Figure 33.2",
+    "evidence": "Panel (b) The United States: PPF from A' (50 barrels oil, 0 corn) to B' (0 oil, 100 bushels corn); point C' at 60 bushels corn, 20 barrels oil.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at11",
+  "split": "test",
+  "group": "image",
+  "question": "What does Singleton Bank's T-account balance sheet show right after it receives $10 million in deposits (Figure 27.6)?",
+  "expected_answer": "Assets: reserves of $10 million; liabilities + net worth: deposits of $10 million.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 666,
+    "region": "Figure 27.6",
+    "evidence": "T-account: Assets | Reserves $10 million; Liabilities + Net Worth | Deposits $10 million.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at12",
+  "split": "test",
+  "group": "chart",
+  "question": "According to Figure 14.11, around when did the share of U.S. wage and salary workers in unions peak, and at about what level?",
+  "expected_answer": "In the mid-1950s, at roughly 28% (accept 27-29%).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 342,
+    "region": "Figure 14.11",
+    "evidence": "Line chart 1930-2016: rises from about 7-8% in the early 1930s to a peak of about 28% around 1954-1955, then declines to 10.7% in 2016.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Period mid-1950s (accept 1953-1957) and level 27-29%."
+ },
+ {
+  "id": "at13",
+  "split": "test",
+  "group": "chart",
+  "question": "In Figure 22.4, which country had the highest inflation peak in the mid-1970s, and roughly how high was it?",
+  "expected_answer": "The United Kingdom, about 24% around 1975 (Japan was close, about 23% in 1974).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 550,
+    "region": "Figure 22.4",
+    "evidence": "Lines U.S., Japan, Germany, U.K. 1960-2016; U.K. peaks near 24-25% in 1975, Japan about 23% in 1974, U.S. about 11% in 1974 and 13.5% in 1980, Germany about 7%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Country U.K. and value 23-25%."
+ },
+ {
+  "id": "at14",
+  "split": "test",
+  "group": "chart",
+  "question": "In Figure 21.4(b), which age group of women had the highest unemployment rate, and about how high did it get around 2010?",
+  "expected_answer": "Ages 16-19, at about 26% (accept 25-26%).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 517,
+    "region": "Figure 21.4",
+    "evidence": "Panel (b) women by age: Ages 16-19 line highest throughout, peaking near 26% around 2010; ages 20-24 about 15%; 25-54 about 8.5%; 55+ about 7%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at15",
+  "split": "test",
+  "group": "chart",
+  "question": "According to Figure 20.4, which period had the lowest average annual U.S. productivity growth, and about what was the rate?",
+  "expected_answer": "1971-1990, about 1.3% per year.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 490,
+    "region": "Figure 20.4",
+    "evidence": "Bars: 1950-1970 about 2.5%, 1971-1990 about 1.3%, 1991-2000 about 2.2%, 2001-2014 about 2.15%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Period 1971-1990 and value 1.3-1.4%."
+ },
+ {
+  "id": "at16",
+  "split": "test",
+  "group": "chart",
+  "question": "In Figure 30.8, when was U.S. federal debt as a percentage of GDP at its lowest, and roughly what was it?",
+  "expected_answer": "Around the mid-1970s (about 1974), at roughly 24-25% of GDP.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 736,
+    "region": "Figure 30.8",
+    "evidence": "Line 1942-2014: peak about 108% in the mid-1940s, low of about 24-25% around 1974, about 49% mid-1990s, about 32% in 2001, about 74% in 2014.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Time mid-1970s (accept 1973-1975) and level 23-27%."
+ },
+ {
+  "id": "at17",
+  "split": "test",
+  "group": "multi_hop",
+  "question": "Before trade in the oil and corn example, the United States produces at point C' (Table 33.3). How many worker hours does it use to produce its oil there?",
+  "expected_answer": "40 hours: 20 barrels x 2 hours per barrel.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 799,
+    "region": "Table 33.3",
+    "evidence": "United States (C') 20 60",
+    "evidence_type": "text"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 797,
+    "region": "Table 33.1",
+    "evidence": "United States 2 1",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": "Needs 20 barrels (Table 33.3) and 2 hours per barrel (Table 33.1); answer 40 hours."
+ },
+ {
+  "id": "at18",
+  "split": "test",
+  "group": "multi_hop",
+  "question": "In 2015, how much more did the average U.S. household spend on housing than on transportation (Table 6.1)?",
+  "expected_answer": "$8,880 ($16,557 housing minus $7,677 transportation).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 144,
+    "region": "Table 6.1",
+    "evidence": "Housing $16,557",
+    "evidence_type": "text"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 145,
+    "region": "Table 6.1",
+    "evidence": "Transportation $7,677",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": "Table spans two pages; both values needed."
+ },
+ {
+  "id": "at19",
+  "split": "test",
+  "group": "multi_hop",
+  "question": "In 2017 the average hourly wage for a manufacturing worker (Table 22.1) was how many times the nominal federal minimum wage of $7.25 reported with Figure 22.6?",
+  "expected_answer": "About 2.85 times ($20.65 / $7.25).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 539,
+    "region": "Table 22.1",
+    "evidence": "Average hourly wage for a manufacturing worker $3.23 $20.65",
+    "evidence_type": "text"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 554,
+    "region": "Figure 22.6",
+    "evidence": "even though the nominal figure climbed from $1.40 to $7.25 per hour",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": "Ratio 2.8-2.9 with both values."
+ },
+ {
+  "id": "at20",
+  "split": "test",
+  "group": "multi_hop",
+  "question": "Using Table 21.1, compute the U.S. unemployment rate in January 2017 and compare it with the 2012 U.S. rate in Table 21.4.",
+  "expected_answer": "About 4.8% (7.635 / 159.716 million), down about 3.3 points from 8.1% in 2012.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 512,
+    "region": "Table 21.1",
+    "evidence": "In the labor force 159.716 million (62.9%) Employed 152.081 million Unemployed 7.635 million",
+    "evidence_type": "text"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 519,
+    "region": "Table 21.4",
+    "evidence": "United States 6.8% 5.4% 4.8% 4.4% 8.1%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": "4.7-4.8% and lower than 8.1%."
+ },
+ {
+  "id": "at21",
+  "split": "test",
+  "group": "text",
+  "question": "If an FDIC-insured bank fails, how much of a depositor's money is guaranteed?",
+  "expected_answer": "Up to $250,000 in each account.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 681,
+    "region": "text",
+    "evidence": "Even if a bank fails, the government guarantees that depositors will receive up to $250,000 of their money in each account",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at22",
+  "split": "test",
+  "group": "text",
+  "question": "In 2009, how much might a risky bank with very low net worth have paid in FDIC insurance premiums?",
+  "expected_answer": "About 50-60 cents for every $100 in bank deposits (vs 10-20 cents for a safe bank).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 681,
+    "region": "text",
+    "evidence": "while a risky bank with very low net worth might have paid 50–60 cents for every $100 in bank deposits",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at23",
+  "split": "test",
+  "group": "text",
+  "question": "Why does the book say China is unlikely to surpass the U.S. standard of living soon?",
+  "expected_answer": "Because China's GDP per capita is less than one fifth of the U.S. level ($6,958.48 vs $53,013), even though its total GDP is second largest.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 475,
+    "region": "text",
+    "evidence": "China has a much larger population so that in per capita terms, its GDP is less than one fifth that of the United States ($6,958.48 compared to $53,013).",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at24",
+  "split": "test",
+  "group": "text",
+  "question": "About how many savings and loan institutions does the Office of the Comptroller of the Currency monitor?",
+  "expected_answer": "About 800.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 679,
+    "region": "text",
+    "evidence": "The Office of the Comptroller of the Currency also monitors and regulates about 800 savings and loan institutions.",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "at25",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "What was Vietnam's inflation rate in 2016?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Vietnam appears only as a coffee exporter (p.129), with GDP growth rates in Table 20.5 (p.499), in trade-agreement lists (p.836) and in exercises (p.842, 946). Figures 22.4/22.5 do not include Vietnam. Checked by full-text search for 'Vietnam'."
+ },
+ {
+  "id": "at26",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "What was the poverty rate for Asian Americans in 2013?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Table 15.1 (p.365) lists only females, males, white, black and Hispanic. No \"Asian\" on pages 360-370."
+ },
+ {
+  "id": "at27",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "How many members did the Teamsters union have in 2020?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Only Table 14.6 (2015, 1.3 million) mentions the Teamsters; full-text search finds no other mention."
+ },
+ {
+  "id": "at28",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "What was the price of one Bitcoin in 2017?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Bitcoin is described on p.655 and p.669 and cited on p.961, with no price. Checked by full-text search."
+ },
+ {
+  "id": "at29",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "How much did the average U.S. household spend on childcare in 2015?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Table 6.1 (p.144-145) has no childcare row; no \"child\" on those pages."
+ },
+ {
+  "id": "at30",
+  "split": "test",
+  "group": "no_evidence",
+  "question": "What was Germany's unemployment rate in 2016?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Table 21.4 (p.519) stops at 2012; Figure 22.4 shows German inflation, not unemployment, to 2016. Checked pages 510-530."
+ },
+ {
+  "id": "ad01",
+  "split": "dev",
+  "group": "table",
+  "question": "What share of U.S. R&D funding came from nonprofits in 2015, and how much was it?",
+  "expected_answer": "$19.9 billion, 4.0%.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 318,
+    "region": "Table 13.3",
+    "evidence": "Nonprofits $19.9 4.0%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad02",
+  "split": "dev",
+  "group": "table",
+  "question": "How much did a movie ticket cost in 1970 and in 2017 according to Table 22.1?",
+  "expected_answer": "$1.55 in 1970 and $8.65 in 2017.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 539,
+    "region": "Table 22.1",
+    "evidence": "Movie ticket $1.55 $8.65",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad03",
+  "split": "dev",
+  "group": "table",
+  "question": "How much did the average U.S. household spend on education in 2015?",
+  "expected_answer": "$1,074.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 145,
+    "region": "Table 6.1",
+    "evidence": "Education $1,074",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad04",
+  "split": "dev",
+  "group": "image",
+  "question": "In the circular flow diagram, what flow labelled D goes from firms to households?",
+  "expected_answer": "Wages, salaries and benefits.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 27,
+    "region": "Figure 1.6",
+    "evidence": "Arrow D: Wages, Salaries and Benefits, from Firms to Households.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad05",
+  "split": "dev",
+  "group": "image",
+  "question": "In Figure 7.2, what defines monopolistic competition?",
+  "expected_answer": "Many firms selling similar but not identical products.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 166,
+    "region": "Figure 7.2",
+    "evidence": "Monopolistic Competition column: Many firms, similar but not identical products.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad06",
+  "split": "dev",
+  "group": "image",
+  "question": "What does the \"merging currencies\" end of the exchange rate policy spectrum in Figure 29.10 mean?",
+  "expected_answer": "The currency is made identical to the currency of another nation.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 717,
+    "region": "Figure 29.10",
+    "evidence": "Merging currencies: The currency is made identical to currency of another nation.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad07",
+  "split": "dev",
+  "group": "chart",
+  "question": "In Figure 30.3, what share of federal spending went to national defense in 2014?",
+  "expected_answer": "19%.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 732,
+    "region": "Figure 30.3",
+    "evidence": "Pie: All other spending 29%, National defense 19%, Social Security 22%, Healthcare 24%, Net interest 6%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad08",
+  "split": "dev",
+  "group": "chart",
+  "question": "In Figure 19.3, what percentage of U.S. GDP on the demand side is government spending?",
+  "expected_answer": "17.6%.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 456,
+    "region": "Figure 19.3",
+    "evidence": "Pie: Consumption 68.7%, Investment 16.3%, Government spending 17.6%, Net exports -2.7%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad09",
+  "split": "dev",
+  "group": "chart",
+  "question": "In Figure 21.4(c), which racial or ethnic group had the highest unemployment rate in the early 1980s, and about how high?",
+  "expected_answer": "Black workers, about 19-20%.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 517,
+    "region": "Figure 21.4",
+    "evidence": "Panel (c): Black line peaks near 19.5% around 1983; Hispanic about 14%; White about 8.5%.",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad10",
+  "split": "dev",
+  "group": "multi_hop",
+  "question": "In 2014, roughly what was federal debt as a share of GDP (Figure 30.8), and what share of federal spending went to net interest (Figure 30.3)?",
+  "expected_answer": "About 74% of GDP; net interest was 6% of federal spending.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 736,
+    "region": "Figure 30.8",
+    "evidence": "Line ends near 74% in 2014.",
+    "evidence_type": "visual"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 732,
+    "region": "Figure 30.3",
+    "evidence": "Net interest (6%).",
+    "evidence_type": "visual"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": ""
+ },
+ {
+  "id": "ad11",
+  "split": "dev",
+  "group": "multi_hop",
+  "question": "In January 2017, about how many Americans had been unemployed for over 27 weeks? Use Tables 21.1 and 21.3.",
+  "expected_answer": "About 2.09 million (27.4% of 7.635 million).",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 512,
+    "region": "Table 21.1",
+    "evidence": "Unemployed 7.635 million",
+    "evidence_type": "text"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 519,
+    "region": "Table 21.3",
+    "evidence": "Over 27 weeks 27.4%",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": ""
+ },
+ {
+  "id": "ad12",
+  "split": "dev",
+  "group": "multi_hop",
+  "question": "How many worker hours does Saudi Arabia use to produce the combination at point C in Figure 33.2(a)?",
+  "expected_answer": "100 hours: 60 barrels x 1 hour + 10 bushels x 4 hours.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 798,
+    "region": "Figure 33.2",
+    "evidence": "Point C: 60 barrels of oil and 10 bushels of corn",
+    "evidence_type": "visual"
+   },
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 797,
+    "region": "Table 33.1",
+    "evidence": "Saudi Arabia 1 4",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "all",
+  "grading_note": ""
+ },
+ {
+  "id": "ad13",
+  "split": "dev",
+  "group": "text",
+  "question": "How many regional Federal Reserve banks are there?",
+  "expected_answer": "12.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 678,
+    "region": "text",
+    "evidence": "The Fed also includes 12 regional Federal Reserve banks",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad14",
+  "split": "dev",
+  "group": "text",
+  "question": "At the beginning of 2017, $1 had about the same purchasing power as how much money in 1972?",
+  "expected_answer": "About 18 cents.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 539,
+    "region": "text",
+    "evidence": "$1 had about the same purchasing power in overall terms of goods and services as 18 cents did in 1972",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad15",
+  "split": "dev",
+  "group": "text",
+  "question": "What happened to the U.S. debt/GDP ratio when budget surpluses arrived from 1998 to 2001?",
+  "expected_answer": "It declined substantially.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 736,
+    "region": "text",
+    "evidence": "When budget surpluses arrived from 1998 to 2001, the debt/ GDP ratio declined substantially.",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": ""
+ },
+ {
+  "id": "ad16",
+  "split": "dev",
+  "group": "text",
+  "question": "What was the FDIC deposit insurance limit per account before 2008?",
+  "expected_answer": "$100,000; it was raised to $250,000 in 2008.",
+  "answerable": true,
+  "gold": [
+   {
+    "source_id": "openstax-econ2e-full",
+    "page": 399,
+    "region": "text",
+    "evidence": "which goes into a fund that pays depositors the value of their bank deposits up to $250,000 (the amount was raised from $100,000 to $250,000 in 2008)",
+    "evidence_type": "text"
+   }
+  ],
+  "gold_rule": "any",
+  "grading_note": "Relabelled from no-evidence after dev run: p.399 states the old limit (my first check missed it because the page spells out the agency name)."
+ },
+ {
+  "id": "ad17",
+  "split": "dev",
+  "group": "no_evidence",
+  "question": "What was the median price of a new home in 2020?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Table 22.1 (p.539) has only 1970 and 2017."
+ },
+ {
+  "id": "ad18",
+  "split": "dev",
+  "group": "no_evidence",
+  "question": "How much did U.S. nonprofits spend on R&D in 2020?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Table 13.3 (p.318) covers 2015 only."
+ },
+ {
+  "id": "ad19",
+  "split": "dev",
+  "group": "no_evidence",
+  "question": "How many members did the United Steelworkers union have in 2010?",
+  "answerable": false,
+  "expected_behavior": "search_and_abstain",
+  "absence_reason": "Only Table 14.6 (2015, 591,000 members) gives membership; the other mention (p.442) is about a 2009 tire tariff, no membership number."
+ }
+]

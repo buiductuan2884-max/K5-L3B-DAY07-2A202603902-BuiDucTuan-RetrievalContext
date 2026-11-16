@@ -1,0 +1,1 @@
+{"method": "hybrid", "top_k": 5, "max_searches": 3, "budget_chars": 3600, "use_filter": true, "context_policy": "score"}

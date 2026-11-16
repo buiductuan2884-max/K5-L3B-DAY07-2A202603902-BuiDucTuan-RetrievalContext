@@ -1,0 +1,882 @@
+[
+  {
+    "id": "t41",
+    "query": "What was the median salary for nurses in 2014?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 19.23670055612742,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "7f0205ffbc40e2da",
+        "page": 96,
+        "score": 11.978055193918284,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "856c6941ac83977e",
+        "page": 95,
+        "score": 11.04402996856605,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "4920324692d7ee19",
+        "page": 95,
+        "score": 9.863551263896339,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 9.53837582046495,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "509e40aad3221985",
+        "page": 93,
+        "score": 9.457143858699144,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4419becc05a2662a",
+        "page": 95,
+        "score": 8.940801524807505,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7b33302032920c54",
+        "page": 111,
+        "score": 8.867324714856675,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4fcd36d8a32970f5",
+        "page": 96,
+        "score": 8.57319063629463,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "9a1a3780e44c26cb",
+        "page": 56,
+        "score": 6.318558714965835,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0005957999965175986
+  },
+  {
+    "id": "t42",
+    "query": "How many U.S. consumers canceled their Netflix subscriptions after the 2011 price increase?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "4f9c26e2102b55dc",
+        "page": 135,
+        "score": 32.246048023548965,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "8edf561f44839cc4",
+        "page": 117,
+        "score": 19.262667322775986,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "d9d0852490bfe3b3",
+        "page": 107,
+        "score": 14.213541442955064,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "8ff388b8c257cf57",
+        "page": 135,
+        "score": 12.961058911613847,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7040c847a1eccce7",
+        "page": 106,
+        "score": 12.442985712503354,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "d96563564869eb5b",
+        "page": 117,
+        "score": 12.151884504921975,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "53e2f4f6b9fd6d0d",
+        "page": 105,
+        "score": 11.323587429470376,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "94fced4c0aa89e23",
+        "page": 135,
+        "score": 11.244124326110082,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 11.144608683177275,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 10.402778067162785,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0017878999933600426
+  },
+  {
+    "id": "t43",
+    "query": "In financial markets, are people who save money on the supply side or the demand side?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a6bc3d1a21502dbb",
+        "page": 103,
+        "score": 25.647933059838078,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "e2ca58126d46fc66",
+        "page": 94,
+        "score": 16.84182234133178,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "120122cead382cb0",
+        "page": 105,
+        "score": 15.159988138651299,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "876e2c4baf21fc9e",
+        "page": 105,
+        "score": 14.48235106442106,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "3687d65d898fbceb",
+        "page": 102,
+        "score": 11.452512060154895,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "7040c847a1eccce7",
+        "page": 106,
+        "score": 11.397400067950436,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "bfb9f7fa0f53a12c",
+        "page": 106,
+        "score": 9.916967188393192,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "c1ad5f8694144e43",
+        "page": 105,
+        "score": 9.705371978716288,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "317e98b7925d3c73",
+        "page": 104,
+        "score": 9.68809139805517,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "9727dcffbab600a1",
+        "page": 93,
+        "score": 9.662663705971026,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0010670000046957284
+  },
+  {
+    "id": "t44",
+    "query": "What is infinite or perfect elasticity?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "3845ee4d1a7249c4",
+        "page": 123,
+        "score": 13.489928257849284,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "30844565c99810e4",
+        "page": 123,
+        "score": 13.402563521449682,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "8fb7f827c81a3c73",
+        "page": 123,
+        "score": 11.426971906214181,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "8ff388b8c257cf57",
+        "page": 135,
+        "score": 7.630040479699818,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "f8cdd1e60d692788",
+        "page": 118,
+        "score": 5.271923343668227,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9fff061abc2a017d",
+        "page": 121,
+        "score": 4.99011685296589,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "7fc96ed39b384a16",
+        "page": 134,
+        "score": 4.841315121715169,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bce971fa93b0847",
+        "page": 134,
+        "score": 3.646184081901802,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "fa8f10491c8b3681",
+        "page": 133,
+        "score": 3.6399595805404665,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 3.4590171539594396,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.00045950000640004873
+  },
+  {
+    "id": "t45",
+    "query": "What is quantity demanded?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "c2aaed857a9cf061",
+        "page": 56,
+        "score": 5.011532188908443,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "54ba95d9b292c073",
+        "page": 80,
+        "score": 4.92867683919569,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "7aa88a7575dd5e82",
+        "page": 57,
+        "score": 4.766492728936999,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "7d1ffc9a1e9e581d",
+        "page": 72,
+        "score": 4.509280236222173,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "f8cdd1e60d692788",
+        "page": 118,
+        "score": 4.5087712792445105,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "8b5a19d198453ae1",
+        "page": 61,
+        "score": 3.8843533540957416,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 3.873752981656931,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "aef923217bdadf63",
+        "page": 77,
+        "score": 3.609791768269743,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "dba3f0c7fb1ca1f9",
+        "page": 118,
+        "score": 3.4508485733960423,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "dac15554b09d63cb",
+        "page": 73,
+        "score": 3.3746391165074057,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 3,
+    "latency_s": 0.0005621000018436462
+  },
+  {
+    "id": "t46",
+    "query": "Vì sao thời tiết mùa hè năm 2015 lại thuận lợi cho việc đánh bắt cá hồi ngoài khơi California?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "7a9d0a284e5a6ed3",
+        "page": 72,
+        "score": 6.7730775888362365,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "a537ef7dcaa2cedb",
+        "page": 73,
+        "score": 4.378885992101402,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "7d1ffc9a1e9e581d",
+        "page": 72,
+        "score": 4.0366226544697374,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "fc76fd80de2baa58",
+        "page": 94,
+        "score": 3.8626392563854908,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "3687d65d898fbceb",
+        "page": 102,
+        "score": 3.012147211250051,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "509e40aad3221985",
+        "page": 93,
+        "score": 2.912395138287842,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 2.871638466376774,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "c223d039a301ea36",
+        "page": 100,
+        "score": 2.8583052242951643,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9494f9f815bb9475",
+        "page": 107,
+        "score": 2.8190381797888424,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "acda1c15b4a924e8",
+        "page": 103,
+        "score": 2.768330208010246,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0007627000159118325
+  },
+  {
+    "id": "t47",
+    "query": "If demand for nurses rises while the supply of nurses falls, what happens to nurse salaries and to the number of nurses?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "5f311ad36d9b19c4",
+        "page": 112,
+        "score": 18.27614281760085,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "4419becc05a2662a",
+        "page": 95,
+        "score": 16.907514894291506,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4920324692d7ee19",
+        "page": 95,
+        "score": 14.678013740054045,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "7b33302032920c54",
+        "page": 111,
+        "score": 14.664496313856704,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "7f0205ffbc40e2da",
+        "page": 96,
+        "score": 13.668672670033633,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "4fcd36d8a32970f5",
+        "page": 96,
+        "score": 13.481265353793143,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "aef923217bdadf63",
+        "page": 77,
+        "score": 10.920749555751922,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 10.837044813215767,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 10.374677754207674,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "fc76fd80de2baa58",
+        "page": 94,
+        "score": 10.103500609341948,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 4,
+    "latency_s": 0.001053600019076839
+  },
+  {
+    "id": "t48",
+    "query": "In the constant unitary elasticity demand example, by what percentage do price and quantity change between points C and D?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "262eb8334e00494a",
+        "page": 124,
+        "score": 36.25387692963138,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "74024909efd3b02c",
+        "page": 124,
+        "score": 28.153859821131753,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "dea9063e9bf055f9",
+        "page": 125,
+        "score": 26.747128565211966,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "a7c7ea42f778b239",
+        "page": 125,
+        "score": 26.717670706535127,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7ea85c078ae4629d",
+        "page": 124,
+        "score": 23.929607005264117,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "c7da0d5fd8ec319d",
+        "page": 122,
+        "score": 18.207596783661586,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "8fb7f827c81a3c73",
+        "page": 123,
+        "score": 16.489316742298023,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 15.855328203419676,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4e300708fc49eef7",
+        "page": 120,
+        "score": 15.821001362184122,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "d2253e172ac3a7e8",
+        "page": 118,
+        "score": 15.780752624158813,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013466000091284513
+  },
+  {
+    "id": "t49",
+    "query": "What was the U.S. federal minimum wage in 2022?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 18.28177211431485,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 17.61077587870478,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 16.841891322369932,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "61dd76ef29c8941b",
+        "page": 80,
+        "score": 15.394911365310332,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "c223d039a301ea36",
+        "page": 100,
+        "score": 14.259969098404728,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "296fa6a889358624",
+        "page": 101,
+        "score": 10.655062945419436,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a5ec39ccd55ca056",
+        "page": 102,
+        "score": 10.316307869344712,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "a8eac835673bdf2f",
+        "page": 100,
+        "score": 10.179163630287636,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9fb40d3f1244390e",
+        "page": 102,
+        "score": 9.967859004796775,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "68e18f951c6016b3",
+        "page": 99,
+        "score": 8.959745583582905,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0005787000118289143
+  },
+  {
+    "id": "t50",
+    "query": "What is the price elasticity of demand for electric cars?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "f8cdd1e60d692788",
+        "page": 118,
+        "score": 6.419692229256436,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "1da087922f6060a0",
+        "page": 63,
+        "score": 6.175220859742664,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "95d7395a87eb0b91",
+        "page": 64,
+        "score": 5.8535701676427525,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "9fff061abc2a017d",
+        "page": 121,
+        "score": 5.629000886214204,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "1e56942e8ad04b79",
+        "page": 74,
+        "score": 5.4204284440504935,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "7135de81a5fd9181",
+        "page": 64,
+        "score": 5.3772339592682075,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "7fc96ed39b384a16",
+        "page": 134,
+        "score": 5.272959841486154,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "6105a5f83430ecf2",
+        "page": 67,
+        "score": 4.978393594337623,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "0bce971fa93b0847",
+        "page": 134,
+        "score": 4.917197496716865,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "0f60686cf0f2b630",
+        "page": 63,
+        "score": 4.907592318457299,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.000750000006519258
+  },
+  {
+    "id": "t51",
+    "query": "What is the marginal propensity to consume?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "120122cead382cb0",
+        "page": 105,
+        "score": 6.2892293566653015,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "aef923217bdadf63",
+        "page": 77,
+        "score": 3.1776384623165366,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "9a1a3780e44c26cb",
+        "page": 56,
+        "score": 3.0643165666444037,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "c2aaed857a9cf061",
+        "page": 56,
+        "score": 2.7888017571824224,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "ebb1b123b0c47da4",
+        "page": 77,
+        "score": 2.648246963430827,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "874910358d894f04",
+        "page": 67,
+        "score": 2.4974455596734098,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "86dcbdc67ba5375c",
+        "page": 81,
+        "score": 2.4250585232739725,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "9fff061abc2a017d",
+        "page": 121,
+        "score": 2.3650769173836546,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 2.3484804836470436,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "e8d5259ff9df509e",
+        "page": 62,
+        "score": 2.292183271392852,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.00033650000113993883
+  }
+]

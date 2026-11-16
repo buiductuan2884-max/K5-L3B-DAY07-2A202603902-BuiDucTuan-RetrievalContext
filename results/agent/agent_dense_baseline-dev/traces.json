@@ -1,0 +1,2815 @@
+[
+ {
+  "query_id": "q01",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is consumer surplus?",
+  "status": "answered",
+  "answer": "Consumer surplus is defined as the amount that individuals would have been willing to pay for a good or service, minus the amount that they actually paid. It represents the benefit consumers receive when they pay a price lower than what they are willing to pay. In graphical terms, consumer surplus is the area above the market price and below the demand curve, often illustrated as a triangular area in economic diagrams. For instance, if consumers are willing to pay $90 for a tablet but the equilibrium price is $80, the difference of $10 per tablet for those consumers who purchase at the lower price constitutes their consumer surplus. This area is labeled as F in economic graphs [3fa35f7966b72e0c].",
+  "citations": [
+   "3fa35f7966b72e0c"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "What is consumer surplus?",
+    "filter": null,
+    "results": [
+     [
+      "3fa35f7966b72e0c",
+      81,
+      0.6246864199638367,
+      1
+     ],
+     [
+      "86dcbdc67ba5375c",
+      81,
+      0.6211541891098022,
+      2
+     ],
+     [
+      "9f5d1e3977a93571",
+      82,
+      0.5991032123565674,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "3fa35f7966b72e0c",
+     "86dcbdc67ba5375c"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "3fa35f7966b72e0c",
+   "86dcbdc67ba5375c"
+  ],
+  "context": "[3fa35f7966b72e0c] (Economics2e.pdf p.81) For example, point J shows that if the price were $90, 20 million tablets would be sold. Those consumers who would have been willing to pay $90 for a tablet based on the utility they expect to receive from it, but who were able to pay the equilibrium price of $80, clearly received a benefit beyond what they had to pay. Remember, the demand curve traces consumers’ willingness to pay for different quantities. The amount that individuals would have been willing to pay, minus the amount that they actually paid, is called consumer surplus. Consumer surplus is the area labeled F—that is, the area above the market price and below the demand curve.\n\n[86dcbdc67ba5375c] (Economics2e.pdf p.81) Figure 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of consumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers were willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been willing to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer surplus, which shows that the equilibrium price received in the market was more than what many of the producers were willing to accept for their products. For example, point K on the supply curve shows that at a price of $45, firms would have been willing to supply a quantity of 14 million.\n\nThe supply curve shows the quantity that firms are willing to supply at each price. For example, point K in Figure",
+  "latency_s": 4.283826200000476,
+  "prompt_tokens": 1112,
+  "completion_tokens": 188,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00027959999999999997,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q02",
+  "split": "dev",
+  "answerable": true,
+  "question": "What does the Latin phrase ceteris paribus mean in economics?",
+  "status": "answered",
+  "answer": "The Latin phrase \"ceteris paribus\" means \"all other things being equal\" in economics. It is used to analyze the effect of one variable while holding other relevant factors constant. For instance, when examining how changes in price affect demand or supply, ceteris paribus allows economists to isolate the impact of price changes by assuming that other factors, such as income or production costs, remain unchanged. This assumption helps in understanding the relationship between variables without the complexity of multiple simultaneous changes. Essentially, it simplifies the analysis by focusing on one factor at a time while keeping others constant [ac8aecd5ff1639ee][e0836c7003dfaaa7].",
+  "citations": [
+   "ac8aecd5ff1639ee",
+   "e0836c7003dfaaa7"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "ceteris paribus meaning in economics",
+    "filter": null,
+    "results": [
+     [
+      "ac8aecd5ff1639ee",
+      63,
+      0.6318651437759399,
+      1
+     ],
+     [
+      "a253db52f5cdbdad",
+      62,
+      0.5467713475227356,
+      2
+     ],
+     [
+      "e0836c7003dfaaa7",
+      63,
+      0.5202593803405762,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "ac8aecd5ff1639ee",
+     "a253db52f5cdbdad",
+     "e0836c7003dfaaa7"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "ac8aecd5ff1639ee",
+   "a253db52f5cdbdad",
+   "e0836c7003dfaaa7"
+  ],
+  "context": "[ac8aecd5ff1639ee] (Economics2e.pdf p.63) We typically apply ceteris paribus when we observe how changes in price affect demand or supply, but we can apply ceteris paribus more generally. In the real world, demand and supply depend on more factors than just price. For example, a consumer’s demand depends on income and a producer’s supply depends on the cost of producing the product. How can we analyze the effect on demand or supply if multiple factors are changing at the same time—say price rises and income falls? The answer is that we examine the changes one at a time, assuming the other factors are held constant.\n\n[a253db52f5cdbdad] (Economics2e.pdf p.62) These factors matter for both individual and market demand as a whole. Exactly how do these various factors affect demand, and how do we show the effects graphically? To answer those questions, we need the ceteris paribus assumption.\n\nThe Ceteris Paribus Assumption\n\n[e0836c7003dfaaa7] (Economics2e.pdf p.63) For example, we can say that an increase in the price reduces the amount consumers will buy (assuming income, and anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount consumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the ceteris paribus assumption really means. In this particular case, after we analyze each factor separately, we can combine the results. The amount consumers buy falls for two reasons: first because of the higher price and second because of the lower income.\n\nHow Does Income Affect Demand?",
+  "latency_s": 3.138969100022223,
+  "prompt_tokens": 1142,
+  "completion_tokens": 194,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002877,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q03",
+  "split": "dev",
+  "answerable": true,
+  "question": "What happens in a goods market when the price is set below the equilibrium level?",
+  "status": "answered",
+  "answer": "When the price is set below the equilibrium level in a goods market, there is excess demand, or a shortage. This means that at the lower price, the quantity demanded exceeds the quantity supplied. For example, eager buyers may rush to purchase the good, but suppliers are unable to meet this increased demand due to the lower price, leading to a situation where many buyers find that the product is in short supply. Consequently, suppliers may recognize the opportunity to increase prices to move toward the equilibrium level, where quantity demanded equals quantity supplied. This dynamic illustrates how prices adjust in response to market conditions to restore balance between supply and demand. [8b5a19d198453ae1]",
+  "citations": [
+   "8b5a19d198453ae1"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "goods market price below equilibrium level",
+    "filter": null,
+    "results": [
+     [
+      "0bc350ab0f4abbe8",
+      102,
+      0.5469037294387817,
+      1
+     ],
+     [
+      "8b5a19d198453ae1",
+      61,
+      0.5315448641777039,
+      2
+     ],
+     [
+      "54ba95d9b292c073",
+      80,
+      0.5309721231460571,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "0bc350ab0f4abbe8",
+     "8b5a19d198453ae1",
+     "54ba95d9b292c073"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "0bc350ab0f4abbe8",
+   "8b5a19d198453ae1",
+   "54ba95d9b292c073"
+  ],
+  "context": "[0bc350ab0f4abbe8] (Economics2e.pdf p.102) employment in the economy, as long as it remains below the equilibrium wage. Even if the government increases minimum wage by enough so that it rises slightly above the equilibrium wage and becomes binding, there will be only a small excess supply gap between the quantity demanded and quantity supplied.\n\n[8b5a19d198453ae1] (Economics2e.pdf p.61) When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which had been depressed by the lower price. In this situation, eager gasoline buyers mob the gas stations, only to find many stations running short of fuel. Oil companies and gas stations recognize that they have an opportunity to make higher profits by selling what gasoline they have at a higher price. As a result, the price rises toward the equilibrium level. Read Demand, Supply, and Efficiency for more discussion on the importance of the demand and supply model.\n\n[54ba95d9b292c073] (Economics2e.pdf p.80) Figure 3.22 illustrates the effects of a government program that assures a price above the equilibrium by focusing on the market for wheat in Europe. In the absence of government intervention, the price would adjust so that the quantity supplied would equal the quantity demanded at the equilibrium point E0, with price P0 and quantity Q0. However, policies to keep prices high for farmers keeps the price above what would have been the market equilibrium level—the price Pf shown by the dashed horizontal line in the diagram. The result is a quantity supplied in excess of the quantity demanded (Qd). When quantity supplied exceeds quantity demanded, a surplus exists.",
+  "latency_s": 3.4478845999983605,
+  "prompt_tokens": 1163,
+  "completion_tokens": 182,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00028365,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q04",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is a price ceiling?",
+  "status": "answered",
+  "answer": "A price ceiling is a legal maximum price set for a product, enacted to keep prices low for consumers. When the market price is prevented from rising to the equilibrium level due to the price ceiling, it results in a situation where the quantity demanded exceeds the quantity supplied, leading to a shortage. While some consumers benefit from being able to purchase the product at a lower price, sellers may suffer, and overall quality may deteriorate as a result of the ceiling. For example, in a rent control scenario, a city government might set a maximum rent that leads to fewer rental units being available than at the market rate, creating a shortage of housing units. [595e13a0a61ee8ea][6aab0d72291cccfc]",
+  "citations": [
+   "595e13a0a61ee8ea",
+   "6aab0d72291cccfc"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "price ceiling",
+    "filter": null,
+    "results": [
+     [
+      "595e13a0a61ee8ea",
+      79,
+      0.6152268648147583,
+      1
+     ],
+     [
+      "a47641718d93b090",
+      100,
+      0.5956714153289795,
+      2
+     ],
+     [
+      "6aab0d72291cccfc",
+      79,
+      0.5222261548042297,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "595e13a0a61ee8ea",
+     "a47641718d93b090",
+     "6aab0d72291cccfc"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "595e13a0a61ee8ea",
+   "a47641718d93b090",
+   "6aab0d72291cccfc"
+  ],
+  "context": "[595e13a0a61ee8ea] (Economics2e.pdf p.79) Price ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the market price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and thus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling will benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at all. Quality is also likely to deteriorate. Price Floors\n\nA price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known example\n\n[a47641718d93b090] (Economics2e.pdf p.100) In contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent people from earning income are not politically popular. There is one exception: boards of trustees or stockholders, as an example, propose limits on the high incomes of top business executives.\n\n[6aab0d72291cccfc] (Economics2e.pdf p.79) Suppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 for a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed maximum price set by the rent control law. However, the underlying forces that shifted the demand curve to the right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but the quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity supplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price ceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling (15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units).",
+  "latency_s": 3.773596799990628,
+  "prompt_tokens": 1185,
+  "completion_tokens": 202,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00029895,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q05",
+  "split": "dev",
+  "answerable": true,
+  "question": "What was the U.S. federal minimum wage in 2016?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide specific information about the U.S. federal minimum wage in 2016, only that it was raised to $7.25 per hour in mid-2009.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "U.S. federal minimum wage 2016",
+    "filter": null,
+    "results": [
+     [
+      "87e26da6e4f0b189",
+      101,
+      0.5433062314987183,
+      1
+     ],
+     [
+      "63dadd9259803ad4",
+      100,
+      0.5331212282180786,
+      2
+     ],
+     [
+      "1bb902ea784d7f9e",
+      102,
+      0.5008738040924072,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "87e26da6e4f0b189",
+     "63dadd9259803ad4"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "87e26da6e4f0b189",
+   "63dadd9259803ad4"
+  ],
+  "context": "[87e26da6e4f0b189] (Economics2e.pdf p.101) The U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly below it. About 1% of American workers are actually paid the minimum wage. In other words, the vast majority of the U.S. labor force has its wages determined in the labor market, not as a result of the government price floor. However, for workers with low skills and little experience, like those without a high school diploma or teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently below the market price for unskilled labor, because employers offer more than the minimum wage to checkout clerks and other low-skill workers without any government prodding.\n\n[63dadd9259803ad4] (Economics2e.pdf p.100) The labor market, however, presents some prominent examples of price floors, which are an attempt to increase the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it illegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage was raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher minimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage is too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you work 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is $14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty.",
+  "latency_s": 1.9947611999814399,
+  "prompt_tokens": 1168,
+  "completion_tokens": 73,
+  "embedding_tokens": 0,
+  "cost_usd": 0.000219,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q06",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is the name for the reduction in total surplus when an economy produces an inefficient amount?",
+  "status": "answered",
+  "answer": "The reduction in total surplus when an economy produces an inefficient amount is called deadweight loss. This loss occurs when the economy operates at an inefficient quantity, resulting in a surplus that benefits no one, akin to money thrown away. In this context, deadweight loss is represented as the area U + W in economic diagrams. It is important to note that even with deadweight loss, both consumer and producer surplus can be higher due to price controls blocking some transactions that both parties would be willing to make. [cfde7570a6061da2]",
+  "citations": [
+   "cfde7570a6061da2"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "reduction in total surplus when an economy produces an inefficient amount",
+    "filter": null,
+    "results": [
+     [
+      "cfde7570a6061da2",
+      82,
+      0.6914539337158203,
+      1
+     ],
+     [
+      "9f5d1e3977a93571",
+      82,
+      0.5831384062767029,
+      2
+     ],
+     [
+      "036a1398cc39befe",
+      81,
+      0.5256958603858948,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "cfde7570a6061da2",
+     "9f5d1e3977a93571"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "cfde7570a6061da2",
+   "9f5d1e3977a93571"
+  ],
+  "context": "[cfde7570a6061da2] (Economics2e.pdf p.82) As a result, two changes occur. First, an inefficient outcome occurs and the total surplus of society is reduced. The loss in social surplus that occurs when the economy produces at an inefficient quantity is called deadweight loss. In a very real sense, it is like money thrown away that benefits no one. In Figure 3.24 (a), the deadweight loss is the area U + W. When deadweight loss exists, it is possible for both consumer and producer surplus to be higher, in this case because the price control is blocking some suppliers and demanders from transactions they would both be willing to make.\n\n[9f5d1e3977a93571] (Economics2e.pdf p.82) The sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or total surplus. In Figure 3.23 we show social surplus as the area F + G. Social surplus is larger at equilibrium quantity and price than it would be at any other quantity. This demonstrates the economic efficiency of the market equilibrium. In addition, at the efficient level of output, it is impossible to produce greater consumer surplus without reducing producer surplus, and it is impossible to produce greater producer surplus without reducing consumer surplus. Inefficiency of Price Floors and Price Ceilings\n\nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price and quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with creating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some producer surplus to consumers.",
+  "latency_s": 3.01730960002169,
+  "prompt_tokens": 1148,
+  "completion_tokens": 161,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002688,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q07",
+  "split": "dev",
+  "answerable": true,
+  "question": "When does a government subsidy occur?",
+  "status": "answered",
+  "answer": "A government subsidy occurs when the government pays a firm directly or reduces the firm’s taxes if the firm carries out certain actions. This financial support reduces the cost of production for the firm, which can lead to an increase in supply at every given price, effectively shifting the supply curve to the right. Thus, subsidies are designed to encourage certain activities or support specific sectors within the economy, such as agriculture. [976ba0f4687a17ee]",
+  "citations": [
+   "976ba0f4687a17ee"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "government subsidy definition",
+    "filter": null,
+    "results": [
+     [
+      "976ba0f4687a17ee",
+      69,
+      0.5347949266433716,
+      1
+     ],
+     [
+      "6409402254231c50",
+      80,
+      0.40699946880340576,
+      2
+     ],
+     [
+      "730b296f20b3a81b",
+      98,
+      0.3683037757873535,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "976ba0f4687a17ee",
+     "6409402254231c50"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "976ba0f4687a17ee",
+   "6409402254231c50"
+  ],
+  "context": "[976ba0f4687a17ee] (Economics2e.pdf p.69) A government subsidy, on the other hand, is the opposite of a tax. A subsidy occurs when the government pays a firm directly or reduces the firm’s taxes if the firm carries out certain actions. From the firm’s perspective, taxes or regulations are an additional cost of production that shifts supply to the left, leading the firm to produce a lower quantity at every given price. Government subsidies reduce the cost of production and increase supply at every given price, shifting supply to the right. The following Work It Out feature shows how this shift happens.\n\nShift in Supply\n\nWe know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output. What happens to the supply curve when the cost of production goes up? Following is an example of a shift in supply due to a production cost increase.\n\n[6409402254231c50] (Economics2e.pdf p.80) Economists estimate that the high-income areas of the world, including the United States, Europe, and Japan, spend roughly $1 billion per day in supporting their farmers. If the government is willing to purchase the excess supply (or to provide payments for others to purchase it), then farmers will benefit from the price floor, but taxpayers and consumers of food will pay the costs. Agricultural economists and policy makers have offered numerous proposals for reducing farm subsidies. In many countries, however, political support for subsidies for farmers remains strong. This is either because the population views this as supporting the traditional rural way of life or because of industry's lobbying power of the agro-business.",
+  "latency_s": 3.2874971999845,
+  "prompt_tokens": 1101,
+  "completion_tokens": 132,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00024435,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q08",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why do economists say that hiring workers is a derived demand?",
+  "status": "answered",
+  "answer": "Economists say that hiring workers is a derived demand because the demand for labor is based on the demand for the goods or services that workers produce. For instance, if there is an increase in consumer demand for automobiles, automakers will need to hire more workers to meet that demand. Thus, the demand for labor is contingent upon the demand for the final products, making it a derived demand. Examples include the demand for chefs being dependent on the demand for restaurant meals, and the demand for pharmacists being dependent on the demand for prescription drugs [71c0a86944fbf8fa].",
+  "citations": [
+   "71c0a86944fbf8fa"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "derived demand hiring workers",
+    "filter": null,
+    "results": [
+     [
+      "b68c5bf8d01e9dba",
+      96,
+      0.5511237382888794,
+      1
+     ],
+     [
+      "71c0a86944fbf8fa",
+      96,
+      0.5501969456672668,
+      2
+     ],
+     [
+      "614fc316377e6a5e",
+      97,
+      0.5198994278907776,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "b68c5bf8d01e9dba",
+     "71c0a86944fbf8fa",
+     "614fc316377e6a5e"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "b68c5bf8d01e9dba",
+   "71c0a86944fbf8fa",
+   "614fc316377e6a5e"
+  ],
+  "context": "[b68c5bf8d01e9dba] (Economics2e.pdf p.96) The demand curve for labor shows the quantity of labor employers wish to hire at any given salary or wage rate, under the ceteris paribus assumption. A change in the wage or salary will result in a change in the quantity demanded of labor. If the wage rate increases, employers will want to hire fewer employees. The quantity of labor demanded will decrease, and there will be a movement upward along the demand curve. If the wages and salaries decrease, employers are more likely to hire a greater number of workers. The quantity of labor demanded will increase, resulting in a downward movement along the demand curve.\n\n[71c0a86944fbf8fa] (Economics2e.pdf p.96) Shifts in the demand curve for labor occur for many reasons. One key reason is that the demand for labor is based on the demand for the good or service that is produced. For example, the more new automobiles consumers demand, the greater the number of workers automakers will need to hire. Therefore the demand for labor is called a “derived demand.” Here are some examples of derived demand for labor:\n\n• The demand for chefs is dependent on the demand for restaurant meals.\n\n• The demand for pharmacists is dependent on the demand for prescription drugs.\n\n• The demand for attorneys is dependent on the demand for legal services.\n\n[614fc316377e6a5e] (Economics2e.pdf p.97) A well-trained and educated workforce causes an increase in the demand for that labor by employers. Increased levels of productivity within the workforce will cause the demand for labor to shift to the right. If the workforce is not well-trained or educated, employers will not hire from within that labor pool, since they will need to spend a significant amount of time and money training that workforce. Demand for such will shift to the left.",
+  "latency_s": 3.8002024000161327,
+  "prompt_tokens": 1170,
+  "completion_tokens": 161,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002721,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q09",
+  "split": "dev",
+  "answerable": true,
+  "question": "In the Minneapolis-St. Paul-Bloomington nursing example, what are the equilibrium salary and quantity of nurses?",
+  "status": "answered",
+  "answer": "In the Minneapolis-St. Paul-Bloomington nursing example, the equilibrium salary is $70,000 and the equilibrium quantity of nurses is 34,000. This is where the demand for nurses intersects with the supply of nurses in the labor market. At this point, the quantity demanded equals the quantity supplied, resulting in no surplus or shortage of nurses. [856c6941ac83977e]",
+  "citations": [
+   "856c6941ac83977e"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Minneapolis-St. Paul-Bloomington nursing equilibrium salary quantity",
+    "filter": null,
+    "results": [
+     [
+      "fc76fd80de2baa58",
+      94,
+      0.7721729278564453,
+      1
+     ],
+     [
+      "856c6941ac83977e",
+      95,
+      0.7541696429252625,
+      2
+     ],
+     [
+      "4fcd36d8a32970f5",
+      96,
+      0.7389692664146423,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "fc76fd80de2baa58",
+     "856c6941ac83977e"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "fc76fd80de2baa58",
+   "856c6941ac83977e"
+  ],
+  "context": "[fc76fd80de2baa58] (Economics2e.pdf p.94) In 2015, about 35,000 registered nurses worked in the Minneapolis-St. Paul-Bloomington, Minnesota-Wisconsin metropolitan area, according to the BLS. They worked for a variety of employers: hospitals, doctors’ offices, schools, health clinics, and nursing homes. Figure 4.2 illustrates how demand and supply determine equilibrium in this labor market. The demand and supply schedules in Table 4.1 list the quantity supplied and quantity demanded of nurses at different salaries.\n\n[856c6941ac83977e] (Economics2e.pdf p.95) Figure 4.2 Labor Market Example: Demand and Supply for Nurses in Minneapolis-St. Paul-Bloomington The demand curve (D) of those employers who want to hire nurses intersects with the supply curve (S) of those who are qualified and willing to work as nurses at the equilibrium point (E). The equilibrium salary is $70,000 and the equilibrium quantity is 34,000 nurses. At an above-equilibrium salary of $75,000, quantity supplied increases to 38,000, but the quantity of nurses demanded at the higher pay declines to 33,000. At this above-equilibrium salary, an excess supply or surplus of nurses would exist. At a below-equilibrium salary of $60,000, quantity supplied declines to 27,000, while the quantity demanded at the lower wage increases to 40,000 nurses. At this belowequilibrium salary, excess demand or a shortage exists.\n\nAnnual Salary Quantity Demanded Quantity Supplied\n\n$55,000 45,000 20,000\n\n$60,000 40,000 27,000\n\n$65,000 37,000 31,000\n\n$70,000 34,000 34,000\n\n$75,000 33,000 38,000",
+  "latency_s": 2.5694111000047997,
+  "prompt_tokens": 1205,
+  "completion_tokens": 130,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00025875,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q10",
+  "split": "dev",
+  "answerable": true,
+  "question": "Why are price ceilings rare in labor markets?",
+  "status": "answered",
+  "answer": "Price ceilings are rare in labor markets because rules that prevent people from earning income are not politically popular. This contrasts with goods and services markets, where price ceilings are more common. An exception in labor markets is when boards of trustees or stockholders propose limits on the high incomes of top business executives. Overall, the political unpopularity of restricting income contributes to the rarity of price ceilings in labor markets. [a47641718d93b090]",
+  "citations": [
+   "a47641718d93b090"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "price ceilings in labor markets",
+    "filter": null,
+    "results": [
+     [
+      "a47641718d93b090",
+      100,
+      0.7270166873931885,
+      1
+     ],
+     [
+      "595e13a0a61ee8ea",
+      79,
+      0.5690015554428101,
+      2
+     ],
+     [
+      "a19f513dc02954c7",
+      100,
+      0.5615265965461731,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a47641718d93b090",
+     "595e13a0a61ee8ea",
+     "a19f513dc02954c7"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a47641718d93b090",
+   "595e13a0a61ee8ea",
+   "a19f513dc02954c7"
+  ],
+  "context": "[a47641718d93b090] (Economics2e.pdf p.100) In contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent people from earning income are not politically popular. There is one exception: boards of trustees or stockholders, as an example, propose limits on the high incomes of top business executives.\n\n[595e13a0a61ee8ea] (Economics2e.pdf p.79) Price ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the market price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and thus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling will benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at all. Quality is also likely to deteriorate. Price Floors\n\nA price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known example\n\n[a19f513dc02954c7] (Economics2e.pdf p.100) Table 4.4 shows the differences in supply and demand at different wages.\n\nFigure 4.4 A Living Wage: Example of a Price Floor The original equilibrium in this labor market is a wage of $10/ hour and a quantity of 1,200 workers, shown at point E. Imposing a wage floor at $12/hour leads to an excess supply of labor. At that wage, the quantity of labor supplied is 1,600 and the quantity of labor demanded is only 700.\n\nWage Quantity Labor Demanded Quantity Labor Supplied\n\n$8/hr 1,900 500\n\n$9/hr 1,500 900\n\n$10/hr 1,200 1,200\n\n$11/hr 900 1,400\n\n$12/hr 700 1,600\n\n$13/hr 500 1,800\n\n$14/hr 400 1,900\n\nTable 4.4 Living Wage: Example of a Price Floor\n\nThe Minimum Wage as an Example of a Price Floor",
+  "latency_s": 2.8430934000061825,
+  "prompt_tokens": 1220,
+  "completion_tokens": 132,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002622,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q11",
+  "split": "dev",
+  "answerable": true,
+  "question": "What do usury laws do?",
+  "status": "answered",
+  "answer": "Usury laws impose an upper limit on the interest rate that lenders can charge. This means that lenders cannot legally charge interest rates above a certain threshold, which is intended to protect borrowers from excessively high rates. However, in many cases, these upper limits are set well above the prevailing market interest rates, making them nonbinding unless market rates exceed these ceilings. For example, if the law sets a maximum interest rate of 30% per year, lenders can still charge lower rates based on market conditions, as long as they do not exceed the legal limit. Thus, usury laws aim to regulate lending practices and ensure fair treatment of borrowers in financial markets [1360b6c2de1dd0d9].",
+  "citations": [
+   "1360b6c2de1dd0d9"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "usury laws",
+    "filter": null,
+    "results": [
+     [
+      "1360b6c2de1dd0d9",
+      108,
+      0.6135295033454895,
+      1
+     ],
+     [
+      "9494f9f815bb9475",
+      107,
+      0.36437976360321045,
+      2
+     ],
+     [
+      "70c40bdf7b14423a",
+      107,
+      0.3608814477920532,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "1360b6c2de1dd0d9",
+     "9494f9f815bb9475",
+     "70c40bdf7b14423a"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "1360b6c2de1dd0d9",
+   "9494f9f815bb9475",
+   "70c40bdf7b14423a"
+  ],
+  "context": "[1360b6c2de1dd0d9] (Economics2e.pdf p.108) Many states do have usury laws, which impose an upper limit on the interest rate that lenders can charge. However, in many cases these upper limits are well above the market interest rate. For example, if the interest rate is not allowed to rise above 30% per year, it can still fluctuate below that level according to market forces. A price ceiling that is set at a relatively high level is nonbinding, and it will have no practical effect unless the equilibrium price soars high enough to exceed the price ceiling.\n\n[9494f9f815bb9475] (Economics2e.pdf p.107) The economy has experienced an enormous inflow of foreign capital. According to the U.S. Bureau of Economic Analysis, by the third quarter of 2015, U.S. investors had accumulated $23.3 trillion of foreign assets, but foreign investors owned a total of $30.6 trillion of U.S. assets. If foreign investors were to pull their money out of the U.S. economy and invest elsewhere in the world, the result could be a significantly lower quantity of financial investment in the United States, available only at a higher interest rate. This reduced inflow of foreign financial investment could impose hardship on U.S. consumers and firms interested in borrowing.\n\nIn a modern, developed economy, financial capital often moves invisibly through electronic transfers between one bank account and another. Yet we can analyze these flows of funds with the same tools of demand and supply as markets for goods or labor. Price Ceilings in Financial Markets: Usury Laws\n\n[70c40bdf7b14423a] (Economics2e.pdf p.107) As we noted earlier, about 200 million Americans own credit cards, and their interest payments and fees total tens of billions of dollars each year. It is little wonder that political pressures sometimes arise for setting limits on the interest rates or fees that credit card companies charge. The firms that issue credit cards, including banks, oil companies, phone companies, and retail stores, respond that the higher interest rates are necessary to cover the losses created by those who borrow on their credit cards and who do not repay on time or at all. These companies also point out that cardholders can avoid paying interest if they pay their bills on time.",
+  "latency_s": 3.114732099988032,
+  "prompt_tokens": 1254,
+  "completion_tokens": 188,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0003009,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q12",
+  "split": "dev",
+  "answerable": true,
+  "question": "How is the price elasticity of demand calculated?",
+  "status": "answered",
+  "answer": "The price elasticity of demand is calculated as the percentage change in quantity demanded divided by the percentage change in price. The formula is: \n\n\\[ \\text{Price Elasticity of Demand} = \\frac{\\text{% change in quantity}}{\\text{% change in price}} \\]\n\nFor example, if the price decreases from $70 to $60 and the quantity demanded increases from 2,800 to 3,000, the calculations would be:\n\n1. % change in quantity = \\( \\frac{3,000 - 2,800}{(3,000 + 2,800)/2} \\times 100 = 6.9\\% \\)\n2. % change in price = \\( \\frac{60 - 70}{(60 + 70)/2} \\times 100 = -15.4\\% \\)\n\nThus, the price elasticity of demand would be \\( 6.9\\% / -15.4\\% = 0.45 \\), indicating that a 1% change in price results in a 0.45% change in quantity demanded, which is less than one, showing inelastic demand. This means that a 10% increase in price would lead to only a 4.5% decrease in quantity demanded, and vice versa. Price elasticities are typically expressed as absolute values, even though they are negative due to the downward sloping demand curve. [4e300708fc49eef7][da52673117baefe7]",
+  "citations": [
+   "4e300708fc49eef7",
+   "da52673117baefe7"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "price elasticity of demand calculation",
+    "filter": null,
+    "results": [
+     [
+      "4e300708fc49eef7",
+      120,
+      0.7054176330566406,
+      1
+     ],
+     [
+      "da52673117baefe7",
+      120,
+      0.648001492023468,
+      2
+     ],
+     [
+      "9a6a687ad9494d61",
+      121,
+      0.6203936338424683,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "4e300708fc49eef7",
+     "da52673117baefe7"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4e300708fc49eef7",
+   "da52673117baefe7"
+  ],
+  "context": "[4e300708fc49eef7] (Economics2e.pdf p.120) Figure 5.2 Calculating the Price Elasticity of Demand We calculate the price elasticity of demand as the percentage change in quantity divided by the percentage change in price.\n\nFirst, apply the formula to calculate the elasticity as price decreases from $70 at point B to $60 at point A:\n\n% change in quantity = 3,000 – 2,800 (3,000 + 2,800)/2 × 100\n\n= 200 2,900 × 100\n\n= 6.9\n\n% change in price = 60 – 70 (60 + 70)/2 × 100\n\n= –10\n\n65 × 100\n\n= –15.4\n\nPrice Elasticity of Demand = 6.9% –15.4% = 0.45\n\nTherefore, the elasticity of demand between these two points is 6.9%\n\n–15.4% which is 0.45, an amount smaller than one,\n\n[da52673117baefe7] (Economics2e.pdf p.120) This means that, along the demand curve between point B and A, if the price changes by 1%, the quantity demanded will change by 0.45%. A change in the price will result in a smaller percentage change in the quantity demanded. For example, a 10% increase in the price will result in only a 4.5% decrease in quantity demanded. A 10% decrease in the price will result in only a 4.5% increase in the quantity demanded. Price elasticities of demand are negative numbers indicating that the demand curve is downward sloping, but we read them as absolute values. The following Work It Out feature will walk you through calculating the price elasticity of demand.\n\nFinding the Price Elasticity of Demand\n\nCalculate the price elasticity of demand using the data in Figure 5.2 for an increase in price from G to H. Has the elasticity increased or decreased?\n\nStep 1. We know that:\n\nPrice Elasticity of Demand = % change in quantity\n\n% change in price\n\nStep 2. From the Midpoint Formula we know that:",
+  "latency_s": 6.064378500013845,
+  "prompt_tokens": 1228,
+  "completion_tokens": 371,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00040679999999999997,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q13",
+  "split": "dev",
+  "answerable": true,
+  "question": "What term describes how the burden of a tax is split between buyers and sellers?",
+  "status": "answered",
+  "answer": "The term that describes how the burden of a tax is split between buyers and sellers is known as \"tax incidence.\" Tax incidence refers to the distribution of the tax burden between consumers and producers, which can vary depending on the elasticity of supply and demand. For example, if demand is more elastic than supply, the tax burden may fall more heavily on sellers, while the opposite is true if supply is more elastic than demand. This is illustrated in the context of tax revenue and price differences before and after tax implementation. [a354ba23a530b241]",
+  "citations": [
+   "a354ba23a530b241"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "burden of a tax split between buyers and sellers",
+    "filter": null,
+    "results": [
+     [
+      "a354ba23a530b241",
+      131,
+      0.564080536365509,
+      1
+     ],
+     [
+      "88855035bee8e186",
+      131,
+      0.5084825158119202,
+      2
+     ],
+     [
+      "0bb3688945997985",
+      130,
+      0.4987674951553345,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a354ba23a530b241",
+     "88855035bee8e186"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a354ba23a530b241",
+   "88855035bee8e186"
+  ],
+  "context": "[a354ba23a530b241] (Economics2e.pdf p.131) The tax revenue is given by the shaded area, which we obtain by multiplying the tax per unit by the total quantity sold Qt. The tax incidence on the consumers is given by the difference between the price paid Pc and the initial equilibrium price Pe. The tax incidence on the sellers is given by the difference between the initial equilibrium price Pe and the price they receive after the tax is introduced Pp. In Figure 5.10 (a), the tax burden falls disproportionately on the sellers, and a larger proportion of the tax revenue (the shaded area) is due to the resulting lower price received by the sellers than by the resulting higher prices paid by the buyers. Figure 5.10 (b) describes the example of the tobacco excise tax where the supply is more elastic than demand. The tax incidence now falls disproportionately on consumers, as shown by the large difference between the price they pay, Pc, and the initial equilibrium price, Pe.\n\n[88855035bee8e186] (Economics2e.pdf p.131) In Figure 5.10 (a), the supply is inelastic and the demand is elastic, such as in the example of beachfront hotels. While consumers may have other vacation choices, sellers can’t easily move their businesses. By introducing a tax, the government essentially creates a wedge between the price paid by consumers Pc and the price received by producers Pp. In other words, of the total price paid by consumers, part is retained by the sellers and part is paid to the government in the form of a tax. The distance between Pc and Pp is the tax rate. The new market price is Pc, but sellers receive only Pp per unit sold, as they pay Pc-Pp to the government. Since we can view a tax as raising the costs of production, this could also be represented by a leftward shift of the supply curve, where the new supply curve would intercept the demand at the new quantity Qt. For simplicity, Figure 5.10 omits the shift in the supply curve.",
+  "latency_s": 3.32668639998883,
+  "prompt_tokens": 1221,
+  "completion_tokens": 159,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00027855,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q14",
+  "split": "dev",
+  "answerable": true,
+  "question": "What plays the role of the price in this market?",
+  "status": "answered",
+  "answer": "In a market, prices serve as a remarkable social mechanism for collecting, combining, and transmitting information relevant to the market, specifically the relationship between demand and supply. They act as messengers that convey this information to buyers and sellers, allowing individual consumers and producers to react according to their preferences and budget constraints. This interaction helps markets reach equilibrium and links different markets together, illustrating why price controls can be counterproductive. [fa296aa01e369ce3][35f430f4d6692d65]",
+  "citations": [
+   "fa296aa01e369ce3",
+   "35f430f4d6692d65"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "role of price in market",
+    "filter": null,
+    "results": [
+     [
+      "fa296aa01e369ce3",
+      110,
+      0.6102871298789978,
+      1
+     ],
+     [
+      "35f430f4d6692d65",
+      108,
+      0.5870172381401062,
+      2
+     ],
+     [
+      "2c4827c878995589",
+      78,
+      0.5281635522842407,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "fa296aa01e369ce3",
+     "35f430f4d6692d65"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "fa296aa01e369ce3",
+   "35f430f4d6692d65"
+  ],
+  "context": "[fa296aa01e369ce3] (Economics2e.pdf p.110) The actions of individual consumers and producers as they react to prices overlap and interlock in markets for goods, labor, and financial capital. A change in any single market is transmitted through these multiple interconnections to other markets. The vision of the role of flexible prices helping markets to reach equilibrium and linking different markets together helps to explain why price controls can be so counterproductive. Price controls are government laws that serve to regulate prices rather than allow the various markets to determine prices. There is an old proverb: “Don’t kill the messenger.” In ancient times, messengers carried information between distant cities and kingdoms. When they brought bad news, there was an emotional impulse to kill the messenger. However, killing the messenger did not kill the bad news.\n\n[35f430f4d6692d65] (Economics2e.pdf p.108) Prices exist in markets for goods and services, for labor, and for financial capital. In all of these markets, prices serve as a remarkable social mechanism for collecting, combining, and transmitting information that is relevant to the market—namely, the relationship between demand and supply—and then serving as messengers to convey that information to buyers and sellers. In a market-oriented economy, no government agency or guiding intelligence oversees the set of responses and interconnections that result from a change in price. Instead, each consumer reacts according to that person’s preferences and budget set, and each profit-seeking producer reacts to the impact on its expected profits. The following Clear It Up feature examines the demand and supply models.\n\nWhy are demand and supply curves important?",
+  "latency_s": 2.9460242000059225,
+  "prompt_tokens": 1115,
+  "completion_tokens": 156,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00026085,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q15",
+  "split": "dev",
+  "answerable": true,
+  "question": "Give an example of a price ceiling.",
+  "status": "answered",
+  "answer": "An example of a price ceiling is the proposed limits on the price of bottled water during Hurricane Katrina in 2005, where the price increased above $5 per gallon. Although the government did not impose a price ceiling in this case, it illustrates the concept of price ceilings aimed at keeping necessary goods affordable. Another example is limits on the high incomes of top business executives proposed by boards of trustees or stockholders, which is a rare instance of price ceilings in labor markets. [d60d32cb8b8d5be7] [a47641718d93b090]",
+  "citations": [
+   "d60d32cb8b8d5be7",
+   "a47641718d93b090"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "example of a price ceiling",
+    "filter": null,
+    "results": [
+     [
+      "a47641718d93b090",
+      100,
+      0.6155331134796143,
+      1
+     ],
+     [
+      "595e13a0a61ee8ea",
+      79,
+      0.612256646156311,
+      2
+     ],
+     [
+      "d60d32cb8b8d5be7",
+      78,
+      0.5868123769760132,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a47641718d93b090",
+     "595e13a0a61ee8ea",
+     "d60d32cb8b8d5be7"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a47641718d93b090",
+   "595e13a0a61ee8ea",
+   "d60d32cb8b8d5be7"
+  ],
+  "context": "[a47641718d93b090] (Economics2e.pdf p.100) In contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent people from earning income are not politically popular. There is one exception: boards of trustees or stockholders, as an example, propose limits on the high incomes of top business executives.\n\n[595e13a0a61ee8ea] (Economics2e.pdf p.79) Price ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the market price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and thus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling will benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at all. Quality is also likely to deteriorate. Price Floors\n\nA price floor is the lowest price that one can legally pay for some good or service. Perhaps the best-known example\n\n[d60d32cb8b8d5be7] (Economics2e.pdf p.78) Laws that government enact to regulate prices are called price controls. Price controls come in two flavors. A price ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price from falling below a given level (the “floor”). This section uses the demand and supply framework to analyze price ceilings. The next section discusses price floors.\n\nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price ceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during Hurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for price controls on bottled water to prevent the price from rising so high. In this particular case, the government did not impose a price ceiling, but there are other examples of where price ceilings did occur.",
+  "latency_s": 3.2473182000103407,
+  "prompt_tokens": 1195,
+  "completion_tokens": 173,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00028305,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "t16",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is the cross-price elasticity of demand?",
+  "status": "answered",
+  "answer": "The cross-price elasticity of demand is defined as the percentage change in the quantity demanded of one good (good A) resulting from a percentage change in the price of another good (good B). It indicates how the demand for one good is affected by the price change of another good. If the goods are substitutes, the cross-price elasticity will be positive, meaning that an increase in the price of good B leads to an increase in the quantity demanded of good A. Conversely, if the goods are complements, the cross-price elasticity will be negative, indicating that an increase in the price of good B results in a decrease in the quantity demanded of good A. The formula for cross-price elasticity of demand is: Cross-price elasticity of demand = % change in Qd of good A / % change in price of good B. [823f5692b59e9e8d][582482f9f2ad9659]",
+  "citations": [
+   "823f5692b59e9e8d",
+   "582482f9f2ad9659"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "cross-price elasticity of demand",
+    "filter": null,
+    "results": [
+     [
+      "823f5692b59e9e8d",
+      133,
+      0.6746825575828552,
+      1
+     ],
+     [
+      "582482f9f2ad9659",
+      133,
+      0.6463152170181274,
+      2
+     ],
+     [
+      "4e300708fc49eef7",
+      120,
+      0.5828286409378052,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "823f5692b59e9e8d",
+     "582482f9f2ad9659"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "823f5692b59e9e8d",
+   "582482f9f2ad9659"
+  ],
+  "context": "[823f5692b59e9e8d] (Economics2e.pdf p.133) A change in the price of one good can shift the quantity demanded for another good. If the two goods are complements, like bread and peanut butter, then a drop in the price of one good will lead to an increase in the quantity demanded of the other good. However, if the two goods are substitutes, like plane tickets and train tickets, then a drop in the price of one good will cause people to substitute toward that good, and to reduce consumption of the other good. Cheaper plane tickets lead to fewer train tickets, and vice versa.\n\nThe cross-price elasticity of demand puts some meat on the bones of these ideas. The term “cross-price” refers to the idea that the price of one good is affecting the quantity demanded of a different good. Specifically, the cross-price elasticity of demand is the percentage change in the quantity of good A that is demanded as a result of a percentage change in the price of good B.\n\n[582482f9f2ad9659] (Economics2e.pdf p.133) Cross-price elasticity of demand = % change in Qd of good A % change in price of good B\n\nSubstitute goods have positive cross-price elasticities of demand: if good A is a substitute for good B, like coffee and tea, then a higher price for B will mean a greater quantity consumed of A. Complement goods have negative crossprice elasticities: if good A is a complement for good B, like coffee and sugar, then a higher price for B will mean a\n\nlower quantity consumed of A.\n\nElasticity in Labor and Financial Capital Markets\n\nThe concept of elasticity applies to any market, not just markets for goods and services. In the labor market, for example, the wage elasticity of labor supply—that is, the percentage change in hours worked divided by the percentage change in wages—will reflect the shape of the labor supply curve. Specifically:\n\nElasticity of labor supply = % change in quantity of labor supplied\n\n% change in wage",
+  "latency_s": 4.435308599990094,
+  "prompt_tokens": 1194,
+  "completion_tokens": 241,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0003237,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t17",
+  "split": "dev",
+  "answerable": true,
+  "question": "According to typical studies, how much does a 10% rise in the minimum wage reduce hiring of unskilled workers?",
+  "status": "answered",
+  "answer": "According to typical studies, a 10% increase in the minimum wage would decrease the hiring of unskilled workers by 1 to 2% [296fa6a889358624].",
+  "citations": [
+   "296fa6a889358624"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "10% rise in minimum wage reduce hiring of unskilled workers",
+    "filter": null,
+    "results": [
+     [
+      "9fb40d3f1244390e",
+      102,
+      0.6948251128196716,
+      1
+     ],
+     [
+      "296fa6a889358624",
+      101,
+      0.6169895529747009,
+      2
+     ],
+     [
+      "1bb902ea784d7f9e",
+      102,
+      0.587505578994751,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "9fb40d3f1244390e",
+     "296fa6a889358624",
+     "1bb902ea784d7f9e"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "9fb40d3f1244390e",
+   "296fa6a889358624",
+   "1bb902ea784d7f9e"
+  ],
+  "context": "[9fb40d3f1244390e] (Economics2e.pdf p.102) Because of the law of demand, a higher required wage will reduce the amount of low-skill employment either in terms of employees or in terms of work hours. Although there is controversy over the numbers, let’s say for the sake of the argument that a 10% rise in the minimum wage will reduce the employment of low-skill workers by 2%. Does this outcome mean that raising the minimum wage by 10% is bad public policy? Not necessarily.\n\n[296fa6a889358624] (Economics2e.pdf p.101) Economists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-skill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the hiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have even found no effect of a higher minimum wage on employment at certain times and places—although these studies are controversial.\n\nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate according to market forces above this price floor, but they would not be allowed to move beneath the floor. In this situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the market outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity of\n\n[1bb902ea784d7f9e] (Economics2e.pdf p.102) These insights help to explain why U.S. minimum wage laws have historically had only a small impact on employment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor and sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the minimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have considered—then its impact on reducing the quantity demanded of employment would be far greater. As of 2017, many U.S. states are set to increase their minimum wage to $15 per hour. We will see what happens. The following Clear It Up feature describes in greater detail some of the arguments for and against changes to minimum wage.\n\nWhat’s the harm in raising the minimum wage?",
+  "latency_s": 2.1270143000001553,
+  "prompt_tokens": 1313,
+  "completion_tokens": 88,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00024975,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t18",
+  "split": "dev",
+  "answerable": true,
+  "question": "Describe a law that caps a price below its market equilibrium.",
+  "status": "answered",
+  "answer": "A law that caps a price below its market equilibrium is known as a price ceiling. For example, if the equilibrium price of a new drug is $600, a government might impose a price ceiling of $400 to make the drug more affordable. This results in a decrease in the quantity supplied, as firms may only produce 15,000 units instead of the 20,000 units that would be supplied at the equilibrium price. Consequently, consumer surplus and producer surplus are affected, with consumer surplus increasing but producer surplus decreasing due to the lower price and reduced quantity supplied. This scenario illustrates the impact of a price ceiling on market dynamics and resource allocation. [4ef1944a6469ff1f] [cb4fb92d2518b84e]",
+  "citations": [
+   "4ef1944a6469ff1f",
+   "cb4fb92d2518b84e"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "law caps price below market equilibrium",
+    "filter": null,
+    "results": [
+     [
+      "4ef1944a6469ff1f",
+      83,
+      0.4705466628074646,
+      1
+     ],
+     [
+      "a47641718d93b090",
+      100,
+      0.46743690967559814,
+      2
+     ],
+     [
+      "cb4fb92d2518b84e",
+      82,
+      0.45286786556243896,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "4ef1944a6469ff1f",
+     "a47641718d93b090",
+     "cb4fb92d2518b84e"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4ef1944a6469ff1f",
+   "a47641718d93b090",
+   "cb4fb92d2518b84e"
+  ],
+  "context": "[4ef1944a6469ff1f] (Economics2e.pdf p.83) Figure 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of 20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in the market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the new producer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and producer surplus is I + K. A price floor is imposed at $12, which means that quantity demanded falls to 1,400. As a result, the new consumer surplus is G, and the new producer surplus is H + I.\n\n[a47641718d93b090] (Economics2e.pdf p.100) In contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent people from earning income are not politically popular. There is one exception: boards of trustees or stockholders, as an example, propose limits on the high incomes of top business executives.\n\n[cb4fb92d2518b84e] (Economics2e.pdf p.82) Imagine that several firms develop a promising but expensive new drug for treating back pain. If this therapy is left to the market, the equilibrium price will be $600 per month and 20,000 people will use the drug, as shown in Figure 3.24 (a). The original level of consumer surplus is T + U and producer surplus is V + W + X. However, the government decides to impose a price ceiling of $400 to make the drug more affordable. At this price ceiling, firms in the market now produce only 15,000.",
+  "latency_s": 3.9699488000187557,
+  "prompt_tokens": 1183,
+  "completion_tokens": 210,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00030345,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "t19",
+  "split": "dev",
+  "answerable": true,
+  "question": "What kind of good do people buy more of as their income goes up?",
+  "status": "answered",
+  "answer": "As income increases, people tend to buy more normal goods, which include luxury items such as luxury cars, vacations in Europe, and fine jewelry. This is because the demand for these goods rises with an increase in income. Conversely, some goods, known as inferior goods, see a decrease in demand as income rises; for example, people may buy fewer generic brand groceries and more name brand groceries, or fewer used cars and more new cars. Thus, normal goods are those whose demand increases with rising income, while inferior goods are those whose demand decreases as income increases. [95d7395a87eb0b91][5ee0f0069452f647][95f36064b01409e2]",
+  "citations": [
+   "95d7395a87eb0b91",
+   "5ee0f0069452f647",
+   "95f36064b01409e2"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "goods purchased more as income increases",
+    "filter": null,
+    "results": [
+     [
+      "95d7395a87eb0b91",
+      64,
+      0.6201964616775513,
+      1
+     ],
+     [
+      "5ee0f0069452f647",
+      133,
+      0.5663477182388306,
+      2
+     ],
+     [
+      "95f36064b01409e2",
+      133,
+      0.49250710010528564,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "95d7395a87eb0b91",
+     "5ee0f0069452f647",
+     "95f36064b01409e2"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "95d7395a87eb0b91",
+   "5ee0f0069452f647",
+   "95f36064b01409e2"
+  ],
+  "context": "[95d7395a87eb0b91] (Economics2e.pdf p.64) In the previous section, we argued that higher income causes greater demand at every price. This is true for most goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in income can be especially pronounced. A product whose demand rises when income rises, and vice versa, is called a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer generic brand groceries and more name brand groceries. They are less likely to buy used cars and more likely to buy new cars. They will be less likely to rent an apartment and more likely to own a home. A product whose demand falls when income rises, and vice versa, is called an inferior good. In other words, when income increases, the demand curve shifts to the left.\n\nOther Factors That Shift Demand Curves\n\n[5ee0f0069452f647] (Economics2e.pdf p.133) For most products, most of the time, the income elasticity of demand is positive: that is, a rise in income will cause an increase in the quantity demanded. This pattern is common enough that we refer to these goods as normal goods. However, for a few goods, an increase in income means that one might purchase less of the good. For example, those with a higher income might buy fewer hamburgers, because they are buying more steak instead, or those with a higher income might buy less cheap wine and more imported beer. When the income elasticity of demand is negative, we call the good an inferior good.\n\n[95f36064b01409e2] (Economics2e.pdf p.133) We introduced the concepts of normal and inferior goods in Demand and Supply. A higher level of income causes a demand curve to shift to the right for a normal good, which means that the income elasticity of demand is positive. How far the demand shifts depends on the income elasticity of demand. A higher income elasticity means a larger shift. However, for an inferior good, that is, when the income elasticity of demand is negative, a higher level of income would cause the demand curve for that good to shift to the left. Again, how much it shifts depends on how large the (negative) income elasticity is. Cross-Price Elasticity of Demand",
+  "latency_s": 3.6738690999918617,
+  "prompt_tokens": 1276,
+  "completion_tokens": 210,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00031739999999999996,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t20",
+  "split": "dev",
+  "answerable": true,
+  "question": "How much did Netflix raise its streaming subscription price for new U.S. customers in 2014?",
+  "status": "answered",
+  "answer": "In 2014, Netflix raised its streaming video subscription price for new U.S. customers from $7.99 to $8.99 per month, which is an increase of $1.00 per month [8edf561f44839cc4].",
+  "citations": [
+   "8edf561f44839cc4"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Netflix streaming subscription price increase 2014 new U.S. customers",
+    "filter": null,
+    "results": [
+     [
+      "4f9c26e2102b55dc",
+      135,
+      0.6725342869758606,
+      1
+     ],
+     [
+      "8edf561f44839cc4",
+      117,
+      0.6427735090255737,
+      2
+     ],
+     [
+      "d96563564869eb5b",
+      117,
+      0.6297576427459717,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "4f9c26e2102b55dc",
+     "8edf561f44839cc4"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "8edf561f44839cc4"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "4f9c26e2102b55dc",
+   "8edf561f44839cc4"
+  ],
+  "context": "[4f9c26e2102b55dc] (Economics2e.pdf p.135) Before the price increase, there were about 24.6 million U.S. subscribers. After the price increase, 810,000 infuriated U.S. consumers canceled their Netflix subscriptions, dropping the total number of subscribers to 23.79 million. Fast forward to June 2013, when there were 36 million streaming Netflix subscribers in the United States. This was an increase of 11.4 million subscribers since the price increase—an average per quarter growth of about 1.6 million. This growth is less than the 2 million per quarter increases Netflix experienced in the fourth quarter of 2010 and the first quarter of 2011.\n\nDuring the first year after the price increase, the firm’s stock price (a measure of future expectations for the firm) fell from about $33.60 per share per share to just under $7.80. By the end of 2016, however, the stock price was at $123 per share. Today, Netflix has more than 86 million subscribers million subscribers in fifty countries.\n\n[8edf561f44839cc4] (Economics2e.pdf p.117) In early 2011, Netflix consumers paid about $10 a month for a package consisting of streaming video and DVD rentals. In July 2011, the company announced a packaging change. Customers wishing to retain both streaming video and DVD rental would be charged $15.98 per month, a price increase of about 60%. In 2014, Netflix also raised its streaming video subscription price from $7.99 to $8.99 per month for new U.S. customers. The company also changed its policy of 4K streaming content from $9.00 to $12.00 per month that year.\n\nHow would customers of the 18-year-old firm react? Would they abandon Netflix? Would the ease of access to other venues make a difference in how consumers responded to the Netflix price change? We will explore the answers to those questions in this chapter, which focuses on the change in quantity with respect to a change in price, a concept economists call elasticity.\n\nIntroduction to Elasticity\n\nIn this chapter, you will learn about:",
+  "latency_s": 3.8473946999874897,
+  "prompt_tokens": 2266,
+  "completion_tokens": 169,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00044129999999999994,
+  "verify_tokens": {},
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q21",
+  "split": "dev",
+  "answerable": true,
+  "question": "Độ co giãn của cung theo giá được tính như thế nào?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide specific information on how to calculate the price elasticity of supply.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "Độ co giãn của cung theo giá",
+    "filter": null,
+    "results": [
+     [
+      "8b894f6571d5f9e2",
+      69,
+      0.24890244007110596,
+      1
+     ],
+     [
+      "57b4761feb5ba168",
+      118,
+      0.24035930633544922,
+      2
+     ],
+     [
+      "9a6a687ad9494d61",
+      121,
+      0.23707520961761475,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "8b894f6571d5f9e2",
+     "57b4761feb5ba168",
+     "9a6a687ad9494d61"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "8b894f6571d5f9e2",
+   "57b4761feb5ba168",
+   "9a6a687ad9494d61"
+  ],
+  "context": "[8b894f6571d5f9e2] (Economics2e.pdf p.69) Step 2. Why did the firm choose that price and not some other? One way to think about this is that the price is composed of two parts. The first part is the cost of producing pizzas at the margin; in this case, the cost of producing the pizza, including cost of ingredients (e.g., dough, sauce, cheese, and pepperoni), the cost of the pizza oven, the shop rent, and the workers' wages. The second part is the firm’s desired profit, which is determined, among other factors, by the profit margins in that particular business. If you add these two parts together, you get the price the firm wishes to charge. The quantity Q0 and associated price P0 give you one point on the firm’s supply curve, as Figure 3.12 illustrates.\n\nFigure 3.12 Setting Prices The cost of production and the desired profit equal the price a firm will set for a product.\n\n[57b4761feb5ba168] (Economics2e.pdf p.118) Conversely, when a firm puts its products on sale, it must expect (or hope) that the lower price will lead to a significantly higher quantity demanded.\n\n[9a6a687ad9494d61] (Economics2e.pdf p.121) % change in quantity = Q2 – Q1 ⎛ ⎝Q2 + Q1)/2 × 100\n\n% change in price = P2 – P1 ⎛ ⎝P2 + P1)/2 × 100\n\nStep 3. So we can use the values provided in the figure in each equation:\n\n% change in quantity = 1,600 – 1,800\n\n⎛ ⎝1,600 + 1,800)/2 × 100\n\n= –200 1,700 × 100\n\n= –11.76\n\n% change in price = 130 – 120 (130 + 120)/2 × 100\n\n= 10 125 × 100\n\n= 8.0\n\nStep 4. Then, we can use those values to determine the price elasticity of demand:\n\nPrice Elasticity of Demand = % change in quantity\n\n% change in price\n\n= –11.76\n\n8 = 1.47\n\nTherefore, the elasticity of demand from G to is H 1.47. The magnitude of the elasticity has increased (in absolute value) as we moved up along the demand curve from points A to B. Recall that the elasticity between these two points was 0.45. Demand was inelastic between points A and B and elastic between points G and H. This shows us that price elasticity of demand changes at different points along a straight-line demand curve.\n\nCalculating the Price Elasticity of Supply",
+  "latency_s": 1.771155499998713,
+  "prompt_tokens": 1383,
+  "completion_tokens": 52,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00023864999999999997,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q22",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is producer surplus?",
+  "status": "answered",
+  "answer": "Producer surplus is the area that represents the difference between the equilibrium price received in the market and the minimum price that producers are willing to accept for their products. It indicates that the equilibrium price is higher than what many producers would have been willing to accept. For example, at a price of $45, firms would have been willing to supply a quantity of 14 million, but the market price is higher, resulting in producer surplus. This area is labeled as G in the context of consumer and producer surplus analysis. [86dcbdc67ba5375c]",
+  "citations": [
+   "86dcbdc67ba5375c"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "producer surplus",
+    "filter": null,
+    "results": [
+     [
+      "86dcbdc67ba5375c",
+      81,
+      0.5952972769737244,
+      1
+     ],
+     [
+      "9f5d1e3977a93571",
+      82,
+      0.565010666847229,
+      2
+     ],
+     [
+      "928e7aa33c060226",
+      82,
+      0.5535914897918701,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "86dcbdc67ba5375c",
+     "9f5d1e3977a93571"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "86dcbdc67ba5375c",
+   "9f5d1e3977a93571"
+  ],
+  "context": "[86dcbdc67ba5375c] (Economics2e.pdf p.81) Figure 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of consumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers were willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been willing to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer surplus, which shows that the equilibrium price received in the market was more than what many of the producers were willing to accept for their products. For example, point K on the supply curve shows that at a price of $45, firms would have been willing to supply a quantity of 14 million.\n\nThe supply curve shows the quantity that firms are willing to supply at each price. For example, point K in Figure\n\n[9f5d1e3977a93571] (Economics2e.pdf p.82) The sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or total surplus. In Figure 3.23 we show social surplus as the area F + G. Social surplus is larger at equilibrium quantity and price than it would be at any other quantity. This demonstrates the economic efficiency of the market equilibrium. In addition, at the efficient level of output, it is impossible to produce greater consumer surplus without reducing producer surplus, and it is impossible to produce greater producer surplus without reducing consumer surplus. Inefficiency of Price Floors and Price Ceilings\n\nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price and quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with creating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some producer surplus to consumers.",
+  "latency_s": 3.1698040000046603,
+  "prompt_tokens": 1161,
+  "completion_tokens": 153,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00026595,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "t23",
+  "split": "dev",
+  "answerable": true,
+  "question": "In the nurse labor market example, how many nurses are supplied and demanded at a salary of $75,000?",
+  "status": "answered",
+  "answer": "At a salary of $75,000, the quantity of nurses supplied is 38,000, while the quantity demanded is 33,000. This results in an excess supply or surplus of nurses in the market at that salary level. [856c6941ac83977e]",
+  "citations": [
+   "856c6941ac83977e"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "nurse labor market salary 75000 supply demand",
+    "filter": null,
+    "results": [
+     [
+      "856c6941ac83977e",
+      95,
+      0.6600812077522278,
+      1
+     ],
+     [
+      "4fcd36d8a32970f5",
+      96,
+      0.6347570419311523,
+      2
+     ],
+     [
+      "4920324692d7ee19",
+      95,
+      0.6202133893966675,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "856c6941ac83977e",
+     "4fcd36d8a32970f5"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "856c6941ac83977e",
+   "4fcd36d8a32970f5"
+  ],
+  "context": "[856c6941ac83977e] (Economics2e.pdf p.95) Figure 4.2 Labor Market Example: Demand and Supply for Nurses in Minneapolis-St. Paul-Bloomington The demand curve (D) of those employers who want to hire nurses intersects with the supply curve (S) of those who are qualified and willing to work as nurses at the equilibrium point (E). The equilibrium salary is $70,000 and the equilibrium quantity is 34,000 nurses. At an above-equilibrium salary of $75,000, quantity supplied increases to 38,000, but the quantity of nurses demanded at the higher pay declines to 33,000. At this above-equilibrium salary, an excess supply or surplus of nurses would exist. At a below-equilibrium salary of $60,000, quantity supplied declines to 27,000, while the quantity demanded at the lower wage increases to 40,000 nurses. At this belowequilibrium salary, excess demand or a shortage exists.\n\nAnnual Salary Quantity Demanded Quantity Supplied\n\n$55,000 45,000 20,000\n\n$60,000 40,000 27,000\n\n$65,000 37,000 31,000\n\n$70,000 34,000 34,000\n\n$75,000 33,000 38,000\n\n[4fcd36d8a32970f5] (Economics2e.pdf p.96) At equilibrium, the quantity supplied and the quantity demanded are equal. Thus, every employer who wants to hire a nurse at this equilibrium wage can find a willing worker, and every nurse who wants to work at this equilibrium salary can find a job. In Figure 4.2, the supply curve (S) and demand curve (D) intersect at the equilibrium point (E). The equilibrium quantity of nurses in the Minneapolis-St. Paul-Bloomington area is 34,000, and the equilibrium salary is $70,000 per year. This example simplifies the nursing market by focusing on the “average” nurse. In reality, of course, the market for nurses actually comprises many smaller markets, like markets for nurses with varying degrees of experience and credentials. Many markets contain closely related products that differ in quality. For instance, even a simple product like gasoline comes in regular, premium, and super-premium, each with a different price.",
+  "latency_s": 2.6000441999931354,
+  "prompt_tokens": 1298,
+  "completion_tokens": 105,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002577,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q24",
+  "split": "dev",
+  "answerable": true,
+  "question": "What are the equilibrium interest rate and quantity in the credit card borrowing example?",
+  "status": "answered",
+  "answer": "The equilibrium interest rate in the credit card borrowing example is 15%, and the equilibrium quantity of financial capital loaned and borrowed is $600 billion. This is where the demand for borrowing financial capital intersects with the supply of lending financial capital at equilibrium E. At this point, the quantity demanded equals the quantity supplied, which is $600 billion at the interest rate of 15%. [ffee14518708f7bb]",
+  "citations": [
+   "ffee14518708f7bb"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "equilibrium interest rate and quantity in the credit card borrowing example",
+    "filter": null,
+    "results": [
+     [
+      "ffee14518708f7bb",
+      104,
+      0.7139055728912354,
+      1
+     ],
+     [
+      "07eef6b9b4aa4062",
+      105,
+      0.7082293629646301,
+      2
+     ],
+     [
+      "317e98b7925d3c73",
+      104,
+      0.68238765001297,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "ffee14518708f7bb",
+     "07eef6b9b4aa4062"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "ffee14518708f7bb",
+   "07eef6b9b4aa4062"
+  ],
+  "context": "[ffee14518708f7bb] (Economics2e.pdf p.104) Figure 4.5 Demand and Supply for Borrowing Money with Credit Cards In this market for credit card borrowing, the demand curve (D) for borrowing financial capital intersects the supply curve (S) for lending financial capital at equilibrium E. At the equilibrium, the interest rate (the “price” in this market) is 15% and the quantity of financial capital loaned and borrowed is $600 billion. The equilibrium price is where the quantity demanded and the quantity supplied are equal. At an above-equilibrium interest rate like 21%, the quantity of financial capital supplied would increase to $750 billion, but the quantity demanded would decrease to $480 billion. At a below-equilibrium interest rate like 13%, the quantity of financial capital demanded would increase to $700 billion, but the quantity of financial capital supplied would decrease to $510 billion.\n\nInterest Rate (%)\n\nQuantity of Financial Capital Demanded\n\n(Borrowing) ($ billions)\n\nQuantity of Financial Capital Supplied\n\n[07eef6b9b4aa4062] (Economics2e.pdf p.105) above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, but relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the interest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down toward the equilibrium level.\n\nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. At an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but the quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will perceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise interest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level.",
+  "latency_s": 2.905213799997,
+  "prompt_tokens": 1198,
+  "completion_tokens": 133,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002595,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t25",
+  "split": "dev",
+  "answerable": true,
+  "question": "Do state usury laws usually hold interest rates below the market rate?",
+  "status": "answered",
+  "answer": "State usury laws impose an upper limit on the interest rates that lenders can charge, but these limits are often set above the prevailing market interest rates. For instance, if a state sets a maximum interest rate of 30% per year, the actual rates can still fluctuate below this ceiling due to market forces. Therefore, in many cases, state usury laws do not hold interest rates below the market rate, as the upper limits are typically nonbinding unless market rates exceed them significantly. [1360b6c2de1dd0d9]",
+  "citations": [
+   "1360b6c2de1dd0d9"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "state usury laws interest rates market rate",
+    "filter": null,
+    "results": [
+     [
+      "1360b6c2de1dd0d9",
+      108,
+      0.7142326831817627,
+      1
+     ],
+     [
+      "07eef6b9b4aa4062",
+      105,
+      0.44411134719848633,
+      2
+     ],
+     [
+      "29de63e8d2547cb0",
+      103,
+      0.43938493728637695,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "1360b6c2de1dd0d9",
+     "07eef6b9b4aa4062",
+     "29de63e8d2547cb0"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "1360b6c2de1dd0d9",
+   "07eef6b9b4aa4062",
+   "29de63e8d2547cb0"
+  ],
+  "context": "[1360b6c2de1dd0d9] (Economics2e.pdf p.108) Many states do have usury laws, which impose an upper limit on the interest rate that lenders can charge. However, in many cases these upper limits are well above the market interest rate. For example, if the interest rate is not allowed to rise above 30% per year, it can still fluctuate below that level according to market forces. A price ceiling that is set at a relatively high level is nonbinding, and it will have no practical effect unless the equilibrium price soars high enough to exceed the price ceiling.\n\n[07eef6b9b4aa4062] (Economics2e.pdf p.105) above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, but relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the interest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down toward the equilibrium level.\n\nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. At an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but the quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will perceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise interest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level.\n\n[29de63e8d2547cb0] (Economics2e.pdf p.103) Thus, Americans pay tens of billions of dollars every year in interest on their credit cards—plus basic fees for the credit card or fees for late payments.\n\nFigure 4.5 illustrates demand and supply in the financial market for credit cards. The horizontal axis of the financial market shows the quantity of money loaned or borrowed in this market. The vertical or price axis shows the rate of return, which in the case of credit card borrowing we can measure with an interest rate. Table 4.5 shows the quantity of financial capital that consumers demand at various interest rates and the quantity that credit card firms (often banks) are willing to supply.",
+  "latency_s": 3.09435339999618,
+  "prompt_tokens": 1257,
+  "completion_tokens": 160,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00028454999999999995,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q26",
+  "split": "dev",
+  "answerable": true,
+  "question": "Is the slope of a demand curve the same as its elasticity?",
+  "status": "answered",
+  "answer": "The slope of a demand curve is not the same as its elasticity. The slope represents the rate of change in units along the curve, calculated as the rise over run (change in price over change in quantity). For example, the slope remains constant along the entire demand curve, while elasticity varies at different points on the curve. Elasticity measures the percentage change in quantity demanded in response to a percentage change in price, which is a different calculation from the slope and has a different meaning. Thus, while the slope is constant, elasticity changes along the curve, indicating that they are distinct concepts in economics. [c7da0d5fd8ec319d]",
+  "citations": [
+   "c7da0d5fd8ec319d"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "slope of a demand curve elasticity",
+    "filter": null,
+    "results": [
+     [
+      "c7da0d5fd8ec319d",
+      122,
+      0.7440345287322998,
+      1
+     ],
+     [
+      "7ea85c078ae4629d",
+      124,
+      0.6525618433952332,
+      2
+     ],
+     [
+      "74024909efd3b02c",
+      124,
+      0.6473569869995117,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "c7da0d5fd8ec319d",
+     "7ea85c078ae4629d"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "c7da0d5fd8ec319d",
+   "7ea85c078ae4629d"
+  ],
+  "context": "[c7da0d5fd8ec319d] (Economics2e.pdf p.122) It is a common mistake to confuse the slope of either the supply or demand curve with its elasticity. The slope is the rate of change in units along the curve, or the rise/run (change in y over the change in x). For example, in Figure 5.2, at each point shown on the demand curve, price drops by $10 and the number of units demanded increases by 200 compared to the point to its left. The slope is –10/200 along the entire demand curve and does not change. The price elasticity, however, changes along the curve. Elasticity between points A and B was 0.45 and increased to 1.47 between points G and H. Elasticity is the percentage change, which is a different calculation from the slope and has a different meaning.\n\nWhen we are at the upper end of a demand curve, where price is high and the quantity demanded is low, a small change in the quantity demanded, even in, say, one unit, is pretty big in percentage terms. A change\n\n[7ea85c078ae4629d] (Economics2e.pdf p.124) Notice that in absolute value, the declines in price, as you step down the demand curve, are not identical. Instead, the price falls by $2.00 from A to B, by a smaller amount of $1.50 from B to C, and by a still smaller amount of $0.90 from C to D. As a result, a demand curve with constant unitary elasticity moves from a steeper slope on the left and a flatter slope on the right—and a curved shape overall. Notice that in absolute value, the declines in price, as you step down the demand curve, are not identical. Instead, the price falls by $23 from A to B, by a smaller amount of $1.50 from B to C, and by a still smaller amount of $.90 from C to D. As a result, a demand curve with constant unitary elasticity has a steeper slope on the left and a flatter slope on the right—and a curved shape overall.",
+  "latency_s": 3.4519541000190657,
+  "prompt_tokens": 1236,
+  "completion_tokens": 180,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002934,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q27",
+  "split": "dev",
+  "answerable": true,
+  "question": "Under the rent control example, are more or fewer apartments rented than at the market rent?",
+  "status": "answered",
+  "answer": "Under rent control, there are fewer apartments rented than at the market rent. Specifically, with rent control set at $500, 15,000 rental units are rented, while at the market rent of $600, 17,000 rental units would be rented. This indicates a shortage of rental housing due to the price ceiling, as the quantity demanded (19,000 units) exceeds the quantity supplied (15,000 units) at the controlled price. Thus, the rent control law results in fewer apartments being rented compared to the market scenario [6aab0d72291cccfc].",
+  "citations": [
+   "6aab0d72291cccfc"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "rent control apartments rented market rent",
+    "filter": null,
+    "results": [
+     [
+      "6aab0d72291cccfc",
+      79,
+      0.5549956560134888,
+      1
+     ],
+     [
+      "c9de23f76e286b2c",
+      78,
+      0.5402995347976685,
+      2
+     ],
+     [
+      "4b265031ca69b777",
+      79,
+      0.4840487241744995,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "6aab0d72291cccfc",
+     "c9de23f76e286b2c"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "citation_retry",
+    "not_in_context": [],
+    "missing_inline": [
+     "6aab0d72291cccfc",
+     "c9de23f76e286b2c"
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "6aab0d72291cccfc",
+   "c9de23f76e286b2c"
+  ],
+  "context": "[6aab0d72291cccfc] (Economics2e.pdf p.79) Suppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 for a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed maximum price set by the rent control law. However, the underlying forces that shifted the demand curve to the right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but the quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity supplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price ceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling (15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units).\n\n[c9de23f76e286b2c] (Economics2e.pdf p.78) Rent control becomes a politically hot topic when rents begin to rise rapidly. Everyone needs an affordable place to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. Perhaps locally-based businesses expand, bringing higher incomes and more people into the area. Such changes can cause a change in the demand for rental housing, as Figure 3.21 illustrates. The original equilibrium (E0) lies at the intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and an equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is to shift the demand curve for rental housing to the right, as the data in Table 3.7 shows and the shift from D0 to D1 on the graph. In this market, at the new equilibrium E1, the price of a rental unit would rise to $600 and the equilibrium quantity would increase to 17,000 units.",
+  "latency_s": 5.808002000005217,
+  "prompt_tokens": 2261,
+  "completion_tokens": 309,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0005245499999999999,
+  "verify_tokens": {},
+  "n_model_calls": 3,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q28",
+  "split": "dev",
+  "answerable": true,
+  "question": "My boss is not allowed to pay me less than a certain amount per hour. What is that rule called?",
+  "status": "answered",
+  "answer": "The rule that prevents your boss from paying you less than a certain amount per hour is called the minimum wage. It is a price floor set by the government that makes it illegal for employers to pay employees below a specified hourly rate. For example, in mid-2009, the U.S. minimum wage was raised to $7.25 per hour. This rule aims to increase the wages of low-paid workers and ensure a reasonable standard of living for them. Local movements have also advocated for a higher minimum wage, often referred to as a living wage, to address the inadequacy of the minimum wage in meeting basic living costs. [63dadd9259803ad4][87e26da6e4f0b189]",
+  "citations": [
+   "63dadd9259803ad4",
+   "87e26da6e4f0b189"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "minimum wage",
+    "filter": null,
+    "results": [
+     [
+      "63dadd9259803ad4",
+      100,
+      0.5156973600387573,
+      1
+     ],
+     [
+      "87e26da6e4f0b189",
+      101,
+      0.5103117823600769,
+      2
+     ],
+     [
+      "a8eac835673bdf2f",
+      100,
+      0.5024547576904297,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "63dadd9259803ad4",
+     "87e26da6e4f0b189"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "63dadd9259803ad4",
+   "87e26da6e4f0b189"
+  ],
+  "context": "[63dadd9259803ad4] (Economics2e.pdf p.100) The labor market, however, presents some prominent examples of price floors, which are an attempt to increase the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it illegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage was raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher minimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage is too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you work 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is $14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty.\n\n[87e26da6e4f0b189] (Economics2e.pdf p.101) The U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly below it. About 1% of American workers are actually paid the minimum wage. In other words, the vast majority of the U.S. labor force has its wages determined in the labor market, not as a result of the government price floor. However, for workers with low skills and little experience, like those without a high school diploma or teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently below the market price for unskilled labor, because employers offer more than the minimum wage to checkout clerks and other low-skill workers without any government prodding.",
+  "latency_s": 3.8939400000090245,
+  "prompt_tokens": 1177,
+  "completion_tokens": 199,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00029595,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q29",
+  "split": "dev",
+  "answerable": true,
+  "question": "What is shown on the vertical axis, and why?",
+  "status": "answered",
+  "answer": "The vertical axis shows a measure of price, which can represent the price of a good or service, the wage in the labor market, or the rate of return (like the interest rate) in the financial market. This is important because it allows the demand and supply curves to explain how economic events will cause changes in prices, wages, and rates of return [573c9f50b6088251].",
+  "citations": [
+   "573c9f50b6088251"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "vertical axis",
+    "filter": null,
+    "results": [
+     [
+      "573c9f50b6088251",
+      109,
+      0.23500847816467285,
+      1
+     ],
+     [
+      "80bea9441d389927",
+      109,
+      0.22759997844696045,
+      2
+     ],
+     [
+      "dea9063e9bf055f9",
+      125,
+      0.2226579189300537,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "573c9f50b6088251",
+     "80bea9441d389927",
+     "dea9063e9bf055f9"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "573c9f50b6088251",
+   "80bea9441d389927",
+   "dea9063e9bf055f9"
+  ],
+  "context": "[573c9f50b6088251] (Economics2e.pdf p.109) Figure 4.9 Demand and Supply Curves The figure displays a generic demand and supply curve. The horizontal axis shows the different measures of quantity: a quantity of a good or service, a quantity of labor for a given job, or a quantity of financial capital. The vertical axis shows a measure of price: the price of a good or service, the wage in the labor market, or the rate of return (like the interest rate) in the financial market. We can use the demand and supply curves explain how economic events will cause changes in prices, wages, and rates of return.\n\n[80bea9441d389927] (Economics2e.pdf p.109) Figure 4.9 displays a generic demand and supply curve. The horizontal axis shows the different measures of quantity: a quantity of a good or service, or a quantity of labor for a given job, or a quantity of financial capital. The vertical axis shows a measure of price: the price of a good or service, the wage in the labor market, or the rate of return (like the interest rate) in the financial market.\n\nThe demand and supply model can explain the existing levels of prices, wages, and rates of return. To carry out such an analysis, think about the quantity that will be demanded at each price and the quantity that will be supplied at each price—that is, think about the shape of the demand and supply curves—and how these forces will combine to produce equilibrium.\n\n[dea9063e9bf055f9] (Economics2e.pdf p.125) Figure 5.7 A Constant Unitary Elasticity Supply Curve A constant unitary elasticity supply curve is a straight line reaching up from the origin. Between each pair of points, the percentage increase in quantity supplied is the same as the percentage increase in price.",
+  "latency_s": 3.1245415000012144,
+  "prompt_tokens": 1164,
+  "completion_tokens": 122,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002478,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "t30",
+  "split": "dev",
+  "answerable": true,
+  "question": "How can you tell a good is inferior?",
+  "status": "answered",
+  "answer": "An inferior good is characterized by a negative income elasticity of demand, meaning that as income increases, the quantity demanded for that good decreases. For example, individuals with higher incomes may choose to buy less of certain products, such as generic brand groceries or used cars, because they can afford to purchase more expensive alternatives, like name brand groceries or new cars. Thus, when income rises, the demand curve for an inferior good shifts to the left, indicating a decrease in demand for that good as income increases [95f36064b01409e2][5ee0f0069452f647][95d7395a87eb0b91].",
+  "citations": [
+   "95f36064b01409e2",
+   "5ee0f0069452f647",
+   "95d7395a87eb0b91"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "inferior goods definition characteristics",
+    "filter": null,
+    "results": [
+     [
+      "95f36064b01409e2",
+      133,
+      0.49359840154647827,
+      1
+     ],
+     [
+      "5ee0f0069452f647",
+      133,
+      0.4541093111038208,
+      2
+     ],
+     [
+      "95d7395a87eb0b91",
+      64,
+      0.4213820695877075,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "95f36064b01409e2",
+     "5ee0f0069452f647",
+     "95d7395a87eb0b91"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "95f36064b01409e2",
+   "5ee0f0069452f647",
+   "95d7395a87eb0b91"
+  ],
+  "context": "[95f36064b01409e2] (Economics2e.pdf p.133) We introduced the concepts of normal and inferior goods in Demand and Supply. A higher level of income causes a demand curve to shift to the right for a normal good, which means that the income elasticity of demand is positive. How far the demand shifts depends on the income elasticity of demand. A higher income elasticity means a larger shift. However, for an inferior good, that is, when the income elasticity of demand is negative, a higher level of income would cause the demand curve for that good to shift to the left. Again, how much it shifts depends on how large the (negative) income elasticity is. Cross-Price Elasticity of Demand\n\n[5ee0f0069452f647] (Economics2e.pdf p.133) For most products, most of the time, the income elasticity of demand is positive: that is, a rise in income will cause an increase in the quantity demanded. This pattern is common enough that we refer to these goods as normal goods. However, for a few goods, an increase in income means that one might purchase less of the good. For example, those with a higher income might buy fewer hamburgers, because they are buying more steak instead, or those with a higher income might buy less cheap wine and more imported beer. When the income elasticity of demand is negative, we call the good an inferior good.\n\n[95d7395a87eb0b91] (Economics2e.pdf p.64) In the previous section, we argued that higher income causes greater demand at every price. This is true for most goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in income can be especially pronounced. A product whose demand rises when income rises, and vice versa, is called a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer generic brand groceries and more name brand groceries. They are less likely to buy used cars and more likely to buy new cars. They will be less likely to rent an apartment and more likely to own a home. A product whose demand falls when income rises, and vice versa, is called an inferior good. In other words, when income increases, the demand curve shifts to the left.\n\nOther Factors That Shift Demand Curves",
+  "latency_s": 3.3640728000027593,
+  "prompt_tokens": 1263,
+  "completion_tokens": 195,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00030645,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q31",
+  "split": "dev",
+  "answerable": true,
+  "question": "If demand for concert tickets is elastic at the current price, should the band raise or cut the price to earn more revenue?",
+  "status": "answered",
+  "answer": "If demand for concert tickets is elastic at the current price, the band should cut the price to earn more revenue. This is because a percentage drop in price will lead to a larger percentage increase in the quantity sold, thus raising total revenue [0df95ac62662c2ca].",
+  "citations": [
+   "0df95ac62662c2ca"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "elastic demand concert tickets price revenue",
+    "filter": null,
+    "results": [
+     [
+      "0df95ac62662c2ca",
+      127,
+      0.6047533750534058,
+      1
+     ],
+     [
+      "66d21e7e426c44f0",
+      127,
+      0.5875281095504761,
+      2
+     ],
+     [
+      "bcbd8d006bf122cb",
+      127,
+      0.5770955085754395,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "0df95ac62662c2ca",
+     "66d21e7e426c44f0"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "0df95ac62662c2ca",
+   "66d21e7e426c44f0"
+  ],
+  "context": "[0df95ac62662c2ca] (Economics2e.pdf p.127) The key concept in thinking about collecting the most revenue is the price elasticity of demand. Total revenue is price times the quantity of tickets sold. Imagine that the band starts off thinking about a certain price, which will result in the sale of a certain quantity of tickets. The three possibilities are in Table 5.3. If demand is elastic at that price level, then the band should cut the price, because the percentage drop in price will result in an even larger percentage increase in the quantity sold—thus raising total revenue. However, if demand is inelastic at that original quantity level, then the band should raise the ticket price, because a certain percentage increase in price will result in a smaller percentage decrease in the quantity sold—and total revenue will rise.\n\n[66d21e7e426c44f0] (Economics2e.pdf p.127) What if the band keeps cutting price, because demand is elastic, until it reaches a level where it sells all 15,000 seats in the available arena? If demand remains elastic at that quantity, the band might try to move to a bigger arena, so that it could slash ticket prices further and see a larger percentage increase in the quantity of tickets sold. However, if the 15,000-seat arena is all that is available or if a larger arena would add substantially to costs, then this option may not work.\n\nConversely, a few bands are so famous, or have such fanatical followings, that demand for tickets may be inelastic right up to the point where the arena is full. These bands can, if they wish, keep raising the ticket price. Ironically,",
+  "latency_s": 2.3424627000058535,
+  "prompt_tokens": 1160,
+  "completion_tokens": 102,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002352,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t32",
+  "split": "dev",
+  "answerable": true,
+  "question": "Who bears most of a tax when demand is more inelastic than supply?",
+  "status": "answered",
+  "answer": "When demand is more inelastic than supply, consumers bear most of the tax burden. This is because the tax incidence falls on the side of the market that is less elastic. In this case, since demand is inelastic, the tax burden primarily passes on to consumers in the form of higher prices, while producers are less affected by the tax. Conversely, if supply were more inelastic than demand, sellers would bear most of the tax burden instead. [65b136eb37318c40]",
+  "citations": [
+   "65b136eb37318c40"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "who bears most of a tax when demand is more inelastic than supply",
+    "filter": null,
+    "results": [
+     [
+      "0bb3688945997985",
+      130,
+      0.615990936756134,
+      1
+     ],
+     [
+      "65b136eb37318c40",
+      130,
+      0.6104604601860046,
+      2
+     ],
+     [
+      "88855035bee8e186",
+      131,
+      0.5925588607788086,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "0bb3688945997985",
+     "65b136eb37318c40"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "0bb3688945997985",
+   "65b136eb37318c40"
+  ],
+  "context": "[0bb3688945997985] (Economics2e.pdf p.130) Similarly, when a government introduces a tax in a market with an inelastic supply, such as, for example, beachfront hotels, and sellers have no alternative than to accept lower prices for their business, taxes do not greatly affect the equilibrium quantity. The tax burden now passes on to the sellers. If the supply was elastic and sellers had the possibility of reorganizing their businesses to avoid supplying the taxed good, the tax burden on the sellers would be much smaller. The tax would result in a much lower quantity sold instead of lower prices received. Figure 5.10 illustrates this relationship between the tax incidence and elasticity of demand and supply.\n\n[65b136eb37318c40] (Economics2e.pdf p.130) The example of cigarette taxes demonstrated that because demand is inelastic, taxes are not effective at reducing the equilibrium quantity of smoking, and they mainly pass along to consumers in the form of higher prices. The analysis, or manner, of how a tax burden is divided between consumers and producers is called tax incidence. Typically, the tax incidence, or burden, falls both on the consumers and producers of the taxed good. However, if one wants to predict which group will bear most of the burden, all one needs to do is examine the elasticity of demand and supply. In the tobacco example, the tax burden falls on the most inelastic side of the market.\n\nIf demand is more inelastic than supply, consumers bear most of the tax burden, and if supply is more inelastic than demand, sellers bear most of the tax burden.",
+  "latency_s": 2.687682100018719,
+  "prompt_tokens": 1125,
+  "completion_tokens": 151,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00025935000000000004,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q33",
+  "split": "dev",
+  "answerable": true,
+  "question": "How responsive are teenagers' working hours to changes in wages?",
+  "status": "answered",
+  "answer": "Teenagers' working hours are generally responsive to changes in wages, exhibiting a fairly elastic labor supply. This means that a certain percentage change in wages will lead to a larger percentage change in the quantity of hours they work. In contrast, adult workers tend to have a more inelastic response to wage changes, where the percentage change in hours worked is smaller compared to the change in wages. Therefore, teenagers are more likely to adjust their working hours significantly in response to wage fluctuations compared to adults in their prime earning years. [295f2881ec681b3f]",
+  "citations": [
+   "295f2881ec681b3f"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "teenagers working hours changes in wages",
+    "filter": null,
+    "results": [
+     [
+      "295f2881ec681b3f",
+      134,
+      0.5597547292709351,
+      1
+     ],
+     [
+      "a5ec39ccd55ca056",
+      102,
+      0.45203351974487305,
+      2
+     ],
+     [
+      "a8eac835673bdf2f",
+      100,
+      0.4198035001754761,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "295f2881ec681b3f",
+     "a5ec39ccd55ca056"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "295f2881ec681b3f",
+   "a5ec39ccd55ca056"
+  ],
+  "context": "[295f2881ec681b3f] (Economics2e.pdf p.134) The wage elasticity of labor supply for teenage workers is generally fairly elastic: that is, a certain percentage change in wages will lead to a larger percentage change in the quantity of hours worked. Conversely, the wage elasticity of labor supply for adult workers in their thirties and forties is fairly inelastic. When wages move up or down by a certain percentage amount, the quantity of hours that adults in their prime earning years are willing to supply changes but by a lesser percentage amount.\n\nIn markets for financial capital, the elasticity of savings—that is, the percentage change in the quantity of savings divided by the percentage change in interest rates—will describe the shape of the supply curve for financial capital. That is:\n\nElasticity of savings = % change in quantity of financial savings\n\n% change in interest rate\n\n[a5ec39ccd55ca056] (Economics2e.pdf p.102) Another complexity is that many minimum wage workers do not work full-time for an entire year. Imagine a minimum wage worker who holds different part-time jobs for a few months at a time, with bouts of unemployment in between. The worker in this situation receives the 10% raise in the minimum wage when working, but also ends up working 2% fewer hours during the year because the higher minimum wage reduces how much employers want people to work. Overall, this worker’s income would rise because the 10% pay raise would more than offset the 2% fewer hours worked.",
+  "latency_s": 2.861697299988009,
+  "prompt_tokens": 1095,
+  "completion_tokens": 159,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00025965,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t34",
+  "split": "dev",
+  "answerable": true,
+  "question": "Khi giá của một hàng hóa thay đổi, đường cầu hoặc đường cung của chính hàng hóa đó có dịch chuyển không?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide a direct answer to whether a change in the price of a good causes a shift in the demand or supply curve of that good.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "When the price of a good changes, does the demand curve or supply curve of that good shift?",
+    "filter": null,
+    "results": [
+     [
+      "a21749fe02c1f2da",
+      76,
+      0.6932860612869263,
+      1
+     ],
+     [
+      "ccb8799878aa5cff",
+      64,
+      0.6876042485237122,
+      2
+     ],
+     [
+      "d0b8ddfb165f1294",
+      65,
+      0.6849474310874939,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a21749fe02c1f2da",
+     "ccb8799878aa5cff",
+     "d0b8ddfb165f1294"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "a21749fe02c1f2da",
+   "ccb8799878aa5cff",
+   "d0b8ddfb165f1294"
+  ],
+  "context": "[a21749fe02c1f2da] (Economics2e.pdf p.76) “Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original supply curve S0 to S1 on the diagram (Shift 1). The equilibrium moves from E0 to E1, the equilibrium quantity is lower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the supply curve shifts right, as shows the shift from S1 to S2, shows on the diagram (Shift 2), so that the equilibrium now moves from E1 to E2. The higher price, however, also reduces demand and so causes demand to shift back, like the shift from the original demand curve, D0 to D1 on the diagram (labeled\n\nShift 3), and the equilibrium moves from E2 to E3.”\n\nFigure 3.20 Shifts of Demand or Supply versus Movements along a Demand or Supply Curve A shift in one curve never causes a shift in the other curve. Rather, a shift in one curve causes a movement along the second curve.\n\n[ccb8799878aa5cff] (Economics2e.pdf p.64) When a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes by the same amount. In this example, not everyone would have higher or lower income and not everyone would buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as a whole.\n\n[d0b8ddfb165f1294] (Economics2e.pdf p.65) While it is clear that the price of a good affects the quantity demanded, it is also true that expectations about the future price (or expectations about tastes and preferences, income, and so on) can affect demand. For example, if people hear that a hurricane is coming, they may rush to the store to buy flashlight batteries and bottled water. If people learn that the price of a good like coffee is likely to rise in the future, they may head for the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift in demand happens when a change in some economic factor (other than price) causes a different quantity to be demanded at every price. The following Work It Out feature shows how this happens.\n\nShift in Demand\n\nA shift in demand means that at any price (and at every price), the quantity demanded will be different than it was before. Following is an example of a shift in demand due to an income increase.",
+  "latency_s": 1.898816100001568,
+  "prompt_tokens": 1366,
+  "completion_tokens": 77,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002511,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q35",
+  "split": "dev",
+  "answerable": true,
+  "question": "When both supply and demand shift at the same time, can we usually predict the change in both equilibrium price and quantity?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide a definitive answer on predicting changes in both equilibrium price and quantity when both supply and demand shift simultaneously.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "When both supply and demand shift at the same time, predict change in equilibrium price and quantity",
+    "filter": null,
+    "results": [
+     [
+      "c8cd071394b65b89",
+      132,
+      0.6573062539100647,
+      1
+     ],
+     [
+      "f18339b636348172",
+      75,
+      0.65605628490448,
+      2
+     ],
+     [
+      "d9727b2360e859db",
+      109,
+      0.6272227168083191,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "c8cd071394b65b89",
+     "f18339b636348172",
+     "d9727b2360e859db"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "c8cd071394b65b89",
+   "f18339b636348172",
+   "d9727b2360e859db"
+  ],
+  "context": "[c8cd071394b65b89] (Economics2e.pdf p.132) Figure 5.11 How a Shift in Supply Can Affect Price or Quantity The intersection (E0) between demand curve D and supply curve S0 is the same in both (a) and (b). The shift of supply to the left from S0 to S1 is identical in both (a) and (b). The new equilibrium (E1) has a higher price and a lower quantity than the original equilibrium (E0) in both (a) and (b). However, the shape of the demand curve D is different in (a) and (b), being more elastic in (b) than in (a). As a result, the shift in supply can result either in a new equilibrium with a much higher price and an only slightly smaller quantity, as in (a), with more inelastic demand, or in a new equilibrium with only a small increase in price and a relatively larger reduction in quantity, as in (b), with more elastic demand.\n\n[f18339b636348172] (Economics2e.pdf p.75) Step 4. Compare the new equilibrium price and quantity to the original equilibrium price. The new equilibrium (E2) occurs at a lower quantity and a lower price than the original equilibrium (E0).\n\nThe final step in a scenario where both supply and demand shift is to combine the two individual analyses to determine what happens to the equilibrium quantity and price. Graphically, we superimpose the previous two diagrams one on top of the other, as in Figure 3.19.\n\nFigure 3.19 Combined Effect of Decreased Demand and Decreased Supply Supply and demand shifts cause changes in equilibrium price and quantity.\n\nFollowing are the results:\n\n[d9727b2360e859db] (Economics2e.pdf p.109) We can also use demand and supply to explain how economic events will cause changes in prices, wages, and rates of return. There are only four possibilities: the change in any single event may cause the demand curve to shift right or to shift left, or it may cause the supply curve to shift right or to shift left. The key to analyzing the effect of an economic event on equilibrium prices and quantities is to determine which of these four possibilities occurred. The way to do this correctly is to think back to the list of factors that shift the demand and supply curves. Note that if more than one variable is changing at the same time, the overall impact will depend on the degree of the shifts. When there are multiple variables, economists isolate each change and analyze it independently.",
+  "latency_s": 2.0129430000088178,
+  "prompt_tokens": 1353,
+  "completion_tokens": 69,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00024435,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q36",
+  "split": "dev",
+  "answerable": true,
+  "question": "What does it mean when the minimum wage is nonbinding?",
+  "status": "answered",
+  "answer": "When the minimum wage is described as nonbinding, it means that the minimum wage is set below the equilibrium wage level. In this scenario, wages can fluctuate according to market forces above the minimum wage, but they cannot fall below it. Therefore, the minimum wage does not affect the market outcome, as it does not constrain employers from hiring at the equilibrium wage. Even if the minimum wage is increased slightly, it will still have no impact on the quantity of employment, as long as it remains below the equilibrium wage level. This situation indicates that the minimum wage is not influencing the labor market dynamics significantly. [296fa6a889358624]",
+  "citations": [
+   "296fa6a889358624"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "minimum wage nonbinding",
+    "filter": null,
+    "results": [
+     [
+      "296fa6a889358624",
+      101,
+      0.5108201503753662,
+      1
+     ],
+     [
+      "0bc350ab0f4abbe8",
+      102,
+      0.47988951206207275,
+      2
+     ],
+     [
+      "a8eac835673bdf2f",
+      100,
+      0.4786132574081421,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "296fa6a889358624",
+     "0bc350ab0f4abbe8",
+     "a8eac835673bdf2f"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "296fa6a889358624",
+   "0bc350ab0f4abbe8",
+   "a8eac835673bdf2f"
+  ],
+  "context": "[296fa6a889358624] (Economics2e.pdf p.101) Economists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-skill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the hiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have even found no effect of a higher minimum wage on employment at certain times and places—although these studies are controversial.\n\nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate according to market forces above this price floor, but they would not be allowed to move beneath the floor. In this situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the market outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity of\n\n[0bc350ab0f4abbe8] (Economics2e.pdf p.102) employment in the economy, as long as it remains below the equilibrium wage. Even if the government increases minimum wage by enough so that it rises slightly above the equilibrium wage and becomes binding, there will be only a small excess supply gap between the quantity demanded and quantity supplied.\n\n[a8eac835673bdf2f] (Economics2e.pdf p.100) Figure 4.4 illustrates the situation of a city considering a living wage law. For simplicity, we assume that there is no federal minimum wage. The wage appears on the vertical axis, because the wage is the price in the labor market. Before the passage of the living wage law, the equilibrium wage is $10 per hour and the city hires 1,200 workers at this wage. However, a group of concerned citizens persuades the city council to enact a living wage law requiring employers to pay no less than $12 per hour. In response to the higher wage, 1,600 workers look for jobs with the city. At this higher wage, the city, as an employer, is willing to hire only 700 workers. At the price floor, the quantity supplied exceeds the quantity demanded, and a surplus of labor exists in this market. For workers who continue to have a job at a higher salary, life has improved. For those who were willing to work at the old wage rate but lost their jobs with the wage increase, life has not improved.",
+  "latency_s": 3.3574628999922425,
+  "prompt_tokens": 1287,
+  "completion_tokens": 169,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00029445,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q37",
+  "split": "dev",
+  "answerable": true,
+  "question": "What happened during China's Great Leap Forward when food prices were kept artificially low?",
+  "status": "answered",
+  "answer": "During China's Great Leap Forward in the late 1950s, the government kept food prices artificially low, which led to severe consequences. As a result of these low prices, farm production was depressed, and this contributed to a catastrophic famine that caused the deaths of 30 to 40 million people from starvation. This campaign, led by communist party leader Mao Zedong, aimed to rapidly transform China from an agrarian economy to a socialist society through industrialization and collectivization, but the price controls ultimately deprived the economy of critical information regarding supply and demand dynamics.  [430286eec90ecd84]",
+  "citations": [
+   "430286eec90ecd84"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "China Great Leap Forward food prices artificially low",
+    "filter": null,
+    "results": [
+     [
+      "430286eec90ecd84",
+      110,
+      0.6232779026031494,
+      1
+     ],
+     [
+      "de91a5b46659fe40",
+      69,
+      0.4864557981491089,
+      2
+     ],
+     [
+      "1a9f7c2bec9b6e4c",
+      69,
+      0.4517703056335449,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "430286eec90ecd84",
+     "de91a5b46659fe40",
+     "1a9f7c2bec9b6e4c"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "430286eec90ecd84",
+   "de91a5b46659fe40",
+   "1a9f7c2bec9b6e4c"
+  ],
+  "context": "[430286eec90ecd84] (Economics2e.pdf p.110) Those who seek price controls are trying to kill the messenger—or at least to stifle an unwelcome message that prices are bringing about the equilibrium level of price and quantity. However, price controls do nothing to affect the underlying forces of demand and supply, and this can have serious repercussions. During China’s “Great Leap Forward” in the late 1950s, the government kept food prices artificially low, with the result that 30 to 40 million people died of starvation because the low prices depressed farm production. This was communist party leader Mao Zedong's social and economic campaign to rapidly transform the country from an agrarian economy to a socialist society through rapid industrialization and collectivization. Changes in demand and supply will continue to reveal themselves through consumers’ and producers’ behavior. Immobilizing the price messenger through price controls will deprive everyone in the economy of critical information.\n\n[de91a5b46659fe40] (Economics2e.pdf p.69) 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and soybeans, experienced its most severe drought in 50 years. A drought decreases the supply of agricultural products, which means that at any given price, a lower quantity will be supplied. Conversely, especially good weather would shift the supply curve to the right.\n\n[1a9f7c2bec9b6e4c] (Economics2e.pdf p.69) When a firm discovers a new technology that allows the firm to produce at a lower cost, the supply curve will shift to the right, as well. For instance, in the 1960s a major scientific effort nicknamed the Green Revolution focused on breeding improved seeds for basic crops like wheat and rice. By the early 1990s, more than two-thirds of the wheat and rice in low-income countries around the world used these Green Revolution seeds—and the harvest was twice as high per acre. A technological improvement that reduces costs of production will shift supply to the right, so that a greater quantity will be produced at any given price.",
+  "latency_s": 3.3039451999939047,
+  "prompt_tokens": 1233,
+  "completion_tokens": 167,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00028514999999999997,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q38",
+  "split": "dev",
+  "answerable": true,
+  "question": "Độ co giãn của cầu cà phê khoảng bao nhiêu?",
+  "status": "answered",
+  "answer": "The elasticity of coffee demand is approximately 0.3. This means that a 10% rise in the price of coffee leads to a decline of about 3% in the quantity of coffee consumed, indicating inelastic demand for coffee. Therefore, the demand for coffee is not very responsive to price changes, which is characteristic of inelastic demand curves. [02420699a0cf7449]",
+  "citations": [
+   "02420699a0cf7449"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "độ co giãn của cầu cà phê",
+    "filter": null,
+    "results": [
+     [
+      "02420699a0cf7449",
+      129,
+      0.2559947967529297,
+      1
+     ],
+     [
+      "c4fc93489e95d2a3",
+      129,
+      0.2534019947052002,
+      2
+     ],
+     [
+      "423e2a8ff9504adf",
+      129,
+      0.21002018451690674,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "02420699a0cf7449",
+     "c4fc93489e95d2a3",
+     "423e2a8ff9504adf"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "02420699a0cf7449",
+   "c4fc93489e95d2a3",
+   "423e2a8ff9504adf"
+  ],
+  "context": "[02420699a0cf7449] (Economics2e.pdf p.129) The reason for these price fluctuations lies in a combination of inelastic demand and shifts in supply. The elasticity of coffee demand is only about 0.3; that is, a 10% rise in the price of coffee leads to a decline of about 3% in the quantity of coffee consumed. When a major frost hit the Brazilian coffee crop in 1994, coffee supply shifted to the left with an inelastic demand curve, leading to much higher prices. Conversely, when Vietnam entered the world coffee market as a major producer in the late 1990s, the supply curve shifted out to the right. With a highly inelastic demand curve, coffee prices fell dramatically. Figure 5.8 (a) illustrates this situation.\n\n[c4fc93489e95d2a3] (Economics2e.pdf p.129) Coffee is an international crop. The top five coffee-exporting nations are Brazil, Vietnam, Colombia, Indonesia, and Ethiopia. In these nations and others, 20 million families depend on selling coffee beans as their main source of income. These families are exposed to enormous risk, because the world price of coffee bounces up and down. For example, in 1993, the world price of coffee was about 50 cents per pound. In 1995 it was four times as high, at $2 per pound. By 1997 it had fallen by half to $1.00 per pound. In 1998 it leaped back up to $2 per pound. By 2001 it had fallen back to 46 cents a pound. By early 2011 it rose to about $2.31 per pound. By the end of 2012, the price had fallen back to about $1.31 per pound.\n\n[423e2a8ff9504adf] (Economics2e.pdf p.129) production leads to a severe drop in price that can actually decrease the total revenue that farmers receive. Conversely, poor weather or other conditions that cause a terrible year for farm production can sharply raise prices so that the total revenue that the farmer receives increases. The Clear It Up box discusses how these issues relate to coffee.\n\nHow do coffee prices fluctuate?",
+  "latency_s": 2.608432199980598,
+  "prompt_tokens": 1260,
+  "completion_tokens": 128,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0002658,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "t39",
+  "split": "dev",
+  "answerable": true,
+  "question": "What factors can increase the number of workers available?",
+  "status": "answered",
+  "answer": "Several factors can increase the number of workers available, including immigration, increasing population, an aging population, and changing demographics. Policies that encourage immigration will increase the supply of labor. Population growth occurs when birth rates exceed death rates, which eventually increases the labor supply as the population reaches working age. Additionally, changing demographics, such as more women entering the workforce, can also contribute to an increased supply of labor. However, it is important to note that an aging population may decrease the supply of labor due to retirement. Overall, these factors can shift the supply curve of labor to the right, indicating an increase in the number of available workers. [a5a5f8c501acd68f]",
+  "citations": [
+   "a5a5f8c501acd68f"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "factors increase number of workers available",
+    "filter": null,
+    "results": [
+     [
+      "a5a5f8c501acd68f",
+      98,
+      0.6044139862060547,
+      1
+     ],
+     [
+      "57a0419bc683a2c8",
+      98,
+      0.5779939293861389,
+      2
+     ],
+     [
+      "7f1a42008f0fbbd6",
+      96,
+      0.5437301993370056,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "a5a5f8c501acd68f",
+     "57a0419bc683a2c8",
+     "7f1a42008f0fbbd6"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "a5a5f8c501acd68f",
+   "57a0419bc683a2c8",
+   "7f1a42008f0fbbd6"
+  ],
+  "context": "[a5a5f8c501acd68f] (Economics2e.pdf p.98) An increased number of workers will cause the supply curve to shift to the right. An increased number of workers can be due to several factors, such as immigration, increasing population, an aging population, and changing demographics. Policies that encourage immigration will increase the supply of labor, and vice versa. Population grows when birth rates exceed death rates. This eventually increases supply of labor when the former reach working age. An aging and therefore retiring population will decrease the supply of labor. Another example of changing demographics is more women working outside of the home, which increases the supply of labor.\n\nRequired Education\n\nThe more required education, the lower the supply. There is a lower supply of PhD mathematicians than of high school mathematics teachers; there is a lower supply of cardiologists than of primary care physicians; and there is a lower supply of physicians than of nurses.\n\nGovernment Policies\n\n[57a0419bc683a2c8] (Economics2e.pdf p.98) The supply of labor is upward-sloping and adheres to the law of supply: The higher the price, the greater the quantity supplied and the lower the price, the less quantity supplied. The supply curve models the tradeoff between supplying labor into the market or using time in leisure activities at every given price level. The higher the wage, the more labor is willing to work and forego leisure activities. Table 4.3 lists some of the factors that will cause the supply to increase or decrease.\n\nFactors Results\n\nNumber of Workers\n\n[7f1a42008f0fbbd6] (Economics2e.pdf p.96) As the demand for the goods and services increases, the demand for labor will increase, or shift to the right, to meet employers’ production requirements. As the demand for the goods and services decreases, the demand for labor will decrease, or shift to the left. Table 4.2 shows that in addition to the derived demand for labor, demand can also increase or decrease (shift) in response to several factors.\n\nFactors Results\n\nDemand for Output\n\nWhen the demand for the good produced (output) increases, both the output price and profitability increase. As a result, producers demand more labor to ramp up production.\n\nTable 4.2 Factors That Can Shift Demand\n\nFactors Results\n\nEducation and Training",
+  "latency_s": 3.3060212999989744,
+  "prompt_tokens": 1266,
+  "completion_tokens": 187,
+  "embedding_tokens": 0,
+  "cost_usd": 0.0003021,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": true
+ },
+ {
+  "query_id": "q40",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which kinds of goods have inelastic demand and which are more price-sensitive?",
+  "status": "answered",
+  "answer": "Goods with inelastic demand typically include necessities that have no close substitutes, such as life-saving drugs and gasoline. These goods tend to have highly inelastic demand curves, meaning that changes in price do not significantly affect the quantity demanded. On the other hand, goods that are more price-sensitive, or have elastic demand, are those for which consumers can easily find substitutes or do not consider essential, leading to a greater change in quantity demanded when prices fluctuate. Examples of such goods are luxury items or non-essential consumer goods. [d532798f6979a20a]",
+  "citations": [
+   "d532798f6979a20a"
+  ],
+  "error": null,
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "inelastic demand goods price-sensitive goods",
+    "filter": null,
+    "results": [
+     [
+      "d532798f6979a20a",
+      124,
+      0.6187233924865723,
+      1
+     ],
+     [
+      "7cc539e31b9df4c7",
+      120,
+      0.5948628783226013,
+      2
+     ],
+     [
+      "30844565c99810e4",
+      123,
+      0.5801204442977905,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "d532798f6979a20a",
+     "7cc539e31b9df4c7",
+     "30844565c99810e4"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "context_ids": [
+   "d532798f6979a20a",
+   "7cc539e31b9df4c7",
+   "30844565c99810e4"
+  ],
+  "context": "[d532798f6979a20a] (Economics2e.pdf p.124) while perfectly inelastic demand is an extreme case, necessities with no close substitutes are likely to have highly inelastic demand curves. This is the case of life-saving drugs and gasoline.\n\nFigure 5.5 Zero Elasticity The vertical supply curve and vertical demand curve show that there will be zero percentage change in quantity (a) demanded or (b) supplied, regardless of the price.\n\n[7cc539e31b9df4c7] (Economics2e.pdf p.120) showing that the demand is inelastic in this interval. Price elasticities of demand are always negative since price and quantity demanded always move in opposite directions (on the demand curve). By convention, we always talk about elasticities as positive numbers. Mathematically, we take the absolute value of the result. We will ignore this detail from now on, while remembering to interpret elasticities as positive numbers.\n\n[30844565c99810e4] (Economics2e.pdf p.123) Figure 5.4 Infinite Elasticity The horizontal lines show that an infinite quantity will be demanded or supplied at a specific price. This illustrates the cases of a perfectly (or infinitely) elastic demand curve and supply curve. The quantity supplied or demanded is extremely responsive to price changes, moving from zero for prices close to P to infinite when prices reach P.\n\nZero elasticity or perfect inelasticity, as Figure 5.5 depicts, refers to the extreme case in which a percentage change in price, no matter how large, results in zero change in quantity. While a perfectly inelastic supply is an extreme example, goods with limited supply of inputs are likely to feature highly inelastic supply curves. Examples include diamond rings or housing in prime locations such as apartments facing Central Park in New York City. Similarly,",
+  "latency_s": 2.9477353999973275,
+  "prompt_tokens": 1167,
+  "completion_tokens": 159,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00027045,
+  "verify_tokens": {},
+  "n_model_calls": 2,
+  "context_evidence": false
+ },
+ {
+  "query_id": "q52",
+  "split": "dev",
+  "answerable": false,
+  "question": "What was the median salary for nurses in 2020?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide specific information about the median salary for nurses in 2020.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "median salary for nurses 2020",
+    "filter": null,
+    "results": [
+     [
+      "5f311ad36d9b19c4",
+      112,
+      0.49354463815689087,
+      1
+     ],
+     [
+      "4fcd36d8a32970f5",
+      96,
+      0.4772167205810547,
+      2
+     ],
+     [
+      "4920324692d7ee19",
+      95,
+      0.4719929099082947,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "5f311ad36d9b19c4",
+     "4fcd36d8a32970f5",
+     "4920324692d7ee19"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "5f311ad36d9b19c4",
+   "4fcd36d8a32970f5",
+   "4920324692d7ee19"
+  ],
+  "context": "[5f311ad36d9b19c4] (Economics2e.pdf p.112) While we do not know if the number of nurses will increase or decrease relative to their initial employment, we know they will have higher salaries.\n\n[4fcd36d8a32970f5] (Economics2e.pdf p.96) At equilibrium, the quantity supplied and the quantity demanded are equal. Thus, every employer who wants to hire a nurse at this equilibrium wage can find a willing worker, and every nurse who wants to work at this equilibrium salary can find a job. In Figure 4.2, the supply curve (S) and demand curve (D) intersect at the equilibrium point (E). The equilibrium quantity of nurses in the Minneapolis-St. Paul-Bloomington area is 34,000, and the equilibrium salary is $70,000 per year. This example simplifies the nursing market by focusing on the “average” nurse. In reality, of course, the market for nurses actually comprises many smaller markets, like markets for nurses with varying degrees of experience and credentials. Many markets contain closely related products that differ in quality. For instance, even a simple product like gasoline comes in regular, premium, and super-premium, each with a different price.\n\n[4920324692d7ee19] (Economics2e.pdf p.95) $80,000 32,000 41,000\n\nTable 4.1 Demand and Supply of Nurses in Minneapolis-St. Paul-Bloomington\n\nThe horizontal axis shows the quantity of nurses hired. In this example we measure labor by number of workers, but another common way to measure the quantity of labor is by the number of hours worked. The vertical axis shows the price for nurses’ labor—that is, how much they are paid. In the real world, this “price” would be total labor compensation: salary plus benefits. It is not obvious, but benefits are a significant part (as high as 30 percent) of labor compensation. In this example we measure the price of labor by salary on an annual basis, although in other cases we could measure the price of labor by monthly or weekly pay, or even the wage paid per hour. As the salary for nurses rises, the quantity demanded will fall. Some hospitals and nursing homes may reduce the number of nurses they hire, or they may lay off some of their existing nurses, rather than pay them higher salaries.",
+  "latency_s": 1.993317400017986,
+  "prompt_tokens": 1281,
+  "completion_tokens": 51,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00022275,
+  "verify_tokens": {},
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "q53",
+  "split": "dev",
+  "answerable": false,
+  "question": "What is the price elasticity of demand for gasoline in Vietnam?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide specific information about the price elasticity of demand for gasoline in Vietnam.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "price elasticity of demand for gasoline in Vietnam",
+    "filter": null,
+    "results": [
+     [
+      "6c30dee429f94fee",
+      57,
+      0.5351220965385437,
+      1
+     ],
+     [
+      "a5e56ac55b98652e",
+      60,
+      0.5131223797798157,
+      2
+     ],
+     [
+      "1e07e304a60def2b",
+      61,
+      0.48984313011169434,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "6c30dee429f94fee",
+     "a5e56ac55b98652e"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "6c30dee429f94fee",
+   "a5e56ac55b98652e"
+  ],
+  "context": "[6c30dee429f94fee] (Economics2e.pdf p.57) Price (per gallon) Quantity Demanded (millions of gallons)\n\n$1.00 800\n\n$1.20 700\n\n$1.40 600\n\n$1.60 550\n\n$1.80 500\n\n$2.00 460\n\n$2.20 420\n\nTable 3.1 Price and Quantity Demanded of Gasoline\n\nFigure 3.2 A Demand Curve for Gasoline The demand schedule shows that as price rises, quantity demanded decreases, and vice versa. We graph these points, and the line connecting them is the demand curve (D). The downward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices and quantity demanded.\n\nDemand curves will appear somewhat different for each product. They may appear relatively steep or flat, or they may be straight or curved. Nearly all demand curves share the fundamental similarity that they slope down from left to right. Demand curves embody the law of demand: As the price increases, the quantity demanded decreases, and conversely, as the price decreases, the quantity demanded increases.\n\n[a5e56ac55b98652e] (Economics2e.pdf p.60) Figure 3.4 illustrates the interaction of demand and supply in the market for gasoline. The demand curve (D) is identical to Figure 3.2. The supply curve (S) is identical to Figure 3.3. Table 3.3 contains the same information in tabular form.\n\nFigure 3.4 Demand and Supply for Gasoline The demand curve (D) and the supply curve (S) intersect at the equilibrium point E, with a price of $1.40 and a quantity of 600. The equilibrium is the only price where quantity demanded is equal to quantity supplied. At a price above equilibrium like $1.80, quantity supplied exceeds the quantity demanded, so there is excess supply. At a price below equilibrium such as $1.20, quantity demanded exceeds quantity supplied, so there is excess demand.\n\nPrice (per\n\ngallon)\n\nQuantity demanded (millions of\n\ngallons)\n\nQuantity supplied (millions of\n\ngallons)\n\n$1.00 800 500\n\n$1.20 700 550\n\n$1.40 600 600\n\n$1.60 550 640\n\n$1.80 500 680\n\nTable 3.3 Price, Quantity Demanded, and Quantity Supplied\n\nPrice (per\n\ngallon)",
+  "latency_s": 1.9322677000018302,
+  "prompt_tokens": 1309,
+  "completion_tokens": 52,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00022754999999999997,
+  "verify_tokens": {},
+  "n_model_calls": 2
+ },
+ {
+  "query_id": "q54",
+  "split": "dev",
+  "answerable": false,
+  "question": "Theo sách, tỷ lệ lạm phát của Mỹ năm 2015 là bao nhiêu?",
+  "status": "abstain",
+  "answer": null,
+  "citations": [],
+  "error": null,
+  "abstain_reason": "The context does not provide information about the inflation rate of the US in 2015.",
+  "events": [
+   {
+    "event": "search",
+    "tool": "search",
+    "query": "inflation rate of the US in 2015",
+    "filter": null,
+    "results": [
+     [
+      "acda1c15b4a924e8",
+      103,
+      0.3896077871322632,
+      1
+     ],
+     [
+      "3687d65d898fbceb",
+      102,
+      0.36981678009033203,
+      2
+     ],
+     [
+      "9494f9f815bb9475",
+      107,
+      0.3374714255332947,
+      3
+     ]
+    ],
+    "region_siblings": [],
+    "context_ids": [
+     "acda1c15b4a924e8",
+     "3687d65d898fbceb"
+    ]
+   },
+   {
+    "event": "search_limit"
+   },
+   {
+    "event": "abstain"
+   }
+  ],
+  "context_ids": [
+   "acda1c15b4a924e8",
+   "3687d65d898fbceb"
+  ],
+  "context": "[acda1c15b4a924e8] (Economics2e.pdf p.103) Let’s consider the market for borrowing money with credit cards. In 2015, almost 200 million Americans were cardholders. Credit cards allow you to borrow money from the card's issuer, and pay back the borrowed amount plus interest, although most allow you a period of time in which you can repay the loan without paying interest. A typical credit card interest rate ranges from 12% to 18% per year. In May 2016, Americans had about $943 billion outstanding in credit card debts. About half of U.S. families with credit cards report that they almost always pay the full balance on time, but one-quarter of U.S. families with credit cards say that they “hardly ever” pay off the card in full. In fact, in 2014, 56% of consumers carried an unpaid balance in the last 12 months. Let’s say that, on average, the annual interest rate for credit card borrowing is 15% per year.\n\n[3687d65d898fbceb] (Economics2e.pdf p.102) 4.2 | Demand and Supply in Financial Markets\n\nBy the end of this section, you will be able to:\n\n• Identify the demanders and suppliers in a financial market • Explain how interest rates can affect supply and demand • Analyze the economic effects of U.S. debt in terms of domestic financial markets • Explain the role of price ceilings and usury laws in the U.S.\n\nUnited States' households, institutions, and domestic businesses saved almost $1.3 trillion in 2015. Where did that savings go and how was it used? Some of the savings ended up in banks, which in turn loaned the money to individuals or businesses that wanted to borrow money. Some was invested in private companies or loaned to\n\ngovernment agencies that wanted to borrow money to raise funds for purposes like building roads or mass transit. Some firms reinvested their savings in their own businesses.",
+  "latency_s": 2.0866286999953445,
+  "prompt_tokens": 1217,
+  "completion_tokens": 54,
+  "embedding_tokens": 0,
+  "cost_usd": 0.00021495,
+  "verify_tokens": {},
+  "n_model_calls": 2
+ }
+]

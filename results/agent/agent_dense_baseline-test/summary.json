@@ -1,0 +1,47 @@
+{
+ "config": {
+  "method": "dense",
+  "top_k": 3,
+  "max_searches": 1,
+  "budget_chars": 2400,
+  "use_filter": false,
+  "context_policy": "first"
+ },
+ "name": "agent_dense_baseline",
+ "split": "test",
+ "model": "gpt-4o-mini",
+ "n_questions": 11,
+ "status_counts": {
+  "abstain": 5,
+  "answered": 6
+ },
+ "answered_abstain_by_answerable": {
+  "answerable": {
+   "abstain": 2,
+   "answered": 6
+  },
+  "unanswerable": {
+   "abstain": 3
+  }
+ },
+ "tool_use": {
+  "n": 10,
+  "N": 11,
+  "rate": 0.9090909090909091
+ },
+ "searches_distribution": {
+  "0": 1,
+  "1": 10
+ },
+ "context_evidence_rate": {
+  "n": 6,
+  "N": 8,
+  "rate": 0.75
+ },
+ "total_latency_s": 32.93176219999441,
+ "mean_latency_s": 2.9937965636358554,
+ "prompt_tokens": 12536,
+ "completion_tokens": 1112,
+ "embedding_tokens": 84,
+ "cost_usd": 0.00254928
+}

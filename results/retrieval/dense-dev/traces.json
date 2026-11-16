@@ -1,0 +1,3442 @@
+[
+  {
+    "id": "q01",
+    "query": "What is consumer surplus?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "3fa35f7966b72e0c",
+        "page": 81,
+        "score": 0.6246864199638367,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "86dcbdc67ba5375c",
+        "page": 81,
+        "score": 0.6211541891098022,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "9f5d1e3977a93571",
+        "page": 82,
+        "score": 0.5991032123565674,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "928e7aa33c060226",
+        "page": 82,
+        "score": 0.5269219875335693,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "526cfc4ba8990763",
+        "page": 82,
+        "score": 0.5225984454154968,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "cfde7570a6061da2",
+        "page": 82,
+        "score": 0.511491060256958,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.5019503831863403,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "036a1398cc39befe",
+        "page": 81,
+        "score": 0.46714818477630615,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "cb0d06138c34a4eb",
+        "page": 83,
+        "score": 0.44999372959136963,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "131c052de3fb955c",
+        "page": 128,
+        "score": 0.4238296151161194,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.06720999997924082
+  },
+  {
+    "id": "q02",
+    "query": "What does the Latin phrase ceteris paribus mean in economics?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "ac8aecd5ff1639ee",
+        "page": 63,
+        "score": 0.6339307427406311,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "a253db52f5cdbdad",
+        "page": 62,
+        "score": 0.5469485521316528,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "e0836c7003dfaaa7",
+        "page": 63,
+        "score": 0.5454745292663574,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "1f742e72ea979f7e",
+        "page": 62,
+        "score": 0.49867409467697144,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "1e56942e8ad04b79",
+        "page": 74,
+        "score": 0.4749448895454407,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "582482f9f2ad9659",
+        "page": 133,
+        "score": 0.38251644372940063,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a7c7ea42f778b239",
+        "page": 125,
+        "score": 0.37569111585617065,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "823f5692b59e9e8d",
+        "page": 133,
+        "score": 0.375016450881958,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "1da087922f6060a0",
+        "page": 63,
+        "score": 0.3736807107925415,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "95c46a128d737c8b",
+        "page": 119,
+        "score": 0.37195539474487305,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 4,
+    "latency_s": 0.0018443000153638422
+  },
+  {
+    "id": "q03",
+    "query": "What happens in a goods market when the price is set below the equilibrium level?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "8b5a19d198453ae1",
+        "page": 61,
+        "score": 0.577061653137207,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "54ba95d9b292c073",
+        "page": 80,
+        "score": 0.5322256088256836,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.5317845940589905,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "03747faefad2760d",
+        "page": 61,
+        "score": 0.5306974649429321,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "14bb2d674873f3d1",
+        "page": 61,
+        "score": 0.528740644454956,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "f18339b636348172",
+        "page": 75,
+        "score": 0.515230119228363,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.5148541927337646,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.5065741539001465,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "a21749fe02c1f2da",
+        "page": 76,
+        "score": 0.49785178899765015,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "c8cd071394b65b89",
+        "page": 132,
+        "score": 0.4921613931655884,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0015999000170268118
+  },
+  {
+    "id": "q04",
+    "query": "What is a price ceiling?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.6614890098571777,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "d60d32cb8b8d5be7",
+        "page": 78,
+        "score": 0.6497594714164734,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.6014054417610168,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "6aab0d72291cccfc",
+        "page": 79,
+        "score": 0.5451874732971191,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "4bf2d2c48bf53cbc",
+        "page": 107,
+        "score": 0.5349776148796082,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "526cfc4ba8990763",
+        "page": 82,
+        "score": 0.5195959806442261,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "80e47e85ee7771c2",
+        "page": 79,
+        "score": 0.5158762335777283,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.497242271900177,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.4833916425704956,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "1360b6c2de1dd0d9",
+        "page": 108,
+        "score": 0.4833301305770874,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.001510200003394857
+  },
+  {
+    "id": "q05",
+    "query": "What was the U.S. federal minimum wage in 2016?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 0.5255822539329529,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 0.522834300994873,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 0.4877437353134155,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "61dd76ef29c8941b",
+        "page": 80,
+        "score": 0.4689735174179077,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "a8eac835673bdf2f",
+        "page": 100,
+        "score": 0.3879580497741699,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "c223d039a301ea36",
+        "page": 100,
+        "score": 0.37924253940582275,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a5ec39ccd55ca056",
+        "page": 102,
+        "score": 0.3645772933959961,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.3487078547477722,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "68e18f951c6016b3",
+        "page": 99,
+        "score": 0.34757137298583984,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a08c582cf629fd19",
+        "page": 102,
+        "score": 0.3473684787750244,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 4,
+    "latency_s": 0.0014671000244561583
+  },
+  {
+    "id": "q06",
+    "query": "What is the name for the reduction in total surplus when an economy produces an inefficient amount?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "cfde7570a6061da2",
+        "page": 82,
+        "score": 0.7061620950698853,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "9f5d1e3977a93571",
+        "page": 82,
+        "score": 0.5994425415992737,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "036a1398cc39befe",
+        "page": 81,
+        "score": 0.5348928570747375,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.44776487350463867,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "86dcbdc67ba5375c",
+        "page": 81,
+        "score": 0.44619208574295044,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "03747faefad2760d",
+        "page": 61,
+        "score": 0.4414629340171814,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "526cfc4ba8990763",
+        "page": 82,
+        "score": 0.43546062707901,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.4346945285797119,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.4210745692253113,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "14bb2d674873f3d1",
+        "page": 61,
+        "score": 0.4202272891998291,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.001448099996196106
+  },
+  {
+    "id": "q07",
+    "query": "When does a government subsidy occur?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "976ba0f4687a17ee",
+        "page": 69,
+        "score": 0.625766932964325,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "6409402254231c50",
+        "page": 80,
+        "score": 0.4748663306236267,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "730b296f20b3a81b",
+        "page": 98,
+        "score": 0.44592851400375366,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "54ba95d9b292c073",
+        "page": 80,
+        "score": 0.4350847005844116,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "40e4a47f8a803116",
+        "page": 80,
+        "score": 0.42467403411865234,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "88855035bee8e186",
+        "page": 131,
+        "score": 0.39794838428497314,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "e080cf48eddd78b7",
+        "page": 69,
+        "score": 0.39484453201293945,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.37737756967544556,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.3738971948623657,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "cfde7570a6061da2",
+        "page": 82,
+        "score": 0.3716561198234558,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.001355100015643984
+  },
+  {
+    "id": "q08",
+    "query": "Why do economists say that hiring workers is a derived demand?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "71c0a86944fbf8fa",
+        "page": 96,
+        "score": 0.6553077101707458,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "7f1a42008f0fbbd6",
+        "page": 96,
+        "score": 0.5377798080444336,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "b68c5bf8d01e9dba",
+        "page": 96,
+        "score": 0.5211079716682434,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "614fc316377e6a5e",
+        "page": 97,
+        "score": 0.5199349522590637,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "fd9a8fbf09fe5234",
+        "page": 57,
+        "score": 0.5192396640777588,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "57a0419bc683a2c8",
+        "page": 98,
+        "score": 0.4851949214935303,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.4845139980316162,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "e2ca58126d46fc66",
+        "page": 94,
+        "score": 0.46923160552978516,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "38eaf7f5c84855a9",
+        "page": 97,
+        "score": 0.46226072311401367,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a5a5f8c501acd68f",
+        "page": 98,
+        "score": 0.4565666913986206,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013431999832391739
+  },
+  {
+    "id": "q09",
+    "query": "In the Minneapolis-St. Paul-Bloomington nursing example, what are the equilibrium salary and quantity of nurses?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "856c6941ac83977e",
+        "page": 95,
+        "score": 0.8203110694885254,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "4fcd36d8a32970f5",
+        "page": 96,
+        "score": 0.8027682900428772,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "fc76fd80de2baa58",
+        "page": 94,
+        "score": 0.7920891642570496,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 0.7865082621574402,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "4920324692d7ee19",
+        "page": 95,
+        "score": 0.7845800518989563,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "4419becc05a2662a",
+        "page": 95,
+        "score": 0.7405413389205933,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "7f0205ffbc40e2da",
+        "page": 96,
+        "score": 0.6602619886398315,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7b33302032920c54",
+        "page": 111,
+        "score": 0.5764032602310181,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 0.569692850112915,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "5f311ad36d9b19c4",
+        "page": 112,
+        "score": 0.5215327739715576,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013032999995630234
+  },
+  {
+    "id": "q10",
+    "query": "Why are price ceilings rare in labor markets?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.7770892381668091,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.5656097531318665,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.5469198226928711,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "6aab0d72291cccfc",
+        "page": 79,
+        "score": 0.5269905924797058,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "d60d32cb8b8d5be7",
+        "page": 78,
+        "score": 0.5105229616165161,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "fcfcc4a0ea8cc08b",
+        "page": 77,
+        "score": 0.49773895740509033,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "80e47e85ee7771c2",
+        "page": 79,
+        "score": 0.49745941162109375,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "a19f513dc02954c7",
+        "page": 100,
+        "score": 0.4888918399810791,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 0.47554731369018555,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "57a0419bc683a2c8",
+        "page": 98,
+        "score": 0.475228488445282,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0017546999733895063
+  },
+  {
+    "id": "q11",
+    "query": "What do usury laws do?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "1360b6c2de1dd0d9",
+        "page": 108,
+        "score": 0.6367839574813843,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "9494f9f815bb9475",
+        "page": 107,
+        "score": 0.4151516556739807,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "70c40bdf7b14423a",
+        "page": 107,
+        "score": 0.4006184935569763,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "3687d65d898fbceb",
+        "page": 102,
+        "score": 0.3932514190673828,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "317e98b7925d3c73",
+        "page": 104,
+        "score": 0.3526046872138977,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "07eef6b9b4aa4062",
+        "page": 105,
+        "score": 0.34975308179855347,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "29de63e8d2547cb0",
+        "page": 103,
+        "score": 0.3445742726325989,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "c1ad5f8694144e43",
+        "page": 105,
+        "score": 0.3209267854690552,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "acda1c15b4a924e8",
+        "page": 103,
+        "score": 0.3131323456764221,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "d60d32cb8b8d5be7",
+        "page": 78,
+        "score": 0.3113335967063904,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.001495700009400025
+  },
+  {
+    "id": "q12",
+    "query": "How is the price elasticity of demand calculated?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "4e300708fc49eef7",
+        "page": 120,
+        "score": 0.7270638346672058,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "da52673117baefe7",
+        "page": 120,
+        "score": 0.6861083507537842,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 0.6375477313995361,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "a69e1014ce0364f2",
+        "page": 119,
+        "score": 0.6256862878799438,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "c7da0d5fd8ec319d",
+        "page": 122,
+        "score": 0.623206615447998,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 0.6157649159431458,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "262eb8334e00494a",
+        "page": 124,
+        "score": 0.6060619354248047,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7cc539e31b9df4c7",
+        "page": 120,
+        "score": 0.6054778695106506,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "d2253e172ac3a7e8",
+        "page": 118,
+        "score": 0.5989497900009155,
+        "rank": 9,
+        "hit": true
+      },
+      {
+        "id": "7ea85c078ae4629d",
+        "page": 124,
+        "score": 0.5976444482803345,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 9,
+    "latency_s": 0.001350899983663112
+  },
+  {
+    "id": "q13",
+    "query": "What term describes how the burden of a tax is split between buyers and sellers?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a354ba23a530b241",
+        "page": 131,
+        "score": 0.590081512928009,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "65b136eb37318c40",
+        "page": 130,
+        "score": 0.5622400641441345,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "88855035bee8e186",
+        "page": 131,
+        "score": 0.5290291905403137,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "0bb3688945997985",
+        "page": 130,
+        "score": 0.4993222951889038,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "8bdba05cac05146f",
+        "page": 131,
+        "score": 0.48526322841644287,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "049037641c239b2f",
+        "page": 130,
+        "score": 0.47022902965545654,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "42f35240a7c427d1",
+        "page": 131,
+        "score": 0.4132659435272217,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "629f97634d13caf4",
+        "page": 130,
+        "score": 0.39341843128204346,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "976ba0f4687a17ee",
+        "page": 69,
+        "score": 0.37570738792419434,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "7d88f46dcdd7d30d",
+        "page": 118,
+        "score": 0.3753047585487366,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.0014121000131126493
+  },
+  {
+    "id": "q14",
+    "query": "What plays the role of the price in this market?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "35f430f4d6692d65",
+        "page": 108,
+        "score": 0.5573320388793945,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "fa296aa01e369ce3",
+        "page": 110,
+        "score": 0.5451472997665405,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "243d9c79f43d75e2",
+        "page": 83,
+        "score": 0.4709491729736328,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "fcfcc4a0ea8cc08b",
+        "page": 77,
+        "score": 0.46643567085266113,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "9f531106007bcdca",
+        "page": 83,
+        "score": 0.4660950303077698,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "cb54b3dcce4a6748",
+        "page": 108,
+        "score": 0.46541404724121094,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "2c4827c878995589",
+        "page": 78,
+        "score": 0.46540945768356323,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "370ee66be3086a7b",
+        "page": 132,
+        "score": 0.45538806915283203,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "cab43d2ce9c28753",
+        "page": 58,
+        "score": 0.44853293895721436,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "ebc88b742331e7ce",
+        "page": 107,
+        "score": 0.4465063810348511,
+        "rank": 10,
+        "hit": true
+      }
+    ],
+    "hit_rank": 10,
+    "latency_s": 0.0015636000025551766
+  },
+  {
+    "id": "q15",
+    "query": "Give an example of a price ceiling.",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.6343281269073486,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.632422149181366,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "d60d32cb8b8d5be7",
+        "page": 78,
+        "score": 0.6209937930107117,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "6aab0d72291cccfc",
+        "page": 79,
+        "score": 0.5659865140914917,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "80e47e85ee7771c2",
+        "page": 79,
+        "score": 0.5598416328430176,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "4bf2d2c48bf53cbc",
+        "page": 107,
+        "score": 0.5528096556663513,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "1360b6c2de1dd0d9",
+        "page": 108,
+        "score": 0.5351218581199646,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.5136648416519165,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.4968400001525879,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "60839800a87a7ae9",
+        "page": 78,
+        "score": 0.4857608675956726,
+        "rank": 10,
+        "hit": true
+      }
+    ],
+    "hit_rank": 10,
+    "latency_s": 0.0014306000084616244
+  },
+  {
+    "id": "t16",
+    "query": "What is the cross-price elasticity of demand?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "823f5692b59e9e8d",
+        "page": 133,
+        "score": 0.7307396531105042,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "582482f9f2ad9659",
+        "page": 133,
+        "score": 0.6733530759811401,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4e300708fc49eef7",
+        "page": 120,
+        "score": 0.6153111457824707,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "da52673117baefe7",
+        "page": 120,
+        "score": 0.6055311560630798,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "c7da0d5fd8ec319d",
+        "page": 122,
+        "score": 0.5998780727386475,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 0.5863763093948364,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "7cc539e31b9df4c7",
+        "page": 120,
+        "score": 0.5716698169708252,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "262eb8334e00494a",
+        "page": 124,
+        "score": 0.5681821703910828,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "2de0ed2208b3bc26",
+        "page": 123,
+        "score": 0.5612325072288513,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 0.5611839294433594,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.003210199996829033
+  },
+  {
+    "id": "t17",
+    "query": "According to typical studies, how much does a 10% rise in the minimum wage reduce hiring of unskilled workers?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "9fb40d3f1244390e",
+        "page": 102,
+        "score": 0.680851936340332,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "296fa6a889358624",
+        "page": 101,
+        "score": 0.6487372517585754,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "a08c582cf629fd19",
+        "page": 102,
+        "score": 0.6039083003997803,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 0.5712563991546631,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "a5ec39ccd55ca056",
+        "page": 102,
+        "score": 0.557162880897522,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "68e18f951c6016b3",
+        "page": 99,
+        "score": 0.47536420822143555,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 0.4588662385940552,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.45594316720962524,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "a8eac835673bdf2f",
+        "page": 100,
+        "score": 0.44822531938552856,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a19f513dc02954c7",
+        "page": 100,
+        "score": 0.44083428382873535,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.0020718000014312565
+  },
+  {
+    "id": "t18",
+    "query": "Describe a law that caps a price below its market equilibrium.",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.5746901631355286,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "2c4827c878995589",
+        "page": 78,
+        "score": 0.5615211725234985,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "6aab0d72291cccfc",
+        "page": 79,
+        "score": 0.5376498699188232,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "d60d32cb8b8d5be7",
+        "page": 78,
+        "score": 0.5376203060150146,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.5249507427215576,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "fcfcc4a0ea8cc08b",
+        "page": 77,
+        "score": 0.5155158042907715,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.5127619504928589,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "fa296aa01e369ce3",
+        "page": 110,
+        "score": 0.5033033490180969,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "54ba95d9b292c073",
+        "page": 80,
+        "score": 0.4956984519958496,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "80e47e85ee7771c2",
+        "page": 79,
+        "score": 0.49236297607421875,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0014565000019501895
+  },
+  {
+    "id": "t19",
+    "query": "What kind of good do people buy more of as their income goes up?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "95d7395a87eb0b91",
+        "page": 64,
+        "score": 0.6914144158363342,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "5ee0f0069452f647",
+        "page": 133,
+        "score": 0.5922967195510864,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "95f36064b01409e2",
+        "page": 133,
+        "score": 0.5279027223587036,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "a495dec9c253703e",
+        "page": 65,
+        "score": 0.4853241443634033,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "a45c77421ac57c2f",
+        "page": 64,
+        "score": 0.47906291484832764,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "e0836c7003dfaaa7",
+        "page": 63,
+        "score": 0.4781431555747986,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "d0b8ddfb165f1294",
+        "page": 65,
+        "score": 0.4729255437850952,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "0f60686cf0f2b630",
+        "page": 63,
+        "score": 0.45890480279922485,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9721e75d05e44e97",
+        "page": 65,
+        "score": 0.45572590827941895,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "342e070e23f1e8e6",
+        "page": 84,
+        "score": 0.4487549066543579,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013146999990567565
+  },
+  {
+    "id": "t20",
+    "query": "How much did Netflix raise its streaming subscription price for new U.S. customers in 2014?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "4f9c26e2102b55dc",
+        "page": 135,
+        "score": 0.7063137292861938,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "8edf561f44839cc4",
+        "page": 117,
+        "score": 0.6576098203659058,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "94fced4c0aa89e23",
+        "page": 135,
+        "score": 0.6168419122695923,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "d96563564869eb5b",
+        "page": 117,
+        "score": 0.6135864853858948,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "8ff388b8c257cf57",
+        "page": 135,
+        "score": 0.4711291790008545,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "a9afe451ceb0af4e",
+        "page": 136,
+        "score": 0.4059230089187622,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 0.4044240117073059,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "bea8b48c50a2dfab",
+        "page": 126,
+        "score": 0.38465797901153564,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "8011a4613ad9cc17",
+        "page": 70,
+        "score": 0.30946624279022217,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "ea19b5ef5acd3f27",
+        "page": 75,
+        "score": 0.2999969720840454,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.00144160000490956
+  },
+  {
+    "id": "q21",
+    "query": "Độ co giãn của cung theo giá được tính như thế nào?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "6c30dee429f94fee",
+        "page": 57,
+        "score": 0.28538691997528076,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 0.2851935625076294,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "8b894f6571d5f9e2",
+        "page": 69,
+        "score": 0.28376317024230957,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "1e07e304a60def2b",
+        "page": 61,
+        "score": 0.2730064392089844,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7aa88a7575dd5e82",
+        "page": 57,
+        "score": 0.2674914598464966,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "14bb2d674873f3d1",
+        "page": 61,
+        "score": 0.2665531039237976,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "8011a4613ad9cc17",
+        "page": 70,
+        "score": 0.2625340223312378,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "a7c7ea42f778b239",
+        "page": 125,
+        "score": 0.2615395784378052,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "57b4761feb5ba168",
+        "page": 118,
+        "score": 0.26026594638824463,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "80bea9441d389927",
+        "page": 109,
+        "score": 0.25796282291412354,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.001562100020237267
+  },
+  {
+    "id": "q22",
+    "query": "What is producer surplus?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "86dcbdc67ba5375c",
+        "page": 81,
+        "score": 0.6742783784866333,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "9f5d1e3977a93571",
+        "page": 82,
+        "score": 0.6662410497665405,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "928e7aa33c060226",
+        "page": 82,
+        "score": 0.6346654891967773,
+        "rank": 3,
+        "hit": true
+      },
+      {
+        "id": "526cfc4ba8990763",
+        "page": 82,
+        "score": 0.5969489216804504,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "4ef1944a6469ff1f",
+        "page": 83,
+        "score": 0.5431801080703735,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "cfde7570a6061da2",
+        "page": 82,
+        "score": 0.5339653491973877,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "3fa35f7966b72e0c",
+        "page": 81,
+        "score": 0.5185473561286926,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.498926043510437,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "cb0d06138c34a4eb",
+        "page": 83,
+        "score": 0.47438251972198486,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "03747faefad2760d",
+        "page": 61,
+        "score": 0.4452590346336365,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 3,
+    "latency_s": 0.0013679999974556267
+  },
+  {
+    "id": "t23",
+    "query": "In the nurse labor market example, how many nurses are supplied and demanded at a salary of $75,000?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "856c6941ac83977e",
+        "page": 95,
+        "score": 0.735816240310669,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "4fcd36d8a32970f5",
+        "page": 96,
+        "score": 0.6910579800605774,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4920324692d7ee19",
+        "page": 95,
+        "score": 0.6825669407844543,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 0.6740744113922119,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7f0205ffbc40e2da",
+        "page": 96,
+        "score": 0.627565324306488,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 0.6170992851257324,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "fc76fd80de2baa58",
+        "page": 94,
+        "score": 0.5863462090492249,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7b33302032920c54",
+        "page": 111,
+        "score": 0.5851059556007385,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "2224fd88af9a7346",
+        "page": 93,
+        "score": 0.5545037388801575,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "5f311ad36d9b19c4",
+        "page": 112,
+        "score": 0.5431227087974548,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013376999995671213
+  },
+  {
+    "id": "q24",
+    "query": "What are the equilibrium interest rate and quantity in the credit card borrowing example?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "ffee14518708f7bb",
+        "page": 104,
+        "score": 0.7366875410079956,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "07eef6b9b4aa4062",
+        "page": 105,
+        "score": 0.7151790261268616,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "317e98b7925d3c73",
+        "page": 104,
+        "score": 0.7018731832504272,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "9feb6f9aec75b9a1",
+        "page": 104,
+        "score": 0.6589943170547485,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "ebc88b742331e7ce",
+        "page": 107,
+        "score": 0.6353278160095215,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "29de63e8d2547cb0",
+        "page": 103,
+        "score": 0.630034327507019,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4bf2d2c48bf53cbc",
+        "page": 107,
+        "score": 0.5902723073959351,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "acda1c15b4a924e8",
+        "page": 103,
+        "score": 0.5667006373405457,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "d9d0852490bfe3b3",
+        "page": 107,
+        "score": 0.5141025185585022,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "70c40bdf7b14423a",
+        "page": 107,
+        "score": 0.5002453923225403,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013243999856058508
+  },
+  {
+    "id": "t25",
+    "query": "Do state usury laws usually hold interest rates below the market rate?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "1360b6c2de1dd0d9",
+        "page": 108,
+        "score": 0.7564185857772827,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "07eef6b9b4aa4062",
+        "page": 105,
+        "score": 0.46938639879226685,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "70c40bdf7b14423a",
+        "page": 107,
+        "score": 0.43882960081100464,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "acda1c15b4a924e8",
+        "page": 103,
+        "score": 0.4247169494628906,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "3687d65d898fbceb",
+        "page": 102,
+        "score": 0.41673779487609863,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9494f9f815bb9475",
+        "page": 107,
+        "score": 0.4071919918060303,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "ebc88b742331e7ce",
+        "page": 107,
+        "score": 0.39682942628860474,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "317e98b7925d3c73",
+        "page": 104,
+        "score": 0.3930884599685669,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "29de63e8d2547cb0",
+        "page": 103,
+        "score": 0.3912442922592163,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.37790119647979736,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.001330800005234778
+  },
+  {
+    "id": "q26",
+    "query": "Is the slope of a demand curve the same as its elasticity?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "c7da0d5fd8ec319d",
+        "page": 122,
+        "score": 0.7692244052886963,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "7ea85c078ae4629d",
+        "page": 124,
+        "score": 0.6546549201011658,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "0e1933d1986eb6e1",
+        "page": 122,
+        "score": 0.6536439061164856,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "74024909efd3b02c",
+        "page": 124,
+        "score": 0.6233391761779785,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "2de0ed2208b3bc26",
+        "page": 123,
+        "score": 0.6091010570526123,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "262eb8334e00494a",
+        "page": 124,
+        "score": 0.5961304903030396,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "737fa0e2cb7a3e5c",
+        "page": 123,
+        "score": 0.592333197593689,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "da52673117baefe7",
+        "page": 120,
+        "score": 0.5818885564804077,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "d532798f6979a20a",
+        "page": 124,
+        "score": 0.572349488735199,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "7cc539e31b9df4c7",
+        "page": 120,
+        "score": 0.5678589940071106,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0014608000055886805
+  },
+  {
+    "id": "q27",
+    "query": "Under the rent control example, are more or fewer apartments rented than at the market rent?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "6aab0d72291cccfc",
+        "page": 79,
+        "score": 0.6237676739692688,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "c9de23f76e286b2c",
+        "page": 78,
+        "score": 0.5941889882087708,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "80e47e85ee7771c2",
+        "page": 79,
+        "score": 0.5772011876106262,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "4b265031ca69b777",
+        "page": 79,
+        "score": 0.5709162950515747,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "60839800a87a7ae9",
+        "page": 78,
+        "score": 0.5267549157142639,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9fff061abc2a017d",
+        "page": 121,
+        "score": 0.470025897026062,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.41226428747177124,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "fcfcc4a0ea8cc08b",
+        "page": 77,
+        "score": 0.3740881681442261,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "370ee66be3086a7b",
+        "page": 132,
+        "score": 0.3711979389190674,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a19f513dc02954c7",
+        "page": 100,
+        "score": 0.3696507215499878,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0012944999907631427
+  },
+  {
+    "id": "q28",
+    "query": "My boss is not allowed to pay me less than a certain amount per hour. What is that rule called?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 0.44333040714263916,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "a47641718d93b090",
+        "page": 100,
+        "score": 0.42898058891296387,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "a19f513dc02954c7",
+        "page": 100,
+        "score": 0.39656996726989746,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "a8eac835673bdf2f",
+        "page": 100,
+        "score": 0.39282041788101196,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 0.37880492210388184,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9fb40d3f1244390e",
+        "page": 102,
+        "score": 0.37821149826049805,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "61dd76ef29c8941b",
+        "page": 80,
+        "score": 0.36012715101242065,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 0.3530614972114563,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "1360b6c2de1dd0d9",
+        "page": 108,
+        "score": 0.3527653217315674,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "296fa6a889358624",
+        "page": 101,
+        "score": 0.33379441499710083,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0012316000065766275
+  },
+  {
+    "id": "q29",
+    "query": "What is shown on the vertical axis, and why?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "573c9f50b6088251",
+        "page": 109,
+        "score": 0.37113016843795776,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "80bea9441d389927",
+        "page": 109,
+        "score": 0.3605390191078186,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "a253db52f5cdbdad",
+        "page": 62,
+        "score": 0.3439474105834961,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "5e1ca152ba5f2a32",
+        "page": 57,
+        "score": 0.3431283235549927,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "1f742e72ea979f7e",
+        "page": 62,
+        "score": 0.3139374256134033,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "c41a5ddc4b4fd1f5",
+        "page": 71,
+        "score": 0.30038952827453613,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a21749fe02c1f2da",
+        "page": 76,
+        "score": 0.2995927929878235,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7ea85c078ae4629d",
+        "page": 124,
+        "score": 0.29583048820495605,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "35f430f4d6692d65",
+        "page": 108,
+        "score": 0.29135704040527344,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "b3aeecc03b2a4f52",
+        "page": 59,
+        "score": 0.2913079857826233,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0013249999901745468
+  },
+  {
+    "id": "t30",
+    "query": "How can you tell a good is inferior?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "95f36064b01409e2",
+        "page": 133,
+        "score": 0.31243896484375,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "4ca3f4da9dd7e618",
+        "page": 65,
+        "score": 0.2731589078903198,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "95d7395a87eb0b91",
+        "page": 64,
+        "score": 0.2698966860771179,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "5ee0f0069452f647",
+        "page": 133,
+        "score": 0.26322799921035767,
+        "rank": 4,
+        "hit": true
+      },
+      {
+        "id": "ebb1b123b0c47da4",
+        "page": 77,
+        "score": 0.2616322636604309,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "a495dec9c253703e",
+        "page": 65,
+        "score": 0.24586820602416992,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.2420673370361328,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "4b265031ca69b777",
+        "page": 79,
+        "score": 0.23156166076660156,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "cfde7570a6061da2",
+        "page": 82,
+        "score": 0.2293916940689087,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "213b639946ffe4f2",
+        "page": 105,
+        "score": 0.2267080545425415,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 4,
+    "latency_s": 0.0017465999990236014
+  },
+  {
+    "id": "q31",
+    "query": "If demand for concert tickets is elastic at the current price, should the band raise or cut the price to earn more revenue?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "66d21e7e426c44f0",
+        "page": 127,
+        "score": 0.7609818577766418,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "0df95ac62662c2ca",
+        "page": 127,
+        "score": 0.727550208568573,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "bcbd8d006bf122cb",
+        "page": 127,
+        "score": 0.6863371133804321,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "8700b9e48bf548c9",
+        "page": 127,
+        "score": 0.6815767884254456,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "d9a841dcea76bb2a",
+        "page": 128,
+        "score": 0.6215681433677673,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "bea8b48c50a2dfab",
+        "page": 126,
+        "score": 0.50923091173172,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a69e1014ce0364f2",
+        "page": 119,
+        "score": 0.4910256862640381,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "219bfb8438074ed4",
+        "page": 125,
+        "score": 0.4741631746292114,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "5b838c2f48a7f5da",
+        "page": 129,
+        "score": 0.4668434262275696,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a71e8799761eb4fe",
+        "page": 109,
+        "score": 0.44469594955444336,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.0016137999773491174
+  },
+  {
+    "id": "t32",
+    "query": "Who bears most of a tax when demand is more inelastic than supply?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "65b136eb37318c40",
+        "page": 130,
+        "score": 0.6507740020751953,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "0bb3688945997985",
+        "page": 130,
+        "score": 0.6478233337402344,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "88855035bee8e186",
+        "page": 131,
+        "score": 0.6111221313476562,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "629f97634d13caf4",
+        "page": 130,
+        "score": 0.6095118522644043,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "049037641c239b2f",
+        "page": 130,
+        "score": 0.6037575006484985,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "8bdba05cac05146f",
+        "page": 131,
+        "score": 0.5958242416381836,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "42f35240a7c427d1",
+        "page": 131,
+        "score": 0.5946428775787354,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "a354ba23a530b241",
+        "page": 131,
+        "score": 0.5904531478881836,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "5b838c2f48a7f5da",
+        "page": 129,
+        "score": 0.5620728731155396,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "219bfb8438074ed4",
+        "page": 125,
+        "score": 0.5164374113082886,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.001441900007193908
+  },
+  {
+    "id": "q33",
+    "query": "How responsive are teenagers' working hours to changes in wages?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "295f2881ec681b3f",
+        "page": 134,
+        "score": 0.5895833969116211,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "3091517e791c2508",
+        "page": 99,
+        "score": 0.43364834785461426,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "a5ec39ccd55ca056",
+        "page": 102,
+        "score": 0.4307834506034851,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "68e18f951c6016b3",
+        "page": 99,
+        "score": 0.4166821241378784,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "9fb40d3f1244390e",
+        "page": 102,
+        "score": 0.40720832347869873,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "a19f513dc02954c7",
+        "page": 100,
+        "score": 0.3956620693206787,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "a08c582cf629fd19",
+        "page": 102,
+        "score": 0.3866705298423767,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "57a0419bc683a2c8",
+        "page": 98,
+        "score": 0.38650190830230713,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "0a4aa3fce9f99743",
+        "page": 97,
+        "score": 0.37229663133621216,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 0.36752456426620483,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013226000010035932
+  },
+  {
+    "id": "t34",
+    "query": "Khi giá của một hàng hóa thay đổi, đường cầu hoặc đường cung của chính hàng hóa đó có dịch chuyển không?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "e4f9ad4fba3daa26",
+        "page": 67,
+        "score": 0.33567559719085693,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "a1d334e0c6181087",
+        "page": 77,
+        "score": 0.3354370594024658,
+        "rank": 2,
+        "hit": true
+      },
+      {
+        "id": "a21749fe02c1f2da",
+        "page": 76,
+        "score": 0.32410138845443726,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "bef67d8f546e0125",
+        "page": 76,
+        "score": 0.32286083698272705,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "ccb8799878aa5cff",
+        "page": 64,
+        "score": 0.31984031200408936,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "9f531106007bcdca",
+        "page": 83,
+        "score": 0.3177909851074219,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "2de0ed2208b3bc26",
+        "page": 123,
+        "score": 0.3154789209365845,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "8962f52cf113d11c",
+        "page": 128,
+        "score": 0.31531018018722534,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "08f91d1e825c884d",
+        "page": 76,
+        "score": 0.31174272298812866,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "8bf60e8714b38134",
+        "page": 71,
+        "score": 0.30984872579574585,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 2,
+    "latency_s": 0.0016898000030778348
+  },
+  {
+    "id": "q35",
+    "query": "When both supply and demand shift at the same time, can we usually predict the change in both equilibrium price and quantity?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "d9727b2360e859db",
+        "page": 109,
+        "score": 0.6620074510574341,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "c8cd071394b65b89",
+        "page": 132,
+        "score": 0.654330849647522,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "f18339b636348172",
+        "page": 75,
+        "score": 0.6387976408004761,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "1b9d19f225a98da7",
+        "page": 72,
+        "score": 0.6134653091430664,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "a21749fe02c1f2da",
+        "page": 76,
+        "score": 0.6064951419830322,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "721e9dd27aa5741a",
+        "page": 67,
+        "score": 0.6057581305503845,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "aef923217bdadf63",
+        "page": 77,
+        "score": 0.600566565990448,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "bef67d8f546e0125",
+        "page": 76,
+        "score": 0.5885905027389526,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "370ee66be3086a7b",
+        "page": 132,
+        "score": 0.5783807039260864,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "fde9249cab3c2a3a",
+        "page": 71,
+        "score": 0.5761701464653015,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0014768000110052526
+  },
+  {
+    "id": "q36",
+    "query": "What does it mean when the minimum wage is nonbinding?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "296fa6a889358624",
+        "page": 101,
+        "score": 0.5662854909896851,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 0.5297300815582275,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 0.5048843622207642,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "0bc350ab0f4abbe8",
+        "page": 102,
+        "score": 0.47878801822662354,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 0.47429704666137695,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "de003093ef3cdecb",
+        "page": 102,
+        "score": 0.44461870193481445,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "9fb40d3f1244390e",
+        "page": 102,
+        "score": 0.440032958984375,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "61dd76ef29c8941b",
+        "page": 80,
+        "score": 0.42172324657440186,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "a8eac835673bdf2f",
+        "page": 100,
+        "score": 0.4147756099700928,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "a08c582cf629fd19",
+        "page": 102,
+        "score": 0.40471166372299194,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0012980999890714884
+  },
+  {
+    "id": "q37",
+    "query": "What happened during China's Great Leap Forward when food prices were kept artificially low?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "430286eec90ecd84",
+        "page": 110,
+        "score": 0.6545969247817993,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "de91a5b46659fe40",
+        "page": 69,
+        "score": 0.4562196731567383,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "1a9f7c2bec9b6e4c",
+        "page": 69,
+        "score": 0.4087250828742981,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "54ba95d9b292c073",
+        "page": 80,
+        "score": 0.3951094150543213,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "6409402254231c50",
+        "page": 80,
+        "score": 0.3675445318222046,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "c4009a87d36d1818",
+        "page": 83,
+        "score": 0.3635692596435547,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "595e13a0a61ee8ea",
+        "page": 79,
+        "score": 0.36168134212493896,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "d33a7303a9fbc269",
+        "page": 84,
+        "score": 0.3516031503677368,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4d58ec2f0ba304f9",
+        "page": 83,
+        "score": 0.3387150764465332,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "28ce9fd7bd7e9f83",
+        "page": 132,
+        "score": 0.336395800113678,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013901999918743968
+  },
+  {
+    "id": "q38",
+    "query": "Độ co giãn của cầu cà phê khoảng bao nhiêu?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "02420699a0cf7449",
+        "page": 129,
+        "score": 0.28571057319641113,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "c4fc93489e95d2a3",
+        "page": 129,
+        "score": 0.2839164137840271,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "423e2a8ff9504adf",
+        "page": 129,
+        "score": 0.21898508071899414,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "9f531106007bcdca",
+        "page": 83,
+        "score": 0.20767676830291748,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "8962f52cf113d11c",
+        "page": 128,
+        "score": 0.17670786380767822,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "6c30dee429f94fee",
+        "page": 57,
+        "score": 0.16929936408996582,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "e4f9ad4fba3daa26",
+        "page": 67,
+        "score": 0.15434694290161133,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "86dcbdc67ba5375c",
+        "page": 81,
+        "score": 0.15386325120925903,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 0.15376490354537964,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "6105a5f83430ecf2",
+        "page": 67,
+        "score": 0.14250314235687256,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0014617999840993434
+  },
+  {
+    "id": "t39",
+    "query": "What factors can increase the number of workers available?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "a5a5f8c501acd68f",
+        "page": 98,
+        "score": 0.6575537919998169,
+        "rank": 1,
+        "hit": true
+      },
+      {
+        "id": "0a4aa3fce9f99743",
+        "page": 97,
+        "score": 0.5981372594833374,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "730b296f20b3a81b",
+        "page": 98,
+        "score": 0.5797508955001831,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "7f1a42008f0fbbd6",
+        "page": 96,
+        "score": 0.5619605779647827,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "57a0419bc683a2c8",
+        "page": 98,
+        "score": 0.5601249933242798,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "614fc316377e6a5e",
+        "page": 97,
+        "score": 0.5455820560455322,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "38eaf7f5c84855a9",
+        "page": 97,
+        "score": 0.5253997445106506,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "3091517e791c2508",
+        "page": 99,
+        "score": 0.5180560350418091,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "26c21625ec5435f7",
+        "page": 98,
+        "score": 0.507949709892273,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "f85dd94d0746410b",
+        "page": 99,
+        "score": 0.5013063549995422,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": 1,
+    "latency_s": 0.0013010000111535192
+  },
+  {
+    "id": "q40",
+    "query": "Which kinds of goods have inelastic demand and which are more price-sensitive?",
+    "filter": null,
+    "answerable": true,
+    "top": [
+      {
+        "id": "95c46a128d737c8b",
+        "page": 119,
+        "score": 0.6173208951950073,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "5ee0f0069452f647",
+        "page": 133,
+        "score": 0.5980813503265381,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "d532798f6979a20a",
+        "page": 124,
+        "score": 0.5902081727981567,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "95f36064b01409e2",
+        "page": 133,
+        "score": 0.5745953321456909,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "7cc539e31b9df4c7",
+        "page": 120,
+        "score": 0.5701505541801453,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "5b838c2f48a7f5da",
+        "page": 129,
+        "score": 0.5669062733650208,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "3845ee4d1a7249c4",
+        "page": 123,
+        "score": 0.5634969472885132,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "f8cdd1e60d692788",
+        "page": 118,
+        "score": 0.5634258985519409,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "30844565c99810e4",
+        "page": 123,
+        "score": 0.5626817941665649,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "370ee66be3086a7b",
+        "page": 132,
+        "score": 0.5527812242507935,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0013886999804526567
+  },
+  {
+    "id": "q52",
+    "query": "What was the median salary for nurses in 2020?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "fc76fd80de2baa58",
+        "page": 94,
+        "score": 0.4976292848587036,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "4920324692d7ee19",
+        "page": 95,
+        "score": 0.49097251892089844,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4fcd36d8a32970f5",
+        "page": 96,
+        "score": 0.4835853576660156,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "856c6941ac83977e",
+        "page": 95,
+        "score": 0.4798550605773926,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "5f311ad36d9b19c4",
+        "page": 112,
+        "score": 0.47902488708496094,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "1db13b2577bdc016",
+        "page": 110,
+        "score": 0.4707672595977783,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "29b2fe063b0851fd",
+        "page": 96,
+        "score": 0.4619802236557007,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "7f0205ffbc40e2da",
+        "page": 96,
+        "score": 0.45653748512268066,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "4419becc05a2662a",
+        "page": 95,
+        "score": 0.4496103525161743,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "509e40aad3221985",
+        "page": 93,
+        "score": 0.43441617488861084,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0014005000120960176
+  },
+  {
+    "id": "q53",
+    "query": "What is the price elasticity of demand for gasoline in Vietnam?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "6c30dee429f94fee",
+        "page": 57,
+        "score": 0.5360110998153687,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "a5e56ac55b98652e",
+        "page": 60,
+        "score": 0.5161066055297852,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "4e300708fc49eef7",
+        "page": 120,
+        "score": 0.5101026892662048,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "9a6a687ad9494d61",
+        "page": 121,
+        "score": 0.5033040046691895,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "0e870923b1d09523",
+        "page": 132,
+        "score": 0.49811673164367676,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "02420699a0cf7449",
+        "page": 129,
+        "score": 0.4931129813194275,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "1e07e304a60def2b",
+        "page": 61,
+        "score": 0.4837092161178589,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "da52673117baefe7",
+        "page": 120,
+        "score": 0.4722954034805298,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9a1a3780e44c26cb",
+        "page": 56,
+        "score": 0.4720863103866577,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "3906c65335ff8402",
+        "page": 56,
+        "score": 0.46726298332214355,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.0013435999862849712
+  },
+  {
+    "id": "q54",
+    "query": "Theo sách, tỷ lệ lạm phát của Mỹ năm 2015 là bao nhiêu?",
+    "filter": null,
+    "answerable": false,
+    "top": [
+      {
+        "id": "acda1c15b4a924e8",
+        "page": 103,
+        "score": 0.2745192050933838,
+        "rank": 1,
+        "hit": false
+      },
+      {
+        "id": "d9d0852490bfe3b3",
+        "page": 107,
+        "score": 0.25087296962738037,
+        "rank": 2,
+        "hit": false
+      },
+      {
+        "id": "87e26da6e4f0b189",
+        "page": 101,
+        "score": 0.24669259786605835,
+        "rank": 3,
+        "hit": false
+      },
+      {
+        "id": "1bb902ea784d7f9e",
+        "page": 102,
+        "score": 0.2418474555015564,
+        "rank": 4,
+        "hit": false
+      },
+      {
+        "id": "63dadd9259803ad4",
+        "page": 100,
+        "score": 0.2344384789466858,
+        "rank": 5,
+        "hit": false
+      },
+      {
+        "id": "3687d65d898fbceb",
+        "page": 102,
+        "score": 0.2343202829360962,
+        "rank": 6,
+        "hit": false
+      },
+      {
+        "id": "68e18f951c6016b3",
+        "page": 99,
+        "score": 0.23124468326568604,
+        "rank": 7,
+        "hit": false
+      },
+      {
+        "id": "24d1287b6369eca6",
+        "page": 64,
+        "score": 0.23071688413619995,
+        "rank": 8,
+        "hit": false
+      },
+      {
+        "id": "9494f9f815bb9475",
+        "page": 107,
+        "score": 0.2215968370437622,
+        "rank": 9,
+        "hit": false
+      },
+      {
+        "id": "0c1d484846bd0a5b",
+        "page": 134,
+        "score": 0.21931719779968262,
+        "rank": 10,
+        "hit": false
+      }
+    ],
+    "hit_rank": null,
+    "latency_s": 0.001442200009478256
+  }
+]

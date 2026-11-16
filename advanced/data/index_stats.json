@@ -1,0 +1,33 @@
+{
+  "pages_total": 974,
+  "pages_with_text": 950,
+  "candidate_visual_pages": 645,
+  "pages_with_visual_items": 633,
+  "visual_items_by_kind": {
+    "photo": 71,
+    "chart": 214,
+    "diagram": 102,
+    "table": 288,
+    "other": 118
+  },
+  "visual_failures": [],
+  "chunks_by_kind": {
+    "text": 3048,
+    "photo": 71,
+    "chart": 214,
+    "diagram": 102,
+    "table": 288,
+    "other": 118
+  },
+  "chunks_total": 3841,
+  "embedding_tokens": 810795,
+  "embedding_cost_usd": 0.0162159,
+  "vision_input_tokens": 2762848,
+  "vision_output_tokens": 171080,
+  "vision_cost_usd": 1.3788672,
+  "elapsed_s": {
+    "text": 2.341179099981673,
+    "vision_last_run": 308.49316850001924,
+    "embed": 40.761981599993305
+  }
+}
