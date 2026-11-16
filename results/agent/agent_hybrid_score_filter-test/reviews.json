@@ -1,104 +1,104 @@
 [
- {
-  "query_id": "t41",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "$67,490; cited chunk p.110-111 contains \"In 2014, the median salary for nurses was $67,490\" (it also says $67,490 for 2015 on p.110: book inconsistency)",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t42",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "810,000 and 24.6M -> 23.79M from cited p.135; extra $10 -> $15.98 detail is in context (p.117) but not cited",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t43",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Supply side; cited p.103 states it verbatim",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t44",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Definition matches p.123 verbatim",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t45",
-  "answer_grade": 2,
-  "citation_support": [
-   true,
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Definition from p.57, \"point on the curve\" from p.58",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t46",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "All three weather reasons from p.72; answered in English although asked in Vietnamese",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t47",
-  "answer_grade": 1,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Salaries rise and quantity uncertain are right (p.111), but the added sentence on where the new quantity lands mixes up \"initial\" and \"before the shifts\" (book: less than Qe1, more than Qe0). Partly correct; regraded 2->1 after review round 1",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t48",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "22.2% for both; p.124",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t49",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- },
- {
-  "query_id": "t50",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- },
- {
-  "query_id": "t51",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- }
+  {
+    "query_id": "t41",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "$67,490; cited chunk p.110-111 contains \"In 2014, the median salary for nurses was $67,490\" (it also says $67,490 for 2015 on p.110: book inconsistency)",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t42",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "810,000 and 24.6M -> 23.79M from cited p.135; extra $10 -> $15.98 detail is in context (p.117) but not cited",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t43",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Supply side; cited p.103 states it verbatim",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t44",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Definition matches p.123 verbatim",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t45",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Definition from p.57, \"point on the curve\" from p.58",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t46",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "All three weather reasons from p.72; answered in English although asked in Vietnamese",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t47",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Salaries rise and quantity uncertain are right (p.111), but the added sentence on where the new quantity lands mixes up \"initial\" and \"before the shifts\" (book: less than Qe1, more than Qe0). Partly correct; regraded 2->1 after review round 1",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t48",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "22.2% for both; p.124",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t49",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  },
+  {
+    "query_id": "t50",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  },
+  {
+    "query_id": "t51",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  }
 ]

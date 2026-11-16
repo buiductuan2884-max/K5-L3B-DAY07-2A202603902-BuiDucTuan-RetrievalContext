@@ -1,99 +1,99 @@
 [
- {
-  "query_id": "t41",
-  "answer_grade": 0,
-  "citation_support": [],
-  "context_grade": 0,
-  "reason": "Abstained: dense top-3 for \"median salary for nurses in 2014\" returned pp.94,112,96, not p.111",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t42",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "810,000; p.135",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t43",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Supply side; p.103",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t44",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Definition p.123",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t45",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Definition p.57",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t46",
-  "answer_grade": 0,
-  "citation_support": [],
-  "context_grade": 0,
-  "reason": "Called abstain without any search on the Vietnamese question",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t47",
-  "answer_grade": 1,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "Salaries rise and quantity uncertain are right (p.111), but the added sentence on where the new quantity lands mixes up \"initial\" and \"before the shifts\" (book: less than Qe1, more than Qe0). Partly correct; regraded 2->1 after review round 1",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t48",
-  "answer_grade": 2,
-  "citation_support": [
-   true
-  ],
-  "context_grade": 2,
-  "reason": "p.124",
-  "grader": "Opus (AI), to be confirmed by the student"
- },
- {
-  "query_id": "t49",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- },
- {
-  "query_id": "t50",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- },
- {
-  "query_id": "t51",
-  "abstention_correct": true,
-  "reason": "Searched and abstained; no claim made",
-  "grader": "Opus (AI), to be confirmed by the student",
-  "citation_support": []
- }
+  {
+    "query_id": "t41",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "reason": "Abstained: dense top-3 for \"median salary for nurses in 2014\" returned pp.94,112,96, not p.111",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t42",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "810,000; p.135",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t43",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Supply side; p.103",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t44",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Definition p.123",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t45",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Definition p.57",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t46",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "reason": "Called abstain without any search on the Vietnamese question",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t47",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "Salaries rise and quantity uncertain are right (p.111), but the added sentence on where the new quantity lands mixes up \"initial\" and \"before the shifts\" (book: less than Qe1, more than Qe0). Partly correct; regraded 2->1 after review round 1",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t48",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "reason": "p.124",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)"
+  },
+  {
+    "query_id": "t49",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  },
+  {
+    "query_id": "t50",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  },
+  {
+    "query_id": "t51",
+    "abstention_correct": true,
+    "reason": "Searched and abstained; no claim made",
+    "grader": "Bui Duc Tuan (student), draft by Opus (AI)",
+    "citation_support": []
+  }
 ]

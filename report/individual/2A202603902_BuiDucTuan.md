@@ -142,12 +142,12 @@ Grounded answer chấm trên 8 câu test có đáp án, thang 0/1/2. Cấu hình
 | Biểu đồ | 3/5 | 60% | at12 đúng mức 27–28% nhưng sai thời điểm đỉnh ("cuối 1940s–đầu 1950s", thực tế khoảng 1954). at16 nói đáy khoảng 30% năm 1980, thực tế khoảng 24% năm 1974. Cả hai do bản chép biểu đồ đường thiếu đỉnh/đáy |
 | Multi-hop | 4/4 | 100% | Phép tính hiện rõ và trích đủ hai nguồn; at18 cần cả hai phần Table 6.1 (p.144–145) |
 | Text | 4/4 | 100% | |
-| Thiếu bằng chứng | 6/6 | 100% | at30 nêu "Đức 2006 = 10,4%" trong lý do từ chối. Số này sách ghi ở p.784 (Table 21.4 lại ghi 9,8%), nên tôi tính là đạt |
-| **Toàn bộ** | **28/30** | **93,3%** | 0 lỗi hệ thống; 152 s cho 30 câu (trung bình 5,1 s); $0,30 |
+| Thiếu bằng chứng | 5/6 | 83,3% | at30 từ chối đúng nhưng lý do từ chối nêu "Đức 2006 = 10,4%", khác Table 21.4 (9,8%), nên tôi tính là không đạt |
+| **Toàn bộ** | **27/30** | **90,0%** | 0 lỗi hệ thống; 152 s cho 30 câu (trung bình 5,1 s); $0,30 |
 
 - **Trace, nhãn và evidence từng câu; thời gian, chi phí, lỗi hệ thống:**
   - Trace: `results/advanced/agent/advanced_gpt41-test/traces.json`.
-  - Nhãn và lý do từng câu: `results/advanced/test_labels.json`; AI (Opus) soạn nháp đối chiếu với trang gốc, tôi kiểm tra lại.
+  - Nhãn và lý do từng câu: `results/advanced/test_labels.json`; AI (Opus) soạn nháp đối chiếu với trang gốc, tôi đã kiểm tra lại từng câu và đổi at30 thành không đạt.
   - Retrieval trên test với câu hỏi gốc, 24 câu có đáp án:
     - dense: Hit@1 13, Hit@3 20, Hit@10 24;
     - BM25: 13 / 20 / 23;
@@ -157,7 +157,7 @@ Grounded answer chấm trên 8 câu test có đáp án, thang 0/1/2. Cấu hình
   - Tái lập: `python -m advanced.index_text`, rồi `python -m advanced.index_visual` (cache từng trang trong `advanced/data/cache/vision/`), rồi `python -m advanced.build_index`. Sau đó chạy `run_agent_bench` với `--questions advanced/data/questions.json --chunks advanced/data/chunks.json --chroma advanced/chroma_db --collection econ2e_full`. Chi tiết trong `advanced/README.md`.
   - Giới hạn:
     - Bản chép vision chỉ được kiểm tra ở các hình có trong benchmark.
-    - 28/30 phụ thuộc vào nhãn at30. Nếu tính at30 là không đạt thì còn 27/30 = 90,0%, vẫn đạt ngưỡng.
+    - 27/30 = 90,0% vừa đúng ngưỡng; chỉ cần thêm một câu sai là dưới ngưỡng.
     - Model chấm là cùng họ với model trả lời.
     - Một số câu test dùng lại bảng hoặc hình đã có trong câu dev, nên các sửa trên dev (`expand_region`, model `gpt-4.1`) có lợi trực tiếp cho at05 và at18.
     - Câu at19 tự cho sẵn giá trị $7,25 trong câu hỏi.
