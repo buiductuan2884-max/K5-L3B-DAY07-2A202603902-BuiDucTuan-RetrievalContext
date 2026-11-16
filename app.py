@@ -61,29 +61,46 @@ def _phrases(text):
     return [s.strip() for s in text.replace("\n", " ").split(". ") if len(s.strip()) >= 25]
 
 
+PDF_URL = "https://assets.openstax.org/oscms-prodcms/media/documents/Economics2e-OP_s2jF42u.pdf"
+
+
 @st.cache_data(max_entries=64)
-def page_png(page: int, chunk_text: str) -> bytes:
-    """Ảnh trang sách gốc, tô vàng phần chữ của chunk tìm thấy trên trang."""
+def page_png(page: int, chunk_text: str, evidence: str = "", region: str = "") -> bytes:
+    """Ảnh trang sách gốc: tô vàng phần chunk (chunk hình/bảng: tô chú thích region), tô xanh evidence gold."""
     import fitz
     with fitz.open(config.ADV_PDF) as doc:
         p = doc[page - 1]
-        for ph in _phrases(chunk_text):
-            for r in p.search_for(ph) or p.search_for(ph[:45]):
-                a = p.add_highlight_annot(r)
-                a.set_colors(stroke=(1, 0.85, 0))
-                a.update()
+        yellow = _phrases(chunk_text) + ([region] if region else [])
+        green = [s.strip() for s in evidence.replace("\n", " ").split(". ") if len(s.strip()) >= 6]  # giữ cả nhãn ngắn như "Table 6.1"
+        for phrases, color in ((yellow, (1, 0.85, 0)), (green, (0.3, 0.9, 0.4))):
+            for ph in phrases:
+                for r in p.search_for(ph) or p.search_for(ph[:45]):
+                    a = p.add_highlight_annot(r)
+                    a.set_colors(stroke=color)
+                    a.update()
         return p.get_pixmap(matrix=fitz.Matrix(1.6, 1.6)).tobytes("png")
 
 
-def book_page(c, key):
-    if not st.toggle(f"Xem trang sách gốc (tr. {c['page']})", key=key):
+def gold_evidence(q, first, last):
+    """Evidence gold nằm trong khoảng trang; gold dạng hình là mô tả, nên tô chú thích region (vd "Figure 3.4")."""
+    return ". ".join(g.get("region", "") if g.get("evidence_type") == "visual" else g["evidence"]
+                     for g in (q or {}).get("gold", []) if first <= g["page"] <= last)
+
+
+def book_page(c, key, q=None):
+    first, last = c["page"], c.get("metadata", {}).get("page_end") or c["page"]
+    if not st.toggle(f"Xem trang sách gốc (tr. {first}{'' if last == first else f'-{last}'})", key=key):
         return
+    st.markdown(f"[Mở PDF gốc ở trang {first}]({PDF_URL}#page={first}) · 🟨 chunk · 🟩 bằng chứng gold")
     if not Path(config.ADV_PDF).exists():
-        return st.info(f"Chưa có file PDF ({config.ADV_PDF}); không hiện được ảnh trang gốc.")
-    st.image(page_png(c["page"], c["text"]), caption=f"Trang PDF {c['page']}")
+        return st.info(f"Chưa có file PDF ({config.ADV_PDF}); dùng link ở trên để mở trang gốc.")
+    reg = c.get("metadata", {}).get("region", "")
+    reg = "" if reg in ("", "text", "unlabelled image") else reg
+    for pg in range(first, last + 1):
+        st.image(page_png(pg, c["text"], gold_evidence(q, pg, pg), reg), caption=f"Trang PDF {pg}")
 
 
-def chunk_card(c, head, key, pdf=True, limit=300):
+def chunk_card(c, head, key, pdf=True, limit=300, q=None):
     with st.container(border=True):
         st.markdown(head)
         t = c["text"]
@@ -92,10 +109,23 @@ def chunk_card(c, head, key, pdf=True, limit=300):
             with st.expander("Toàn văn"):
                 st.text(t)
         if pdf:
-            book_page(c, key)
+            book_page(c, key, q)
 
 
-def trace_view(t, chunks, key, review=None, label=None):
+def gold_view(q, key):
+    """Bằng chứng gold của câu benchmark, kèm trang PDF tô xanh."""
+    if not (q or {}).get("gold"):
+        return
+    st.markdown("**Bằng chứng gold**")
+    for i, g in enumerate(q["gold"]):
+        with st.container(border=True):
+            st.markdown(f"tr. {g['page']}" + (f" · {g['region']}" if g.get("region") else "")
+                        + (" · (mô tả hình)" if g.get("evidence_type") == "visual" else ""))
+            st.text(g["evidence"])
+            book_page({"page": g["page"], "text": "", "metadata": {}}, f"{key}-gold{i}", q)
+
+
+def trace_view(t, chunks, key, review=None, label=None, q=None):
     """Hiện một lượt chạy agent: các lần search, verify, câu trả lời + trích dẫn, trạng thái, chi phí."""
     st.markdown(f"**Trạng thái:** {t['status']} · chi phí ${t.get('cost_usd', 0):.5f} · "
                 f"độ trễ {t.get('latency_s', 0):.1f}s · {t.get('n_model_calls', '?')} lần gọi model")
@@ -123,9 +153,10 @@ def trace_view(t, chunks, key, review=None, label=None):
     for i, cid in enumerate(t["citations"]):
         c = chunks.get(cid)
         if c:
-            chunk_card(c, f"`{cid[:8]}` · tr. {c['page']}", f"{key}-cite{i}")
+            chunk_card(c, f"`{cid[:8]}` · tr. {c['page']}", f"{key}-cite{i}", q=q)
         else:
             st.warning(f"Không tìm thấy chunk {cid} trong kho đã lưu.")
+    gold_view(q, key)
     if label:
         st.markdown(f"**Nhãn:** {'✅' if label['label'] == 'pass' else '❌'} {label['label']} · {label['reason']}")
     if review:
@@ -179,7 +210,7 @@ with tabs[1]:
             st.subheader(name)
             for h in t[qid]["top"][:5]:
                 c = ch[h["id"]]
-                chunk_card(c, f"**#{h['rank']} {'✓' if h['hit'] else '✗'}** · {h['score']:.3f} · tr. {h['page']}", f"r-{name}-{h['id']}", pdf=False, limit=200)
+                chunk_card(c, f"**#{h['rank']} {'✓' if h['hit'] else '✗'}** · {h['score']:.3f} · tr. {h['page']}", f"r-{name}-{h['id']}", limit=200, q=q)
 
 # ---------------------------------------------------------------- 3
 with tabs[2]:
@@ -210,7 +241,7 @@ with tabs[2]:
         qid = st.selectbox("Câu hỏi", list(traces), key=f"aq-{d.name}", format_func=lambda i: f"{i}: {traces[i]['question']}")
         st.write(f"**Câu hỏi:** {traces[qid]['question']}")
         st.write(f"**Đáp án mong đợi:** {qm[qid]['expected_answer'] if qm[qid]['answerable'] else '(không có trong sách, phải abstain)'}")
-        trace_view(traces[qid], chunk_map(BASIC_CHUNKS), f"a-{d.name}-{qid}", review=rev.get(qid))
+        trace_view(traces[qid], chunk_map(BASIC_CHUNKS), f"a-{d.name}-{qid}", review=rev.get(qid), q=qm[qid])
 
 # ---------------------------------------------------------------- 4
 with tabs[3]:
@@ -279,4 +310,4 @@ with tabs[4]:
             st.caption("Gold: " + "; ".join(f"tr.{g['page']} ({g.get('region')}, {g.get('evidence_type')})" for g in q["gold"]))
         if qid not in labels:
             st.info("Chưa có nhãn chấm cho câu này.")
-        trace_view(traces[qid], chunk_map(ADV_CHUNKS), f"n-{d.name}-{qid}", label=labels.get(qid))
+        trace_view(traces[qid], chunk_map(ADV_CHUNKS), f"n-{d.name}-{qid}", label=labels.get(qid), q=q)
